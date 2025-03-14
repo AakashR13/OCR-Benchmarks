@@ -31,6 +31,11 @@ def image_to_base64(image):
     image.save(img_buffer, format="PNG")
     return base64.b64encode(img_buffer.getvalue()).decode("utf-8")
 
+# gpt4o works(images)
+# azure works(pdfs)
+# omniai(400)
+# mistral(ssl cert)
+
 
 # def ocr_gpt4o(pdf_file):
 #     start_time = time.time()

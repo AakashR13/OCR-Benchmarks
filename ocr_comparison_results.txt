@@ -1,0 +1,9 @@
+OCR Comparison Results:
+
+Readability: (19.1, 17.7)
+Lexical Similarity: 0.6287318481103996
+Structural Similarity: 0.6059574276179309
+Coherence: (94.05263157894737, 68.81739130434782)
+Better Text: File 2
+
+Based on readability and coherence, File 2 is likely more accurate.
