@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "1b971427-272a-4e35-aa7e-88b1b6be077c",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 |\n|---|---|---|---|\n|  | At 1.3.21 | Cash flow | At 28.2.22 |\n|  | \u00a3 | \u00a3 | \u00a3 |\n| Net cash |  |  |  |\n| Cash at bank | 2,654,639 | 945,952 | 3,600,591 |\n|  | 2,654,639 | 945,952 | 3,600,591 |\n| Debt |  |  |  |\n| Debts falling due within 1 year |  | (20,557) | (20,557) |\n| Debts falling due after 1 year | 1 | (224,643) | (224,643) |\n|  |  | (245,200) | (245,200) |\n| Total | 2,654,639 | 700,752 | 3,355,391 |",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.8879, \"y\": 6.7551}, {\"x\": 7.6998, \"y\": 6.7551}, {\"x\": 7.7013, \"y\": 8.3974}, {\"x\": 0.8874, \"y\": 8.396}]"
+    }
+}

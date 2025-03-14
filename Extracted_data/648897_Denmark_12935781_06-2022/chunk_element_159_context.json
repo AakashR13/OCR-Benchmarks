@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "18432f6e-393c-4fef-90ac-4889c098e162",
+    "element_text": "{\"chunk\": \"31.921.315\\n31.450.908\\n1\\nS\\u00e6rlige poster\\nSpecial items\\n10\\nEventualforpligtelser\\nContingent liabilities\\n11\\nPants\\u00e6tninger og sikkerhedsstillelser\\nAssets charged and security\\n12\\nKontraktlige forpligtelser\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\ninforevision\\n21\", \"context\": \"This chunk is part of the balance sheet section of the annual report, and it contains information about the company's assets, liabilities, and contingent liabilities.\"}",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 0.6244, \"y\": 0.5279}, {\"x\": 10.1819, \"y\": 0.5279}, {\"x\": 10.1819, \"y\": 11.2478}, {\"x\": 0.6244, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

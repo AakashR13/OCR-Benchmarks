@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "7ec9ca28-4d36-45a2-b99c-fe1389ba992a",
+    "element_text": "{\"chunk\": \"registered number and registered office address can be found on the Information page.\\nThe presentation currency of the financial statements is GB Pound Sterling (\\u00a3), which is the company's functional currency.\\n2.\\nSTATEMENT OF COMPLIANCE\\nThese financial statements have been prepared in accordance with Financial Reporting Standard 102 \\\"The Financial\\nReporting Standard applicable in the UK and Republic of Ireland\\\" and the Companies Act 2006.\\n3.\\nACCOUNTING POLICIES\\nBasis of preparing the financial statements\", \"context\": \"This chunk provides the statutory information about the company, including the registered number and registered office address, as well as the basis of preparation of the financial statements in accordance with Financial Reporting Standard 102 and the Companies Act 2006.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.4924, \"y\": 1.741}, {\"x\": 7.7664, \"y\": 1.741}, {\"x\": 7.7664, \"y\": 3.6088}, {\"x\": 0.4924, \"y\": 3.6088}]",
+        "document_part": 0
+    }
+}

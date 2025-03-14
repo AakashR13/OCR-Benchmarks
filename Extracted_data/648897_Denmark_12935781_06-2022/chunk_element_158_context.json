@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "4945ed94-1b0b-4449-9261-0d1206aebc9f",
+    "element_text": "{\"chunk\": \"Periodeafgr\\u00e6nsningsposter\\n8.683.733\\n6.317.140\\nDeferred income\\nKORTFRISTEDE G\\u00c6LDSFORPLIGTELSER\\n13.775.694\\n15.524.615\\nSHORT-TERM LIABILITIES OTHER THAN PROVISIONS\\nG\\u00c6LDSFORPLIGTELSER\\n13.775.694\\n15.524.615\\nLIABILITIES OTHER THAN PROVISIONS\\nPASSIVER I ALT\\nTOTAL EQUITY AND LIABILITIES\", \"context\": \"This chunk appears in the Balance Sheet section of the financial statements, which presents the company's assets, liabilities, and equity as of the balance sheet date.\"}",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 1.0203, \"y\": 7.71}, {\"x\": 7.5583, \"y\": 7.71}, {\"x\": 7.5583, \"y\": 9.6895}, {\"x\": 1.0203, \"y\": 9.6895}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "f359d57e-d76e-4977-b007-b309536b54cd",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| Entities that provide key management personnel services to | the entity 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Professional fecs | 156,202 | 185,587 |\n| Amount due to related party | 13,224 | 20,268 |",
+    "element_metadata": {
+        "page_number": 28,
+        "bounding_box": "[{\"x\": 0.9066, \"y\": 7.5147}, {\"x\": 7.6832, \"y\": 7.5064}, {\"x\": 7.6833, \"y\": 8.1977}, {\"x\": 0.9059, \"y\": 8.2072}]"
+    }
+}

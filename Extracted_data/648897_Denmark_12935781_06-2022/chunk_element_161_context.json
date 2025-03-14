@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "42f72641-7976-4785-ac6e-fefe2fb65447",
+    "element_text": "{\"chunk\": \"10.055.356\\nEquity at 1/7 2020\\nUdloddet udbytte\\n0\\n0\\n0\\n-2.700.000\\n-2.700.000\\nDividends paid\\nValutakursregulering i tilknyttede virksomheder\\n33.394\\n33.394\\nNet exchange differences, investments in group enterprises\\nOverf\\u00f8rt til reserve\\nfor udviklingsomkostninger\\n0\\n188.577\\n0\\n0\\n188.577\", \"context\": \"This chunk appears to be a part of the statement of changes in equity, showing the changes in equity during the period from 1 July 2020 to 30 June 2021.\"}",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 1.0151, \"y\": 2.5533}, {\"x\": 10.192, \"y\": 2.5533}, {\"x\": 10.192, \"y\": 3.8781}, {\"x\": 1.0151, \"y\": 3.8781}]",
+        "document_part": 0
+    }
+}

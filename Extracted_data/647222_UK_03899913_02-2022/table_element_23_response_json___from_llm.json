@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a breakdown of debtors' amounts falling due within one year for the years 2022 and 2021. It includes categories such as trade debtors, other debtors, sundry debtors, tax, deferred tax asset, and called up share capital not paid. The table shows the amounts in British pounds (\u00a3) for each category across the two years.",
+        "table_in_markdown_format": "| Category                        | 2022 (\u00a3) | 2021 (\u00a3) |\n|---------------------------------|----------|----------|\n| Trade debtors                   | 2,684,451| 2,517,161|\n| Other debtors                   | 4,120    | 40,897   |\n| Sundry debtors                  | 129      | 129      |\n| Tax                             | 106,086  | 133,624  |\n| Deferred tax asset              |          | 6,733    |\n| Called up share capital not paid|          | 350      |\n| **Total**                       | 2,794,786| 2,698,894|",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the amount for trade debtors in 2022?",
+                "answer": "2,684,451"
+            },
+            {
+                "question": "How much did other debtors amount to in 2021?",
+                "answer": "40,897"
+            },
+            {
+                "question": "What is the total amount of debtors for 2022?",
+                "answer": "2,794,786"
+            },
+            {
+                "question": "Was there any deferred tax asset in 2022?",
+                "answer": "No, there was no deferred tax asset in 2022."
+            },
+            {
+                "question": "What was the amount for tax in 2021?",
+                "answer": "133,624"
+            },
+            {
+                "question": "Did the called up share capital not paid have any amount in 2022?",
+                "answer": "No, there was no amount for called up share capital not paid in 2022."
+            },
+            {
+                "question": "What was the total amount of debtors in 2021?",
+                "answer": "2,698,894"
+            },
+            {
+                "question": "How much was the sundry debtors amount in both years?",
+                "answer": "129 in both 2022 and 2021."
+            },
+            {
+                "question": "What was the difference in trade debtors between 2022 and 2021?",
+                "answer": "167,290"
+            },
+            {
+                "question": "Was there an increase or decrease in the total debtors from 2021 to 2022?",
+                "answer": "There was an increase in the total debtors from 2,698,894 in 2021 to 2,794,786 in 2022."
+            }
+        ],
+        "table_type": "Balance Sheet"
+    }
+]

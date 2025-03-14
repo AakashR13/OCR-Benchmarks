@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "73c13d52-87b1-41d0-ab0c-14939507afea",
+    "element_text": "{\"chunk\": \"Sambeskatningsbidrag mellem de sambeskattede\\nselskaber, som ikke er afregnet p\\u00e5 balancedagen,\\nklassificeres som sambeskatningsbidrag under enten\\ntilgodehavender eller g\\u00e6ldsforpligtelser.\\nJoint tax contributions between the jointly taxed\\ncompanies which have not been settled at the balance\\nsheet date are classified as joint tax contributions in\\nreceivables or liabilities.\", \"context\": \"The chunk discusses the classification of joint tax contributions between jointly taxed companies that have not been settled at the balance sheet date.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 9.1211}, {\"x\": 7.34, \"y\": 9.1211}, {\"x\": 7.34, \"y\": 9.8164}, {\"x\": 0.6041, \"y\": 9.8164}]",
+        "document_part": 0
+    }
+}

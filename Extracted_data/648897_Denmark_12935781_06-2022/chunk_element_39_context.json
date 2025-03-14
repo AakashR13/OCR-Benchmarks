@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "e76fc510-6724-4a97-ad0e-5af62922e017",
+    "element_text": "{\"chunk\": \"altid vil afd\\u00e6kke v\\u00e6sentlig fejlinformation, n\\u00e5r s\\u00e5dan\\nfindes. Fejlinformationer kan opst\\u00e5 som f\\u00f8lge af\\nbesvigelser eller fejl og kan betragtes som v\\u00e6sentlige, hvis\\ndet med rimelighed kan forventes, at de enkeltvis eller\\nsamlet har indflydelse p\\u00e5 de \\u00f8konomiske beslutninger,\", \"context\": \"This chunk is part of the independent auditor's audit report, specifically discussing the auditor's responsibility for detecting material misstatements in the financial statements, whether due to fraud or error.\"}",
+    "element_metadata": {
+        "page_number": 7,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 6.7507}, {\"x\": 3.9086, \"y\": 6.7507}, {\"x\": 3.9086, \"y\": 7.6288}, {\"x\": 0.6091, \"y\": 7.6288}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "1c9c7958-a18f-4e68-8a0b-d5cbe02b3f36",
+    "element_text": "{\"chunk\": \"retvisende billede af selskabets aktiver, passiver og\\nfinansielle stilling pr. 30. juni 2022 samt af resultatet af\\nselskabets aktiviteter for regnskabs\\u00e5ret 1. juli 2021 - 30.\\njuni 2022 i overensstemmelse med \\u00e5rsregnskabsloven.\\nGrundlag for konklusion\", \"context\": \"This chunk is part of the auditor's report, where the auditor expresses their opinion that the financial statements give a true and fair view of the company's financial position and results of operations in accordance with the Danish Financial Statements Act.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 4.0301}, {\"x\": 3.7614, \"y\": 4.0301}, {\"x\": 3.7614, \"y\": 5.4564}, {\"x\": 0.6041, \"y\": 5.4564}]",
+        "document_part": 0
+    }
+}

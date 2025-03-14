@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "d2fd6c2d-5560-4078-97a5-de0105c47d43",
+    "element_text": "{\"chunk\": \"Auditors' responsibilities for the audit of the financial statements\\nOur objectives are to obtain reasonable assurance about whether the financial statements as whole are free from material\\nmisstatements, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high\\nlevel of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material\", \"context\": \"The chunk appears to be a section of the Report of the Independent Auditors, which outlines the auditors' responsibilities in conducting the audit of the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 1.1116}, {\"x\": 7.7664, \"y\": 1.1116}, {\"x\": 7.7664, \"y\": 1.7359}, {\"x\": 0.4772, \"y\": 1.7359}]",
+        "document_part": 0
+    }
+}

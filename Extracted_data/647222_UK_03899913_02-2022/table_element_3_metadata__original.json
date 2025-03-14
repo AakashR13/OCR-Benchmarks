@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "66db160f-86e5-4cfb-8a5a-3688d43f16f0",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |\n|---|---|---|---|---|---|\n|  | Notes | 2022 |  | 2021 |  |\n|  |  | \u00a3 \u00a3 |  | \u00a3 | \u00a3 |\n| REVENUE | 4 |  | 14,269,245 |  | 14,133,195 |\n| Cost of sales |  |  | 7,739,014 |  | 8,692,776 |\n| GROSS PROFIT |  | 6,530,231 |  |  | 5,440,419 |\n| Administrative expenses |  | 4,594,228 |  |  | 4,816,475 |\n|  |  | 1,936,003 |  |  | 623,944 |\n| Other operating income | 5 |  | 19,145 |  | 194,724 |\n| OPERATING PROFIT | 7 |  | 1,955,148 |  | 818,668 |\n| Income from shares in group undertakings |  |  |  | 180,467 |  |\n| Interest receivable and similar income |  | 12,841 |  |  |  |\n|  |  |  | 12,841 |  | 180,467 |\n|  |  |  | 1,967,989 |  | 999,135 |\n| Amounts written off investments | 8 |  |  |  | 140,346 |\n|  |  | 1,967,989 |  |  | 858,789 |\n| Interest payable and similar expenses | 9 |  | 8,674 |  |  |\n| PROFIT BEFORE TAXATION |  |  | 1,959,315 |  | 858,789 |\n| Tax on profit | 10 | 409,699 |  |  | 93,047 |\n| PROFIT FOR THE FINANCIAL YEAR |  |  | 1,549,616 |  | 765,742 |\n| OTHER COMPREHENSIVE INCOME |  |  |  |  |  |\n| TOTAL COMPREHENSIVE INCOME FOR THE YEAR |  |  | 1,549,616 |  | 765,742 |",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 0.4392, \"y\": 1.4028}, {\"x\": 7.8435, \"y\": 1.4066}, {\"x\": 7.8405, \"y\": 6.2162}, {\"x\": 0.4344, \"y\": 6.21}]"
+    }
+}

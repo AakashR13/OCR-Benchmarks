@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "7cd24471-ce05-4120-969a-3a17ebc75e51",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |\n|---|---|---|---|---|\n| Allotted, issued\nNumber: | and fully paid:\nClass: | Nominal value: | 2022 | 2021 |\n|  |  |  | \u00a3 | \u00a3 |\n| 5,988 | \"A\" Ordinary voting | \u00a31 | 5,988 | 7,040 |\n| (2021 - 7,040 ) |  |  |  |  |\n| 2 | \"B\" Ordinary non-voting | \u00a31 | 2 | 2 |\n| 1 | \"C\" Ordinary non-voting\n:unselected: |  | 1 | 1 |\n| 1 | \"D\" Ordinary non-voting\n:unselected: | \u00a31 | 1 | 1 |\n| 2 | \"E\" Ordinary non-voting\n:unselected: | \u00a31 | 2 | 2 |\n| 2 | \"G\" Ordinary non-voting\n:unselected: | \u00a31 | 2 | 2 |\n|  |  |  | 5,996 | 7,048 |",
+    "element_metadata": {
+        "page_number": 27,
+        "bounding_box": "[{\"x\": 0.9005, \"y\": 3.8775}, {\"x\": 7.7038, \"y\": 3.9142}, {\"x\": 7.6995, \"y\": 5.561}, {\"x\": 0.8951, \"y\": 5.5232}]"
+    }
+}

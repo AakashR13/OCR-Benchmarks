@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "60c0341a-6548-4b1c-80ba-4b09ba8fdb5d",
+    "element_text": "{\"chunk\": \"- the Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal requirements.\\nPage 6\\nREPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF\\nCROWN JEWELS CONSULTANTS LTD\\nMatters on which we are required to report by exception\\nIn the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have not\\nidentified material misstatements in the Strategic Report or the Report of the Directors.\", \"context\": \"The chunk relates to the auditor's opinion on the Strategic Report and Report of the Directors, stating that no material misstatements were identified.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 0.4771}, {\"x\": 7.7664, \"y\": 0.4771}, {\"x\": 7.7664, \"y\": 11.1716}, {\"x\": 0.4772, \"y\": 11.1716}]",
+        "document_part": 0
+    }
+}

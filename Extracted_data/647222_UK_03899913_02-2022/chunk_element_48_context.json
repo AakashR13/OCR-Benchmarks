@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "999b5244-3856-4bc4-b7b9-1a86bc25451c",
+    "element_text": "{\"chunk\": \"STATEMENT OF FINANCIAL POSITION\\n28 FEBRUARY 2022\\nNotes\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\n\\u00a3\\n\\u00a3\\nFIXED ASSETS\\nProperty, plant and equipment\\n12\\n183,424\\n87,259\\nInvestments\\n13\\n150\\n183,424\\n87,409\\nCURRENT ASSETS\\nDebtors\\n14\\n2,794,786\\n2,698,894\\nPrepayments and accrued income\\n247,210\\n270,327\\nCash at bank\\n3,600,591\\n2,654,639\\n6,642,587\", \"context\": \"This chunk contains the Statement of Financial Position for Crown Jewels Consultants Ltd as of 28 February 2022, showing the company's fixed assets, current assets, and other balance sheet items.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 0.7918}, {\"x\": 7.6294, \"y\": 0.7918}, {\"x\": 7.6294, \"y\": 3.1419}, {\"x\": 0.4822, \"y\": 3.1419}]",
+        "document_part": 0
+    }
+}

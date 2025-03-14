@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "f2bb277f-15cb-457c-b157-bcf3e5276352",
+    "element_text": "{\"chunk\": \"items measured in terms of historical cost in a foreign currency are not retranslated.\\nExchange differences are recognised in profit or loss in the period in which they arise.\\nLeased assets\\nLeases which do not transfer substantially all risks and rewards of ownership to the company are classified as operating\\nleases. Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.\", \"context\": \"This chunk describes the company's accounting policies for foreign currency translation and operating leases.\"}",
+    "element_metadata": {
+        "page_number": 19,
+        "bounding_box": "[{\"x\": 0.9289, \"y\": 2.6749}, {\"x\": 7.7766, \"y\": 2.6749}, {\"x\": 7.7766, \"y\": 3.7713}, {\"x\": 0.9289, \"y\": 3.7713}]",
+        "document_part": 0
+    }
+}

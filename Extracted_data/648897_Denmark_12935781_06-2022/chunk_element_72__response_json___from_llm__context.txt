@@ -1,0 +1,1 @@
+This chunk describes the method of calculating amortised cost for certain financial assets and liabilities, where the difference between cost and nominal amount is distributed over the term.

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "1e20bb3a-58ef-405a-87ad-5a55c3f14498",
+    "element_text": "{\"chunk\": \"till\\u00e6g/fradrag af den akkumulerede afskrivning af\\nforskellen mellem kostprisen og det nominelle bel\\u00f8b.\\nHerved fordeles kurstab og -gevinst over l\\u00f8betiden.\\nCertain financial assets and liabilities are measured at\\namortised cost, by which a constant redemption yield is\\nrecognised over the term. Amortised cost is calculated as\\noriginal cost less instalments and addition/deduction of\", \"context\": \"This chunk describes the method of calculating amortised cost for certain financial assets and liabilities, where the difference between cost and nominal amount is distributed over the term.\"}",
+    "element_metadata": {
+        "page_number": 11,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 3.1063}, {\"x\": 7.4872, \"y\": 3.1063}, {\"x\": 7.4872, \"y\": 4.3448}, {\"x\": 0.6091, \"y\": 4.3448}]",
+        "document_part": 0
+    }
+}

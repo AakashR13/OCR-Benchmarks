@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "1ae7910e-7792-4426-ac42-2ffff94d530a",
+    "element_text": "{\"chunk\": \"normale afskrivninger. Hvis dette er tilf\\u00e6ldet, foretages\\nder nedskrivning af hvert enkelt aktiv henholdsvis gruppe\\naf aktiver til lavere genindvindingsv\\u00e6rdi.\\nSom genindvingsv\\u00e6rdi anvendes den h\\u00f8jeste v\\u00e6rdi af\\nforventet nettosalgspris og kapitalv\\u00e6rdi. Kapitalv\\u00e6rdi\", \"context\": \"The given chunk describes the company's policy for assessing and accounting for impairment of intangible and tangible fixed assets.\"}",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 7.3293}, {\"x\": 3.8477, \"y\": 7.3293}, {\"x\": 3.8477, \"y\": 8.578}, {\"x\": 0.6091, \"y\": 8.578}]",
+        "document_part": 0
+    }
+}

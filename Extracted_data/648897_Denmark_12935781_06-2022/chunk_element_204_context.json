@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "fd79d2e3-24f5-4800-a995-5de9922ad040",
+    "element_text": "{\"chunk\": \"vice <penneo@penneo.com>. Dette er din garanti for, at indholdet af dokumentet\\ner u\\u00e6ndret.\\nDu har mulighed for at efterpr\\u00f8ve de kryptografiske signeringsbeviser indle-\\njret i dokumentet ved at anvende Penneos validator p\\u00e5 f\\u00f8lgende websted:\\nhttps://penneo.com/validate\", \"context\": \"This chunk describes how the document is protected by a digital signature and how the reader can verify the integrity of the document using Penneo's validator.\"}",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 4.2131, \"y\": 10.3827}, {\"x\": 7.9445, \"y\": 10.3827}, {\"x\": 7.9445, \"y\": 11.2851}, {\"x\": 4.2131, \"y\": 11.2851}]",
+        "document_part": 0
+    }
+}

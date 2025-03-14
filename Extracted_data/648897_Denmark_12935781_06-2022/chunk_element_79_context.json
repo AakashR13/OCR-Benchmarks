@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "1d2b017f-d1f4-4e3a-b242-09f9ad537cbd",
+    "element_text": "{\"chunk\": \"Som indt\\u00e6gtskriterium anvendes produktionskriteriet,\\ns\\u00e5ledes at nettooms\\u00e6tningen omfatter \\u00e5rets fakturerede\\noms\\u00e6tning reduceret med forudbetalinger, og med till\\u00e6g\\nfor igangv\\u00e6rende arbejder m\\u00e5lt til salgsv\\u00e6rdi.\\nNettooms\\u00e6tningen m\\u00e5les til dagsv\\u00e6rdien ekskl. moms og\", \"context\": \"The chunk describes the company's revenue recognition policy, specifically the use of the percentage-of-completion method to measure net revenue, which includes invoiced revenue, deductions for prepayments, and additions for work in progress measured at sales value. This is located in the Accounting Policies section of the annual report.\"}",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 3.7713}, {\"x\": 3.8832, \"y\": 3.7713}, {\"x\": 3.8832, \"y\": 4.6494}, {\"x\": 0.6091, \"y\": 4.6494}]",
+        "document_part": 0
+    }
+}

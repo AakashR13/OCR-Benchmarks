@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "834ef76c-da37-478a-bb64-fad49bad29fb",
+    "element_text": "{\"chunk\": \"S\\u00f8borg, 11th October 2022\\ninforevision\\nstatsautoriseret revisionsaktieselskab\\n(cvr 19263096)\\nSimon Morthorst\\nstatsautoriseret revisor\\nState Authorized Public Accountant\\nmne29383\\nWe communicate with those charged with governance\\nregarding, among other matters, the planned scope and\\ntiming of the audit and significant audit findings,\\nincluding any significant deficiencies in internal control\\nthat we identify during our audit.\\nStatement on the Management's review\", \"context\": \"This chunk is part of the Independent Auditor's Audit Report section of the annual report. It describes the auditor's communication with those charged with governance regarding the audit, and provides a statement on the Management's Review.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 1.2689}, {\"x\": 7.4517, \"y\": 1.2689}, {\"x\": 7.4517, \"y\": 10.1565}, {\"x\": 0.6041, \"y\": 10.1565}]",
+        "document_part": 0
+    }
+}

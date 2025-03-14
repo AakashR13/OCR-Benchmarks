@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "6470dd87-60d8-4fe6-a3ea-3015bdf69182",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 |\n|---|---|---|---|\n| Erik Juel Ellinghaus |  | Erik Juel Ellinghaus |  |\n| Adm. direkt\u00f8r |  | Bestyrelsesmedlem |  |\n| Serienummer: a8a4f1bb-59d1-4101-8269-085833f2d7d7 |  | Serienummer: a8a4f1bb-59d1-4101-8269-085833f2d7d7 |  |\n| IP: 78.31.xxx.xxx |  | IP: 78.31.xxx.xxx |  |\n| 2022-10-19 05:48:23 UTC | Mit &I | 2022-10-19 05:48:23 UTC | Mit &D\n:selected: |\n| Erik Bakke |  | Kristoffer Basse |  |\n| Bestyrelsesmedlem |  | Bestyrelsesformand |  |\n| Serienummer: PID:9208-2002-2-696999476528 |  | Serienummer: PID:9208-2002-2-461718297233 |  |\n| IP: 194.192.xxx.xxx | NEM ID :selected: V | IP: 83.94.xxx.xxx | NEM ID :selected: |\n| 2022-10-19 08:52:56 UTC |  | 2022-10-19 10:10:36 UTC |  |\n| Lars Bj\u00f8rn Dupont Jensen |  | Daniel C. Jakobsen |  |\n| Bestyrelsesmedlem |  | Statsautoriseret revisor |  |\n| Serienummer: PID:9208-2002-2-370489719918 |  | Serienummer: CVR:19263096-RID:81743404 |  |\n| IP: 217.74.xxx.xxx | NEM ID :selected: | IP: 93.165.xxx.xxx | NEM ID :selected: |\n| 2022-10-19 10:18:52 UTC |  | 2022-10-19 10:34:30 UTC |  |\n| Simon Morthorst |  | Kristoffer Basse |  |\n| Statsautoriseret revisor |  | Dirigent |  |\n| Serienummer: CVR: 19263096-RID:58129611 |  | Serienummer: PID:9208-2002-2-461718297233 |  |\n| IP: 80.160.xxx.xxx 2022-10-20 06:22:52 UTC | NEM ID :selected: | IP: 109.58.xxx.xxx 2022-10-20 08:25:30 UTC | NEM ID :selected: |",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 0.4123, \"y\": 1.9861}, {\"x\": 7.8609, \"y\": 1.9824}, {\"x\": 7.8631, \"y\": 7.7913}, {\"x\": 0.4127, \"y\": 7.7941}]"
+    }
+}

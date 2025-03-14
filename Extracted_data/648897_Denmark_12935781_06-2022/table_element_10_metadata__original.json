@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "b723acf8-572f-4e90-883e-535d94df76b2",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n|  | Useful lives | Residual value |\n| Leasehold improvements |  | 0-20% |\n|  | 5 y. |  |\n| Other fixtures, |  |  |\n| etc. | 5 y. | 0-10% |",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 4.2442, \"y\": 3.0447}, {\"x\": 7.6399, \"y\": 3.0411}, {\"x\": 7.6434, \"y\": 4.5654}, {\"x\": 4.247, \"y\": 4.5682}]"
+    }
+}

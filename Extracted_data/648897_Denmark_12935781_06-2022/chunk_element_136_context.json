@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a6234f9b-2c75-4f77-9877-6f0b0286815d",
+    "element_text": "{\"chunk\": \"g\\u00e6ldsmetode. Der er hensat til udskudt skat med 22 % af\\nalle midlertidige forskelle mellem regnskabsm\\u00e6ssig og\\nskattem\\u00e6ssig v\\u00e6rdi af aktiver og forpligtelser.\\nDeferred tax is measured according to the liability\\nmethod. Provision has been made for deferred tax by 22\\n% on all temporary differences between carrying amount\\nand tax-based value of assets and liabilities.\", \"context\": \"The chunk describes the company's accounting policy for deferred tax, which is measured according to the liability method with a provision for deferred tax of 22% on temporary differences between carrying amount and tax-based value of assets and liabilities.\"}",
+    "element_metadata": {
+        "page_number": 18,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 2.751}, {\"x\": 7.5025, \"y\": 2.751}, {\"x\": 7.5025, \"y\": 3.4464}, {\"x\": 0.6041, \"y\": 3.4464}]",
+        "document_part": 0
+    }
+}

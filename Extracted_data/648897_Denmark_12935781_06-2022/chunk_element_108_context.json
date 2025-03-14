@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "868c1369-4455-48a9-89ab-40b87c663d2b",
+    "element_text": "{\"chunk\": \"driftsmateriel og\\ninventar\\n5 \\u00e5r\\n0-10%\\nSm\\u00e5aktiver med en levetid under et \\u00e5r er omkostningsf\\u00f8rt\\ni resultatopg\\u00f8relsen under eksterne omkostninger.\\nFortjeneste/tab ved salg eller udrangering er medtaget i\\nresultatopg\\u00f8relsen under bruttofortjeneste og andre\\ndriftsomkostninger.\", \"context\": \"The chunk describes the depreciation policies for the company's property, plant and equipment, specifically the depreciation period and residual values for other fixtures and fittings, tools and equipment. It also covers the treatment of small assets with a lifespan under one year and the accounting for gains or losses on sale or retirement of assets.\"}",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 0.6142, \"y\": 4.1875}, {\"x\": 3.9238, \"y\": 4.1875}, {\"x\": 3.9238, \"y\": 5.9741}, {\"x\": 0.6142, \"y\": 5.9741}]",
+        "document_part": 0
+    }
+}

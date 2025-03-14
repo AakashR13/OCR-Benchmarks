@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "247a62da-ee23-44a4-9966-dc0cd4560bfd",
+    "element_text": "{\"chunk\": \"28,861\\nUSA corporation tax\\n302,865\\n(17,250)\\nSingapore corporation tax\\n71,438\\n115,483\\nTotal current tax\\n386,155\\n106,933\\nDeferred tax\\n23,544\\n(13,886)\\nTax on profit\\n409,699\\n93,047\\nUK corporation tax has been charged at 19% (2021 - 19%).\\nPage 20\\ncontinued ...\\nCROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\", \"context\": \"This chunk contains details about the company's tax expenses, including UK, US, and Singapore corporation tax, as well as deferred tax. It is part of the company's notes to the financial statements, specifically the taxation section.\"}",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 0.9289, \"y\": 0.472}, {\"x\": 7.6954, \"y\": 0.472}, {\"x\": 7.6954, \"y\": 11.1666}, {\"x\": 0.9289, \"y\": 11.1666}]",
+        "document_part": 0
+    }
+}

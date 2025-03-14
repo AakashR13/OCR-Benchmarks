@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a6edbced-de9f-443a-a12c-7ecaba1d020f",
+    "element_text": "{\"chunk\": \"Af- og nedskrivninger pr. 1/7 2021\\nAmortisation and impairment at 1/7 2021\\n9.701.110\\n9.701.110\\n5.842.276\\n\\u00c5rets afskrivninger\\n4.324.022\\n4.324.022\\n3.858.834\\nAmortisation for the year\\nAf- og nedskrivn., afgang i \\u00e5ret\\n-5.494.665\\n-5.494.665\\n0\", \"context\": \"The chunk represents the amortization and impairment details for the intangible asset \\\"Completed development projects\\\" in the company's balance sheet.\"}",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 1.0151, \"y\": 3.9492}, {\"x\": 8.1262, \"y\": 3.9492}, {\"x\": 8.1262, \"y\": 4.736}, {\"x\": 1.0151, \"y\": 4.736}]",
+        "document_part": 0
+    }
+}

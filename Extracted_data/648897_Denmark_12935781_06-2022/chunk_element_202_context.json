@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "26fe5727-adbc-4967-99b3-cee07a713591",
+    "element_text": "{\"chunk\": \"dokumentet er sikret og valideret ved anvendelse af den matematiske hashv\\u00e6rdi af\\ndet originale dokument. Dokumentet er l\\u00e5st for \\u00e6ndringer og tidsstemplet med et\\ncertifikat fra en betroet tredjepart. Alle kryptografiske signeringsbeviser er indlejret i\", \"context\": \"This chunk describes the security measures used to protect the document, including the use of a mathematical hash value, locking the document against changes, and embedding cryptographic signatures from a trusted third party.\"}",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 0.36, \"y\": 10.3827}, {\"x\": 4.0863, \"y\": 10.3827}, {\"x\": 4.0863, \"y\": 10.8288}, {\"x\": 0.36, \"y\": 10.8288}]",
+        "document_part": 0
+    }
+}

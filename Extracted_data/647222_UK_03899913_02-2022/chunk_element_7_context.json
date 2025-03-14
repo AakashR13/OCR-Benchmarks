@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "257f1283-54ac-4608-8ff1-c36d98d3b296",
+    "element_text": "{\"chunk\": \"The company's net profit before tax, ignoring one-off items such as government grants, dividends received from its subsidiary and\\nprofit on winding up of its subsidiary, increased by 187.9% in the year with lower overall costs.\\nThe company is maintaining a healthy balance sheet with excellent liquidity and net assets up by 15.4%.\\nPRINCIPAL RISKS AND UNCERTAINTIES\\nMarket risk\", \"context\": \"This chunk discusses the company's financial performance, including its net profit and balance sheet, as well as outlining the principal risks and uncertainties facing the business, with a focus on market risk.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 4.2281}, {\"x\": 7.7715, \"y\": 4.2281}, {\"x\": 7.7715, \"y\": 5.3143}, {\"x\": 0.4822, \"y\": 5.3143}]",
+        "document_part": 0
+    }
+}

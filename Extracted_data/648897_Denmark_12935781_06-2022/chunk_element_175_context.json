@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a5083042-f429-4d7e-902b-9cd88be55ef1",
+    "element_text": "{\"chunk\": \"Amortisation and impairment, disposals for the year\\nAF- OG NEDSKRIVNINGER PR. 30/6 2022\\n8.530.467\\n8.530.467\\n9.701.110\\nAMORTISATION AND IMPAIRMENT AT 30/6 2022\\nREGNSKABSM\\u00c6SSIG V\\u00c6RDI PR. 30/6 2022\\nCARRYING AMOUNT AT 30/6 2022\", \"context\": \"This chunk is from the \\\"Anl\\u00e6gs- og afskrivningsoversigt, immaterielle anl\\u00e6gsaktiver\\\" section of the financial statements, which provides details on the company's completed development projects, including amortization and carrying amounts.\"}",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 1.0101, \"y\": 4.7411}, {\"x\": 8.1364, \"y\": 4.7411}, {\"x\": 8.1364, \"y\": 5.7715}, {\"x\": 1.0101, \"y\": 5.7715}]",
+        "document_part": 0
+    }
+}

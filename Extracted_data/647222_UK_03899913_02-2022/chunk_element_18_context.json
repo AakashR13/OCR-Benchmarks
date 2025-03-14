@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a587a7ae-e8ea-4d9b-9597-6293c1b6471f",
+    "element_text": "{\"chunk\": \"to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom\\nAccounting Standards and applicable law), including Financial Reporting Standard 102 'The Financial Reporting Standard applicable\\nin the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are\\nsatisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that\", \"context\": \"The chunk describes the directors' responsibilities in preparing the financial statements in accordance with UK accounting standards and law.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 7.3547}, {\"x\": 7.7715, \"y\": 7.3547}, {\"x\": 7.7715, \"y\": 7.979}, {\"x\": 0.4772, \"y\": 7.979}]",
+        "document_part": 0
+    }
+}

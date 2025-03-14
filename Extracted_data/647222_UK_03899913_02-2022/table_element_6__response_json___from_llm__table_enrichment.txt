@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides a summary of cash flows from operating, investing, and financing activities for the years 2022 and 2021. It includes details on cash generated from operations, interest and tax payments, purchases and sales of assets, and changes in loans and equity. The table also shows the net cash flow from each activity and the change in cash and cash equivalents over the two years.",
+        "table_in_markdown_format": "| Activity | Notes | 2022 (£) | 2021 (£) |\n|---|---|---|---|\n| Cash flows from operating activities |  |  |  |\n| Cash generated from operations | 1 | 2,218,779 | 721,565 |\n| Interest paid |  | (753) |  |\n| Tax paid |  | (196,127) | (14,978) |\n| Net cash from operating activities |  | 2,021,899 | 706,587 |\n| Cash flows from investing activities |  |  |  |\n| Purchase of tangible fixed assets |  | (158,457) | (49,225) |\n| Sale of fixed asset investments |  | 150 | 1 |\n| Interest received |  | 120 |  |\n| Dividends received |  |  | 180,467 |\n| Net cash from investing activities |  | (158,187) | 131,242 |\n| Cash flows from financing activities |  |  |  |\n| New loans in year |  | 250,000 | 1 |\n| Share buyback |  | (917,248) |  |\n| Share capital paid up |  | 350 | 1 |\n| Equity dividends paid |  | (250,862) | (398,816) |\n| Net cash from financing activities |  | (917,760) | (398,816) |\n| Increase in cash and cash equivalents |  | 945,952 | 439,013 |\n| Cash and cash equivalents at beginning of year | 2 | 2,654,639 | 2,215,626 |\n| Cash and cash equivalents at end of year | 2 | 3,600,591 | 2,654,639 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the net cash from operating activities in 2022?",
+                "answer": "2,021,899"
+            },
+            {
+                "question": "How much cash was generated from operations in 2021?",
+                "answer": "721,565"
+            },
+            {
+                "question": "What was the amount of interest paid in 2022?",
+                "answer": "(753)"
+            },
+            {
+                "question": "How much tax was paid in 2021?",
+                "answer": "(14,978)"
+            },
+            {
+                "question": "What was the net cash from investing activities in 2022?",
+                "answer": "(158,187)"
+            },
+            {
+                "question": "How much was spent on the purchase of tangible fixed assets in 2022?",
+                "answer": "(158,457)"
+            },
+            {
+                "question": "What was the net cash from financing activities in 2021?",
+                "answer": "(398,816)"
+            },
+            {
+                "question": "How much was the increase in cash and cash equivalents in 2022?",
+                "answer": "945,952"
+            },
+            {
+                "question": "What were the cash and cash equivalents at the beginning of 2022?",
+                "answer": "2,654,639"
+            },
+            {
+                "question": "What were the cash and cash equivalents at the end of 2021?",
+                "answer": "2,654,639"
+            }
+        ]
+    }
+]

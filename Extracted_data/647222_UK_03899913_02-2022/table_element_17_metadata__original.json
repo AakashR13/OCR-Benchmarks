@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "87d23de2-b094-4edf-961b-ddf57bbbfda3",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| The tax charge on the profit for the year was as follows: | 2022 | 2021 |\n|  | \u00a3 | 48 |\n| Current tax: |  |  |\n| UK corporation tax | 6,045 | (20,161) |\n| Hong Kong corporation tax | 5,807 | 28,861 |\n| USA corporation tax | 302,865 | (17,250) |\n| Singapore corporation tax | 71,438 | 115,483 |\n| Total current tax | 386,155 | 106,933 |\n| Deferred tax | 23,544 | (13,886) |\n| Tax on profit | 409,699 | 93,047 |",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 0.9002, \"y\": 3.755}, {\"x\": 7.7065, \"y\": 3.7561}, {\"x\": 7.7085, \"y\": 5.5623}, {\"x\": 0.9005, \"y\": 5.5615}]"
+    }
+}

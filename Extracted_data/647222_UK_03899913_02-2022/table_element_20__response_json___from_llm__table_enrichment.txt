@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides a detailed breakdown of the costs, depreciation, and net book value of property, plant, and equipment for a company. It includes data for plant and machinery, fixtures and fittings, and computer equipment. The table shows the costs at the beginning and end of the period, additions, disposals, and depreciation charges for the year ending 28 February 2022.",
+        "table_in_markdown_format": "| Category | Plant and Machinery (£) | Fixtures and Fittings (£) | Computer Equipment (£) | Totals (£) |\n|---|---|---|---|---|\n| **COST** | | | | |\n| At 1 March 2021 | 16,086 | 127,545 | 347,773 | 491,404 |\n| Additions | 57,605 | 12,527 | 88,325 | 158,457 |\n| Disposals | (639) | (6,784) | (129,558) | (136,981) |\n| At 28 February 2022 | 73,052 | 133,288 | 306,540 | 512,880 |\n| **DEPRECIATION** | | | | |\n| At 1 March 2021 | 13,922 | 120,020 | 270,203 | 404,145 |\n| Charge for year | 12,909 | 5,888 | 41,345 | 60,142 |\n| Eliminated on disposal | (639) | (4,634) | (129,558) | (134,831) |\n| At 28 February 2022 | 26,192 | 121,274 | 181,990 | 329,456 |\n| **NET BOOK VALUE** | | | | |\n| At 28 February 2022 | 46,860 | 12,014 | 124,550 | 183,424 |\n| At 28 February 2021 | 2,164 | 7,525 | 77,570 | 87,259 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the total cost of plant and machinery at 28 February 2022?",
+                "answer": "The total cost of plant and machinery at 28 February 2022 was £73,052."
+            },
+            {
+                "question": "How much was added to the fixtures and fittings during the year?",
+                "answer": "£12,527 was added to the fixtures and fittings during the year."
+            },
+            {
+                "question": "What was the total depreciation charge for the year?",
+                "answer": "The total depreciation charge for the year was £60,142."
+            },
+            {
+                "question": "What was the net book value of computer equipment at 28 February 2022?",
+                "answer": "The net book value of computer equipment at 28 February 2022 was £124,550."
+            },
+            {
+                "question": "How much was eliminated on disposal for fixtures and fittings?",
+                "answer": "£4,634 was eliminated on disposal for fixtures and fittings."
+            },
+            {
+                "question": "What was the total net book value at 28 February 2021?",
+                "answer": "The total net book value at 28 February 2021 was £87,259."
+            },
+            {
+                "question": "What was the cost of computer equipment at 1 March 2021?",
+                "answer": "The cost of computer equipment at 1 March 2021 was £347,773."
+            },
+            {
+                "question": "What was the total cost of disposals during the year?",
+                "answer": "The total cost of disposals during the year was £136,981."
+            },
+            {
+                "question": "What was the depreciation of plant and machinery at 28 February 2022?",
+                "answer": "The depreciation of plant and machinery at 28 February 2022 was £26,192."
+            },
+            {
+                "question": "What was the net book value of fixtures and fittings at 28 February 2022?",
+                "answer": "The net book value of fixtures and fittings at 28 February 2022 was £12,014."
+            }
+        ]
+    }
+]

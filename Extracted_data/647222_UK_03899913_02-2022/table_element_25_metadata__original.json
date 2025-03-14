@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "d6e671a7-c552-44b2-94b9-7563c1353c60",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| YEAR | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Bank loans (sec note 17) | 224,643 |  |\n| LOANS |  |  |\n| An analysis of the maturity of loans is given below: |  |  |\n|  | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Amounts falling due within one year or on demand: |  |  |\n| Bank loans | 20,557 |  |\n| Amounts falling due between one and two years: |  |  |\n| Bank loans - 1-2 years | 46,617 |  |\n| Amounts falling due between two and five years: |  |  |\n| Bank loans - 2-5 years | 154,656 |  |\n| Amounts falling due in more than five years: |  |  |\n| Repayable by instalments |  |  |\n| Bank loans - more than 5 years | 23,370 | - |\n| LEASING AGREEMENTS |  |  |\n| Minimum lease payments under non-cancellable operating leases fall due as follows: | 2022 |  |\n|  |  | 2021 |\n|  | \u00a3 | \u00a3 |\n| Within one year | 212,520 | 231,782 |\n| Between one and five years | 595,968 | 619,124 |\n|  | 808,488 | 850,906 |\n| SECURED DEBTS |  |  |\n| The following secured debts are included within creditors: |  |  |\n|  | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Bank loans | 245,200 |  |",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 0.8839, \"y\": 1.5342}, {\"x\": 7.6789, \"y\": 1.528}, {\"x\": 7.6797, \"y\": 7.8816}, {\"x\": 0.8834, \"y\": 7.887}]"
+    }
+}

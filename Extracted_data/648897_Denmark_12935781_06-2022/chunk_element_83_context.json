@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "bf88d6bc-c672-471c-9ec3-ebd1a9514d2c",
+    "element_text": "{\"chunk\": \"social sikring m.v. til selskabets medarbejdere. I\\npersonaleomkostninger er fratrukket modtagne\\ngodtg\\u00f8relser fra offentlige myndigheder.\\nINCOME STATEMENT\\nThe income statement has been classified by nature.\\nGross profit/loss\\nThe Company has aggregated the items \\\"revenue\\\",\\n\\\"other operating income\\\", \\\"salaries regocnized as assets\\\"\\nas well as \\\"external expenses\\\".\\nRevenue\", \"context\": \"The chunk provides details on the company's personnel costs, including social security contributions and government subsidies, as well as an overview of the structure and contents of the income statement, including the presentation of revenue and other key line items.\"}",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 1.274}, {\"x\": 7.5126, \"y\": 1.274}, {\"x\": 7.5126, \"y\": 10.4052}, {\"x\": 0.6041, \"y\": 10.4052}]",
+        "document_part": 0
+    }
+}

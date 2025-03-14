@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "487fe35f-5477-4f7e-9aee-ef195c8c32bc",
+    "element_text": "{\"chunk\": \"The loan was subsequently fully repaid on 20 September 2022 after the year end.\\nPage 24\\ncontinued ...\\nCROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\\nNOTES TO THE FINANCIAL STATEMENTS - continued\\nFOR THE YEAR ENDED 28 FEBRUARY 2022\\n20.\\nPROVISIONS FOR LIABILITIES\\n2022\\n\\u00a3\\nDeferred tax\\n16,811\\nDeferred\\ntax\\n\\u00a3\\nBalance at 1 March 2021\", \"context\": \"This chunk discusses the repayment of a loan that the company entered into during the financial year, as well as providing details on the company's deferred tax balances.\"}",
+    "element_metadata": {
+        "page_number": 27,
+        "bounding_box": "[{\"x\": 0.4619, \"y\": 0.472}, {\"x\": 7.6954, \"y\": 0.472}, {\"x\": 7.6954, \"y\": 11.1666}, {\"x\": 0.4619, \"y\": 11.1666}]",
+        "document_part": 0
+    }
+}

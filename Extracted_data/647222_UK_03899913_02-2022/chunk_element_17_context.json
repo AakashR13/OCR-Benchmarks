@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "09edabf3-5864-4d01-819d-cca765839d0c",
+    "element_text": "{\"chunk\": \"directors' report by Schedule 7 of the \\\"Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008\\\",\\nin the strategic report.\\nSTATEMENT OF DIRECTORS' RESPONSIBILITIES\\nThe directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements in\\naccordance with applicable law and regulations.\\nCompany law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected\", \"context\": \"This chunk is part of the Report of the Directors section of the document, which discusses the directors' responsibilities for preparing the financial statements in accordance with applicable law and regulations.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 6.1061}, {\"x\": 7.7715, \"y\": 6.1061}, {\"x\": 7.7715, \"y\": 7.3547}, {\"x\": 0.4772, \"y\": 7.3547}]",
+        "document_part": 0
+    }
+}

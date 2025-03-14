@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "e07d1df8-5c8c-485d-a41f-1ab43b5de024",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| INTEREST PAYABLE AND SIMILAR EXPENSES | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Bank loan interest | 7,921 | I |\n| Interest and penalties on US tax | 753 | - |\n|  | 8,674 | - |",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 0.9088, \"y\": 2.1886}, {\"x\": 7.6807, \"y\": 2.1895}, {\"x\": 7.6813, \"y\": 3.0373}, {\"x\": 0.9083, \"y\": 3.0375}]"
+    }
+}

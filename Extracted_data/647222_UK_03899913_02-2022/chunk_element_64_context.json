@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ede9f9ca-4f61-4942-a17c-364998373cae",
+    "element_text": "{\"chunk\": \"company and is not required under Financial Reporting Standard 102 to prepare consolidated accounts.\\nSignificant judgements and estimates\\nThe preparation of the financial statements requires management to make significant judgements and estimates. The items in\\nthe financial statements where these judgement and estimates have been made include:\\nJudgements\\n- The method of allocating income and costs to the foreign branches. Income allocation is based on specific\\ncontracts/customers based in that jurisdiction and an allocation of income from global contracts based on payroll costs in the\", \"context\": \"The chunk discusses the significant judgements and estimates made by the company's management in preparing the financial statements, such as the method of allocating income and costs to foreign branches.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.9188, \"y\": 4.7052}, {\"x\": 7.7766, \"y\": 4.7052}, {\"x\": 7.7766, \"y\": 6.2584}, {\"x\": 0.9188, \"y\": 6.2584}]",
+        "document_part": 0
+    }
+}

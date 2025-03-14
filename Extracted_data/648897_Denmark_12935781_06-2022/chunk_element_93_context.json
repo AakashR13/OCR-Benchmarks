@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "8f271a12-bfa7-4308-aec0-b53b35f81152",
+    "element_text": "{\"chunk\": \"tax.Changes in deferred taxes due to adjustments of tax\\nrates is recognised in the income statement.\\nSelskabet er sambeskattet med \\u00f8vrige danske\\nkoncernselskaber med K. Basse Holding ApS som\\nadministrationsselskab. Skatteeffekten af\\nsambeskatningen fordeles mellem koncernselskaberne i\\nforhold til deres skattepligtige indkomster efter\", \"context\": \"The chunk is situated within the \\\"Anvendt regnskabspraksis\\\" (Summary of significant accounting policies) section of the financial statements, which outlines the accounting policies and methods used by the company.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 6.9943}, {\"x\": 7.4365, \"y\": 6.9943}, {\"x\": 7.4365, \"y\": 8.4764}, {\"x\": 0.6041, \"y\": 8.4764}]",
+        "document_part": 0
+    }
+}

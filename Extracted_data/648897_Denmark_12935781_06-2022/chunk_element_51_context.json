@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "cc725d9b-ba13-4bd7-aaa2-8b14f59b321d",
+    "element_text": "{\"chunk\": \"risk of not detecting a material misstatement resulting\\nfrom fraud is higher than for one resulting from error as\\nfraud may involve collusion, forgery, intentional\\nomissions, misrepresentations, or the override of internal\\ncontrol.\\n* Obtain an understanding of internal control relevant to\\nthe audit in order to design audit procedures that are\\nappropriate in the circum-stances, but not for the\\npurpose of expressing an opinion on the effectiveness of\\nthe Company's internal control.\\n* Evaluate the appropriateness of accounting policies\", \"context\": \"This chunk is part of the \\\"Independent Auditor's Audit Report\\\" section, which describes the auditor's responsibilities in conducting the audit of the company's financial statements.\"}",
+    "element_metadata": {
+        "page_number": 8,
+        "bounding_box": "[{\"x\": 4.2741, \"y\": 2.1978}, {\"x\": 7.5177, \"y\": 2.1978}, {\"x\": 7.5177, \"y\": 5.0909}, {\"x\": 4.2741, \"y\": 5.0909}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "table_description": "The table provides a financial summary of reserves, including retained earnings, capital redemption reserve, and share option reserve, for a company over the period from 1 March 2021 to 28 February 2022. It details the opening balances, profit for the year, dividends paid, purchase of own shares, and share-based payment charges, culminating in the closing balances at the end of the period.",
+    "table_in_markdown_format": "| RESERVES                | Retained earnings | Capital redemption reserve | Share option reserve | Totals    |\n|-------------------------|-------------------|----------------------------|----------------------|-----------|\n|                         | £                 | £                          | £                    | £         |\n| At 1 March 2021         | 2,622,792         | 701                        | 32,922               | 2,656,415 |\n| Profit for the year     | 1,549,616         | -                          | I                    | 1,549,616 |\n| Dividends               | (250,862)         |                            |                      | (250,862) |\n| Purchase of own shares  | (917,248)         | 1,052                      |                      | (916,196) |\n| Share based payment charge |                 |                            | 28,219               | 28,219    |\n| At 28 February 2022     | 3,004,298         | 1,753                      | 61,141               | 3,067,192 |",
+    "q_and_a__pairs": [
+      {
+        "question": "What was the total retained earnings at the beginning of the period?",
+        "answer": "The total retained earnings at the beginning of the period were £2,622,792."
+      },
+      {
+        "question": "How much profit was made during the year?",
+        "answer": "The profit for the year was £1,549,616."
+      },
+      {
+        "question": "What was the total amount of dividends paid?",
+        "answer": "The total amount of dividends paid was £250,862."
+      },
+      {
+        "question": "How much was spent on the purchase of own shares?",
+        "answer": "£917,248 was spent on the purchase of own shares."
+      },
+      {
+        "question": "What was the share-based payment charge for the year?",
+        "answer": "The share-based payment charge for the year was £28,219."
+      },
+      {
+        "question": "What was the closing balance of retained earnings at the end of the period?",
+        "answer": "The closing balance of retained earnings at the end of the period was £3,004,298."
+      },
+      {
+        "question": "What was the total capital redemption reserve at the end of the period?",
+        "answer": "The total capital redemption reserve at the end of the period was £1,753."
+      },
+      {
+        "question": "What was the total share option reserve at the end of the period?",
+        "answer": "The total share option reserve at the end of the period was £61,141."
+      },
+      {
+        "question": "What was the total reserves amount at the end of the period?",
+        "answer": "The total reserves amount at the end of the period was £3,067,192."
+      },
+      {
+        "question": "How did the purchase of own shares affect the capital redemption reserve?",
+        "answer": "The purchase of own shares increased the capital redemption reserve by £1,052."
+      }
+    ]
+  }
+]

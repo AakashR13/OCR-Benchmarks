@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "4e47dda6-a9ad-4987-b36e-086a94756f46",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n|  | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| United Kingdom | 8,650,874 | 8,564,288 |\n| United States of America | 3,033,392 | 2,695,779 |\n| Asia | 2,584,979 | 2,873,128 |\n|  | 14,269,245 | 14,133,195 |",
+    "element_metadata": {
+        "page_number": 20,
+        "bounding_box": "[{\"x\": 0.8954, \"y\": 7.808}, {\"x\": 7.6776, \"y\": 7.812}, {\"x\": 7.6788, \"y\": 8.8107}, {\"x\": 0.8949, \"y\": 8.8067}]"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "3235f66e-8e4c-4efc-bd9c-1d2ca08d8df5",
+    "element_text": "{\"chunk\": \"and projections, the directors have a reasonable expectation that the company has adequate resources to continue in\\noperational existence for the foreseeable future. The majority of the company's revenue is generated from its contract with the\\nLondon Stock Exchange Group, which is due for renewal in October 2023. Contract renewal negotiations are already at an\\nadvanced stage and the directors are confident that they will soon be successfully concluded. The directors also believe that\", \"context\": \"The given chunk discusses the company's going concern assessment and the status of its key customer contract renewal negotiations, which are situated within the Strategic Report section of the company's financial statements.\"}",
+    "element_metadata": {
+        "page_number": 19,
+        "bounding_box": "[{\"x\": 0.9289, \"y\": 4.8625}, {\"x\": 7.7766, \"y\": 4.8625}, {\"x\": 7.7766, \"y\": 5.4767}, {\"x\": 0.9289, \"y\": 5.4767}]",
+        "document_part": 0
+    }
+}

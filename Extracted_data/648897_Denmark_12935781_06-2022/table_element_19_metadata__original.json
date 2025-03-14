@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "6f661dc7-b579-435c-8b87-245e84d0760b",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |\n|---|---|---|---|---|\n|  | Selskabsskat Income taxes | Udskudt skat Deferred tax | If\u00f8lge resultat- opg\u00f8relsen Acc. to the inc. statement | 2020/21 |\n| Skyldig pr. 1/7 2021 Payable at 1/7 2021 | 1.125.871 | 1.919.658 |  |  |\n| Regulering vedr. tidl. \u00e5r Adj. re. Previous years | 41.000 |  | 41.000 |  |\n| Betalt vedr. tidligere \u00e5r Paid re. previous years | -1.166.871 | 0 |  |  |\n| Skat af \u00e5rets resultat | 1.815.892 | 92.814 | 1.908.706 | 1.240.447 |\n| Tax on profit/loss for the year |  |  |  |  |\n| SKYLDIG PR. 30/6 2022 | 1.815.892 | 2.012.472 |  |  |\n| PAYABLE AT 30/6 2022 |  |  |  |  |\n| SKAT AF \u00c5RETS RESULTAT |  |  | 1.949.706 | 1.240.447 |\n| TAX ON PROFIT/LOSS FOR THE YEAR |  |  |  |  |",
+    "element_metadata": {
+        "page_number": 25,
+        "bounding_box": "[{\"x\": 0.9919, \"y\": 1.5657}, {\"x\": 7.6355, \"y\": 1.5641}, {\"x\": 7.637, \"y\": 5.0725}, {\"x\": 0.9918, \"y\": 5.0705}]"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "689e9336-bda8-4fac-aedd-16f9358727a2",
+    "element_text": "During the year, legislation has been passed to increase the UK corporation tax rate to 25% from 1 April 2023 for companies\nwith profits of over \u00a3250,000. A small profits rate will also be introduced for companies with profits of \u00a350,000 or less so\nthat they will continue to pay corporation tax at 19% and companies with profits between \u00a350,000 and \u00a3250,000 will pay tax",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 0.9238, \"y\": 5.5122}, {\"x\": 7.7766, \"y\": 5.5122}, {\"x\": 7.7766, \"y\": 5.9792}, {\"x\": 0.9238, \"y\": 5.9792}]",
+        "document_part": 0
+    }
+}

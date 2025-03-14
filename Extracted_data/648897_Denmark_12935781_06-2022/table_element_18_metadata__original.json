@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "0a2ddfd9-0349-4fef-911f-703bb5cfda69",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 |\n|---|---|---|---|\n| 3 | \u00d8vrige finansielle omkostninger Other financial expenses | 2021/22 | 2020/21 |\n|  |  |  |  |\n|  | Renteomkostninger til tilknyttede virksomheder Interest expenses to group enterprises | 120.456 | 280.510 |\n|  | Finansielle omkostninger i \u00f8vrigt Other financial expenses | 503.745 | 212.039 |\n|  |  |  |  |\n|  | I ALT TOTAL | 624.201 | 492.549 |",
+    "element_metadata": {
+        "page_number": 24,
+        "bounding_box": "[{\"x\": 0.6073, \"y\": 6.9074}, {\"x\": 7.6547, \"y\": 6.908}, {\"x\": 7.6557, \"y\": 8.5294}, {\"x\": 0.6068, \"y\": 8.5298}]"
+    }
+}

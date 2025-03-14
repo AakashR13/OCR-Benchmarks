@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "996cbc82-c0bb-44ae-9301-850a24882fcb",
+    "element_text": "{\"chunk\": \"- we assessed the extent of compliance with the laws and regulations identified above through making enquiries of management and\\ninspecting legal correspondence; and\\n- identified laws and regulations were communicated within the audit team regularly and the team remained alert to instances of\\nnon-compliance throughout the audit.\\nWe assessed the susceptibility of the company's financial statements to material misstatement, including obtaining an understanding\\nof how fraud might occur, by:\", \"context\": \"This chunk is part of the \\\"Auditors' responsibilities for the audit of the financial statements\\\" section, which details the auditors' procedures in identifying and assessing risks of material misstatement in the financial statements, including those related to fraud and non-compliance with laws and regulations.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 3.7662}, {\"x\": 7.7766, \"y\": 3.7662}, {\"x\": 7.7766, \"y\": 4.8575}, {\"x\": 0.4772, \"y\": 4.8575}]",
+        "document_part": 0
+    }
+}

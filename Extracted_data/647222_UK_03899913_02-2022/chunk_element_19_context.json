@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "db2f7e5c-55f0-444d-949c-8e8cb0d40159",
+    "element_text": "{\"chunk\": \"period. In preparing these financial statements, the directors are required to:\\n- select suitable accounting policies and then apply them consistently;\\n- make judgements and accounting estimates that are reasonable and prudent;\\n- prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in\\nbusiness.\\nThe directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's\", \"context\": \"This chunk describes the directors' responsibilities for preparing the financial statements, including selecting accounting policies, making judgements and estimates, and preparing the statements on a going concern basis.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 7.979}, {\"x\": 7.7766, \"y\": 7.979}, {\"x\": 7.7766, \"y\": 9.2226}, {\"x\": 0.4822, \"y\": 9.2226}]",
+        "document_part": 0
+    }
+}

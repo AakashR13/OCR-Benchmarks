@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a251ea6b-17f4-4e3f-9445-e035a7f33f45",
+    "element_text": "{\"chunk\": \"CVR-nummer 12 93 57 81\\nCentral Business Registration no. 12 93 57 81\\nHjemsted:\\nRegistered in:\\nGladsaxe\\nDirektion\\nBoard of Executives\\nErik Juel Ellinghaus\\nBestyrelse\\nBoard of Directors\\nKristoffer Basse\\nLars Bj\\u00f8rn Dupont Jensen\\nErik Bakke\", \"context\": \"This chunk contains company details, including the central business registration number, registered location, board of executives, and board of directors.\"}",
+    "element_metadata": {
+        "page_number": 3,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 2.3196}, {\"x\": 3.1523, \"y\": 2.3196}, {\"x\": 3.1523, \"y\": 5.9335}, {\"x\": 0.6041, \"y\": 5.9335}]",
+        "document_part": 0
+    }
+}

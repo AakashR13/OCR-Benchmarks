@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "e0d795b1-bc6f-44dd-95c3-8834d5c85545",
+    "element_text": "{\"chunk\": \"CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE\\nYEAR\\n17.\\n18.\\n19.\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nBank loans (sec note 17)\\n224,643\\nLOANS\\nAn analysis of the maturity of loans is given below:\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nAmounts falling due within one year or on demand:\\nBank loans\\n20,557\\nAmounts falling due between one and two years:\\nBank loans - 1-2 years\\n46,617\", \"context\": \"This chunk discusses the company's long-term and short-term bank loans, including the maturity profiles of those loans.\"}",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 0.4873, \"y\": 1.2639}, {\"x\": 7.5329, \"y\": 1.2639}, {\"x\": 7.5329, \"y\": 6.9588}, {\"x\": 0.4873, \"y\": 6.9588}]",
+        "document_part": 0
+    }
+}

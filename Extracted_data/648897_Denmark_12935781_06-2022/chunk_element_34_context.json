@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "10e5f9f9-fa8d-410d-a890-b4c4bf097274",
+    "element_text": "{\"chunk\": \"at udarbejde et \\u00e5rsregnskab uden v\\u00e6sentlig\\nManagement is responsible for the preparation of\\nFinancial Statements that give a true and fair view in\\naccordance with the Danish Financial Statements\\nAct, and for such internal control as Management\\ndetermines is necessary to enable the preparation of\\nFinancial Statements that are free from material\\nmisstatement, whether due to fraud or error.\\nfejlinformation, uanset om denne skyldes besvigelser eller\\nfejl.\", \"context\": \"This chunk is part of the section on \\\"Management's responsibility for the Financial Statements\\\" in the Independent auditor's audit report.\"}",
+    "element_metadata": {
+        "page_number": 7,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 1.6547}, {\"x\": 7.2588, \"y\": 1.6547}, {\"x\": 7.2588, \"y\": 2.8881}, {\"x\": 0.6091, \"y\": 2.8881}]",
+        "document_part": 0
+    }
+}

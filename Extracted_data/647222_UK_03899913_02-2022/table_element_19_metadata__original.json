@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "aaa085cf-2f4b-4656-a675-a84454d015df",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| DIVIDENDS | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| \"C\" Ordinary non-voting share of \u00a31 |  |  |\n| Interim div share type C | 22,500 | 92,484 |\n| \"E\" Ordinary non-voting shares of \u00a31 each | 22,500 | 140,744 |\n| Interim div share type E |  |  |\n| \"G\" Ordinary non-voting shares of \u00a31 each Interim div share type G | 205,862 | 165,588 |\n|  | 250,862 | 398,816 |",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 0.9022, \"y\": 7.0213}, {\"x\": 7.6898, \"y\": 7.0358}, {\"x\": 7.688, \"y\": 8.5239}, {\"x\": 0.8986, \"y\": 8.5087}]"
+    }
+}

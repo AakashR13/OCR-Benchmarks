@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides financial data for the years 2022 and 2021, including operations such as profit before taxation, depreciation charges, and cash generated from operations. It also details cash and cash equivalents at the end of each year.",
+        "table_in_markdown_format": "| Description | 2022 (\u00a3) | 2021 (\u00a3) |\n|---|---|---|\n| Profit before taxation | 1,959,315 | 858,789 |\n| Depreciation charges | 60,142 | 65,590 |\n| Loss on disposal of fixed assets | 2,150 | - |\n| Share based payment charge | 28,219 | 28,219 |\n| Amounts written off investments | - | 140,346 |\n| Finance costs | 8,674 | - |\n| Dividend and interest income | (12,841) | (180,467) |\n| Total | 2,045,659 | 912,477 |\n| Increase in trade and other debtors | (107,396) | (62,002) |\n| Increase/(decrease) in trade and other creditors | 280,516 | (128,910) |\n| Cash generated from operations | 2,218,779 | 721,565 |\n| Cash and cash equivalents at year end | 3,600,591 | 2,654,639 |\n| Cash and cash equivalents at start of year | 2,654,639 | 2,215,696 |\n| Bank overdrafts | - | (70) |\n| Net cash and cash equivalents | 2,654,639 | 2,215,626 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the profit before taxation in 2022?",
+                "answer": "The profit before taxation in 2022 was \u00a31,959,315."
+            },
+            {
+                "question": "How much were the depreciation charges in 2021?",
+                "answer": "The depreciation charges in 2021 were \u00a365,590."
+            },
+            {
+                "question": "Was there any loss on disposal of fixed assets in 2021?",
+                "answer": "No, there was no loss on disposal of fixed assets in 2021."
+            },
+            {
+                "question": "What was the amount of finance costs in 2022?",
+                "answer": "The finance costs in 2022 were \u00a38,674."
+            },
+            {
+                "question": "How much was the dividend and interest income in 2021?",
+                "answer": "The dividend and interest income in 2021 was \u00a3(180,467)."
+            },
+            {
+                "question": "What was the total cash generated from operations in 2022?",
+                "answer": "The total cash generated from operations in 2022 was \u00a32,218,779."
+            },
+            {
+                "question": "What were the cash and cash equivalents at the end of 2022?",
+                "answer": "The cash and cash equivalents at the end of 2022 were \u00a33,600,591."
+            },
+            {
+                "question": "What was the increase in trade and other creditors in 2022?",
+                "answer": "The increase in trade and other creditors in 2022 was \u00a3280,516."
+            },
+            {
+                "question": "What were the cash and cash equivalents at the start of 2021?",
+                "answer": "The cash and cash equivalents at the start of 2021 were \u00a32,215,696."
+            },
+            {
+                "question": "Was there any bank overdraft at the end of 2021?",
+                "answer": "Yes, there was a bank overdraft of \u00a3(70) at the end of 2021."
+            }
+        ],
+        "table_type": "Statement of Cash Flow"
+    }
+]

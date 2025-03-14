@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "f85d9409-e5ad-4c28-80b9-f800beb99501",
+    "element_text": "{\"chunk\": \"skaber i markedet.\\nThe company has shown continued resilience in relation\\nto the Covid-19 pandemic's effect in general and has also\\nshown resilience towards the challenges that energy\\nprices and supply lines cause in the markets.\\nSelskabets fokus p\\u00e5 at indg\\u00e5 i f\\u00e6lleseurop\\u00e6iske\\nsikkerhedsprojekter har resulteret i igangv\\u00e6rende\\nprojekter og selskabet har forventning om yderligere\", \"context\": \"The chunk discusses the company's resilience during the COVID-19 pandemic and the challenges of energy prices and supply lines, as well as the company's focus on participating in European security projects and its expectations for further growth in its project portfolio.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 6.0655}, {\"x\": 7.4974, \"y\": 6.0655}, {\"x\": 7.4974, \"y\": 7.7405}, {\"x\": 0.6041, \"y\": 7.7405}]",
+        "document_part": 0
+    }
+}

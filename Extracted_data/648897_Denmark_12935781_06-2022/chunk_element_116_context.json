@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "151d92c6-8371-4b3f-8d44-cde21eeb8d22",
+    "element_text": "{\"chunk\": \"efter den indre v\\u00e6rdis metode, s\\u00e5ledes at kapitalandelen\\nm\\u00e5les til den forholdsm\\u00e6ssige andel af de tilknyttede\\nvirksomheders regnskabsm\\u00e6ssige indre v\\u00e6rdi reguleret\\nfor interne udbytter og avancer.\\nUdenlandske tilknyttede virksomheders resultat og\\negenkapital er omregnet til danske kroner.\", \"context\": \"This chunk is describing the accounting policies related to the company's investments in group enterprises. It explains that these investments are measured using the equity method, adjusting for internal dividends and gains, and that the results and equity of foreign group enterprises are translated to Danish kroner.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 1.6344}, {\"x\": 3.8375, \"y\": 1.6344}, {\"x\": 3.8375, \"y\": 2.9287}, {\"x\": 0.6091, \"y\": 2.9287}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "fef54437-bae5-40bd-9c3e-d9d9da16d9d0",
+    "element_text": "| Column 1 | Column 2 |\n|---|---|\n| DIRECTORS: | Mr P R Gow |\n|  | Mr K J Covington |\n| REGISTERED OFFICE: | 31 Worship Street London |\n|  | EC2A 2DX |\n| REGISTERED NUMBER: | 03899913 (England and Wales) |\n| AUDITORS: | Blick Rothenberg Audit LLP Chartered Accountants |\n|  | Statutory Auditor 16 Great Queen Street Covent Garden London WC2B 5AH |\n| BANKERS: | Metro Bank One Southampton Row |\n|  | London WCIB 5HA |",
+    "element_metadata": {
+        "page_number": 3,
+        "bounding_box": "[{\"x\": 1.6787, \"y\": 2.1391}, {\"x\": 5.7968, \"y\": 2.1375}, {\"x\": 5.8001, \"y\": 6.7982}, {\"x\": 1.6807, \"y\": 6.8001}]"
+    }
+}

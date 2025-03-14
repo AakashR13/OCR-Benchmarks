@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "c9b91f1b-0f9d-4313-bb7a-c25c0fe4cc41",
+    "element_text": "{\"chunk\": \"Bestyrelse og direktion har dags dato behandlet og\\ngodkendt \\u00e5rsrapporten for 1. juli 2021 - 30. juni 2022 for\\nBruhn Newtech A/S.\\nThe Board of Directors and Board of Executives have\\ntoday discussed and approved the annual report for the\\nfinancial year 1 July 2021 - 30 June 2022 of Bruhn\\nNewtech A/S.\", \"context\": \"This chunk is the statement by management on the annual report of Bruhn Newtech A/S for the financial year 1 July 2021 - 30 June 2022.\"}",
+    "element_metadata": {
+        "page_number": 5,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 1.274}, {\"x\": 7.4162, \"y\": 1.274}, {\"x\": 7.4162, \"y\": 1.9541}, {\"x\": 0.6091, \"y\": 1.9541}]",
+        "document_part": 0
+    }
+}

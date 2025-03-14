@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "6f4da6ea-7ac3-4708-9fd0-870a5075394f",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n|  | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Depreciation - owned assets | 60,142 | 65,590 |\n| Loss on disposal of fixed assets | 2,150 |  |\n| Auditors' remuneration | 23,000 | 19,000 |\n| Share-based payments | 28,219 | 28,219 |\n| Research and development costs | 721,711 | 727,745 |\n| Operating lease rental costs | 361,790 | 464,994 |\n| Foreign exchange differences | (97,071) | 171,609 |",
+    "element_metadata": {
+        "page_number": 21,
+        "bounding_box": "[{\"x\": 0.8945, \"y\": 7.5211}, {\"x\": 7.6781, \"y\": 7.5213}, {\"x\": 7.6796, \"y\": 9.0015}, {\"x\": 0.8944, \"y\": 9.0015}]"
+    }
+}

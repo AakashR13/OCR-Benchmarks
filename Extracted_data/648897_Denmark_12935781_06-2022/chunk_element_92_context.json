@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a81d0b5d-2573-471e-8f15-7856aa922699",
+    "element_text": "{\"chunk\": \"af \\u00e5rets skattepligtige indkomst reguleret for \\u00e5rets\\nforskydning i udskudt skat. \\u00c6ndring i udskudt skat som\\nf\\u00f8lge af \\u00e6ndring i skattesatser indregnes i\\nresultatopg\\u00f8relsen.\\nTax on profit or loss for the year consists of the\\nanticipated tax portion of the taxable income for the year\\nadjusted for the changes for the year in deferred\", \"context\": \"The chunk discusses the calculation of the company's tax on profit or loss for the year, including the adjustments made for deferred tax and changes in tax rates.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 6.4462}, {\"x\": 7.5228, \"y\": 6.4462}, {\"x\": 7.5228, \"y\": 7.3192}, {\"x\": 0.6091, \"y\": 7.3192}]",
+        "document_part": 0
+    }
+}

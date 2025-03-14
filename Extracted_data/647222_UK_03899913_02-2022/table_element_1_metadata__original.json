@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "124bbb60-6a43-42b2-bfe4-ad15aa2ccc1d",
+    "element_text": "| Column 1 | Column 2 |\n|---|---|\n|  | Page |\n| Company Information | 1 1 |\n| Strategie Report | 2 |\n| Report of the Directors | 4 |\n| Report of the Independent Auditors | 6 |\n| Statement of Comprehensive Income | 10 |\n| Statement of Financial Position | 11 |\n| Statement of Changes in Equity | 12 |\n| Statement of Cash Flows | 13 |\n| Notes to the Statement of Cash Flows | 14 |\n| Notes to the Financial Statements | 15 |",
+    "element_metadata": {
+        "page_number": 2,
+        "bounding_box": "[{\"x\": 2.0023, \"y\": 2.4842}, {\"x\": 6.4488, \"y\": 2.4899}, {\"x\": 6.4454, \"y\": 5.8894}, {\"x\": 1.9982, \"y\": 5.8821}]"
+    }
+}

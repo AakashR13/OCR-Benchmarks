@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "3b8cb9b4-c0ea-4a1b-aaa2-b77436d21eb8",
+    "element_text": "{\"chunk\": \"Ledelsens forslag til udbytte for regnskabs\\u00e5ret vises som\\nen s\\u00e6rskilt post under egenkapitalen.\\nManagement's proposed dividends for the financial year\\nis disclosed as a separate item in equity.\\nHens\\u00e6ttelser til udskudt skat\\nProvision for deferred tax\\nUdskudt skat m\\u00e5les efter den balanceorienterede\", \"context\": \"The chunk discusses provisions and deferred tax, which are covered under the \\\"Equity and Liabilities\\\" section of the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 18,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 1.8171}, {\"x\": 7.4669, \"y\": 1.8171}, {\"x\": 7.4669, \"y\": 2.8932}, {\"x\": 0.6041, \"y\": 2.8932}]",
+        "document_part": 0
+    }
+}

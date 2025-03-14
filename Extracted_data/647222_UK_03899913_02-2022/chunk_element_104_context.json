@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "658b323d-9655-415c-8265-ef87c1867d2d",
+    "element_text": "{\"chunk\": \"350\\n2,794,786\\n2,698,894\\n15.\\nCREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nBank loans and overdrafts (see note 17)\\n20,557\\nTrade creditors\\n259,446\\n343,512\\nTax\\n383,814\\n221,324\\nSocial security and other taxes\\n212,096\\n180,218\\nPension - UK\\n11,820\\nPension - HK\\n4,408\\n4,891\\nVAT\\n572,406\\n486,891\", \"context\": \"This chunk discusses the company's current liabilities due within one year, including bank loans, trade creditors, taxes, and other short-term obligations.\"}",
+    "element_metadata": {
+        "page_number": 25,
+        "bounding_box": "[{\"x\": 0.4975, \"y\": 5.9741}, {\"x\": 7.6243, \"y\": 5.9741}, {\"x\": 7.6243, \"y\": 7.9993}, {\"x\": 0.4975, \"y\": 7.9993}]",
+        "document_part": 0
+    }
+}

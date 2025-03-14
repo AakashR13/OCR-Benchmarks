@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "cd9982a6-2267-4fb6-8e36-d3d9f07654d9",
+    "element_text": "{\"chunk\": \"and is secondarily and severally liable for other group\\ncompanies' payable and unsettled corporation and\\nwithholding taxes. The total amount for payable\\ncorporate tax is shown in the annual report for K. Basse\\nHolding ApS. Any subsequent corrections to the\\ncorporate tax and withtholding taxes can lead to a\\nhigher liability for the Company.\\nLetter of Idemnity, nom. T.DKK 3.000, with security in the\", \"context\": \"This chunk discusses the contingent liabilities of the company, specifically its secondary and several liability for the group's payable and unsettled taxes, and its exposure to changes in those taxes. It also mentions the company's provision of a letter of indemnity as security.\"}",
+    "element_metadata": {
+        "page_number": 30,
+        "bounding_box": "[{\"x\": 4.2792, \"y\": 2.0049}, {\"x\": 7.5076, \"y\": 2.0049}, {\"x\": 7.5076, \"y\": 4.9133}, {\"x\": 4.2792, \"y\": 4.9133}]",
+        "document_part": 0
+    }
+}

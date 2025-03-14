@@ -1,0 +1,48 @@
+[
+  {
+    "table_description": "The table provides a comparison of financial data related to employee compensation for the years 2022 and 2021. It includes figures for wages and salaries, social security costs, and other pension costs, all presented in British Pounds (£). The total costs for each year are also provided.",
+    "table_in_markdown_format": "| Description           | 2022 (£) | 2021 (£) |\n|-----------------------|----------|----------|\n| Wages and salaries    | 7,981,462| 7,857,432|\n| Social security costs | 714,001  | 681,408  |\n| Other pension costs   | 208,236  | 203,533  |\n| **Total**             | 8,903,699| 8,742,373|",
+    "q_and_a__pairs": [
+      {
+        "question": "What was the total cost for wages and salaries in 2022?",
+        "answer": "The total cost for wages and salaries in 2022 was £7,981,462."
+      },
+      {
+        "question": "How much did social security costs amount to in 2021?",
+        "answer": "Social security costs amounted to £681,408 in 2021."
+      },
+      {
+        "question": "What were the other pension costs in 2022?",
+        "answer": "The other pension costs in 2022 were £208,236."
+      },
+      {
+        "question": "What is the total employee compensation cost for 2022?",
+        "answer": "The total employee compensation cost for 2022 is £8,903,699."
+      },
+      {
+        "question": "How much did wages and salaries increase from 2021 to 2022?",
+        "answer": "Wages and salaries increased by £124,030 from 2021 to 2022."
+      },
+      {
+        "question": "What is the difference in social security costs between 2022 and 2021?",
+        "answer": "The difference in social security costs between 2022 and 2021 is £32,593."
+      },
+      {
+        "question": "By how much did other pension costs increase from 2021 to 2022?",
+        "answer": "Other pension costs increased by £4,703 from 2021 to 2022."
+      },
+      {
+        "question": "What was the total employee compensation cost in 2021?",
+        "answer": "The total employee compensation cost in 2021 was £8,742,373."
+      },
+      {
+        "question": "Which year had higher total employee compensation costs?",
+        "answer": "The year 2022 had higher total employee compensation costs."
+      },
+      {
+        "question": "What is the total increase in employee compensation costs from 2021 to 2022?",
+        "answer": "The total increase in employee compensation costs from 2021 to 2022 is £161,326."
+      }
+    ]
+  }
+]

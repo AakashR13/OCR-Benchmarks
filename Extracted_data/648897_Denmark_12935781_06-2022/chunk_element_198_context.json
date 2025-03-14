@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "df15a713-4fb8-4202-afe0-a48539ee2a69",
+    "element_text": "{\"chunk\": \"Mit &I\\n2022-10-19 05:48:23 UTC\\nErik Bakke\\nKristoffer Basse\\nBestyrelsesmedlem\\nBestyrelsesformand\\nSerienummer: PID:9208-2002-2-696999476528\\nSerienummer: PID:9208-2002-2-461718297233\\nIP: 194.192.xxx.xxx\\nNEM ID\\nV\\nIP: 83.94.xxx.xxx\\nNEM ID\", \"context\": \"This chunk appears to contain digital signatures from the board members Erik Bakke and Kristoffer Basse, who are identified as a board member and the board chairman, respectively.\"}",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 0.5881, \"y\": 3.2395}, {\"x\": 7.3006, \"y\": 3.2395}, {\"x\": 7.3006, \"y\": 4.8111}, {\"x\": 0.5881, \"y\": 4.8111}]",
+        "document_part": 0
+    }
+}

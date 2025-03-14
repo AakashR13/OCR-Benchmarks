@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "f7f2c02e-8d78-4f4f-8a5a-2c546683d679",
+    "element_text": "{\"chunk\": \"3,004,298\\n1,753\\n61,141\\n3,067,192\\nCapital Redemption Reserve\\nThe capital redemption reserve records the nominal value of shares repurchased by the company.\\nShare Option Reserve\\nShare based payment expenses passing through the profit and loss account are credited to the Share Option Reserve.\\n23.\\nOTHER FINANCIAL COMMITMENTS\\nCrown Jewels Consultants Ltd entered into a contract to purchase shares from 2 shareholders in 4 tranches. Clearance was\", \"context\": \"This chunk discusses the company's reserves, including the capital redemption reserve and share option reserve, as well as the company's other financial commitments related to the purchase of shares from shareholders.\"}",
+    "element_metadata": {
+        "page_number": 28,
+        "bounding_box": "[{\"x\": 0.4873, \"y\": 2.9896}, {\"x\": 7.7766, \"y\": 2.9896}, {\"x\": 7.7766, \"y\": 4.7153}, {\"x\": 0.4873, \"y\": 4.7153}]",
+        "document_part": 0
+    }
+}

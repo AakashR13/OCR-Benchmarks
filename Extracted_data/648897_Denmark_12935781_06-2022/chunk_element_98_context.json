@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "369aa01c-e992-4a52-bc0a-88cca2feea93",
+    "element_text": "{\"chunk\": \"Immaterielle anl\\u00e6gsaktiver\\nIntangible assets\\nImmaterielle anl\\u00e6gsaktiver m\\u00e5les til kostpris med fradrag\\naf akkumulerede afskrivninger.\\nIntangible assets are measured at cost less accumulate\\namortisation.\\nKostprisen omfatter anskaffelsesprisen samt\\nomkostninger direkte tilknyttet anskaffelsen indtil det\", \"context\": \"The chunk is part of the 'Anvendt regnskabspraksis' (Summary of significant accounting policies) section, which outlines the accounting policies and principles used in preparing the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 14,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 2.5176}, {\"x\": 7.3756, \"y\": 2.5176}, {\"x\": 7.3756, \"y\": 3.6038}, {\"x\": 0.6041, \"y\": 3.6038}]",
+        "document_part": 0
+    }
+}

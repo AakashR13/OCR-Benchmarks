@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides a financial summary comparing various expenses and costs for the years 2022 and 2021. It includes data on depreciation of owned assets, loss on disposal of fixed assets, auditors' remuneration, share-based payments, research and development costs, operating lease rental costs, and foreign exchange differences. The values are presented in British Pounds (£).",
+        "table_in_markdown_format": "| Description                          | 2022 (£) | 2021 (£) |\n|--------------------------------------|----------|----------|\n| Depreciation - owned assets          | 60,142   | 65,590   |\n| Loss on disposal of fixed assets     | 2,150    |          |\n| Auditors' remuneration               | 23,000   | 19,000   |\n| Share-based payments                 | 28,219   | 28,219   |\n| Research and development costs       | 721,711  | 727,745  |\n| Operating lease rental costs         | 361,790  | 464,994  |\n| Foreign exchange differences         | (97,071) | 171,609  |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the depreciation cost for owned assets in 2022?",
+                "answer": "The depreciation cost for owned assets in 2022 was £60,142."
+            },
+            {
+                "question": "How much was the loss on disposal of fixed assets in 2022?",
+                "answer": "The loss on disposal of fixed assets in 2022 was £2,150."
+            },
+            {
+                "question": "What was the auditors' remuneration in 2021?",
+                "answer": "The auditors' remuneration in 2021 was £19,000."
+            },
+            {
+                "question": "Did the share-based payments change from 2021 to 2022?",
+                "answer": "No, the share-based payments remained the same at £28,219 in both 2021 and 2022."
+            },
+            {
+                "question": "What were the research and development costs in 2022?",
+                "answer": "The research and development costs in 2022 were £721,711."
+            },
+            {
+                "question": "How much did the operating lease rental costs decrease from 2021 to 2022?",
+                "answer": "The operating lease rental costs decreased by £103,204 from 2021 to 2022."
+            },
+            {
+                "question": "What was the foreign exchange difference in 2021?",
+                "answer": "The foreign exchange difference in 2021 was £171,609."
+            },
+            {
+                "question": "Was there a foreign exchange gain or loss in 2022?",
+                "answer": "There was a foreign exchange gain of £97,071 in 2022."
+            },
+            {
+                "question": "Which year had higher research and development costs?",
+                "answer": "The year 2021 had higher research and development costs at £727,745 compared to 2022."
+            },
+            {
+                "question": "What is the total of auditors' remuneration for both years?",
+                "answer": "The total of auditors' remuneration for both years is £42,000."
+            }
+        ]
+    }
+]

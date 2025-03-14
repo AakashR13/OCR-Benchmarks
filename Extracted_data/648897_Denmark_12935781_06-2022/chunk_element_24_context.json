@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "7ed5f1ba-9f43-4d17-b7d7-c63b1932fb7f",
+    "element_text": "{\"chunk\": \"Bestyrelsesmedlem\\nBoardmember\\ninforevision\\n4\\nDEN UAFH\\u00c6NGIGE REVISORS REVISIONSP\\u00c5TEGNING\\nINDEPENDENT AUDITOR'S AUDIT REPORT\\nTil kapitalejerne i Bruhn Newtech A/S\\nKonklusion\\nVi har revideret \\u00e5rsregnskabet for Bruhn Newtech A/S for\", \"context\": \"This chunk is part of the independent auditor's report section of the annual report for Bruhn Newtech A/S, a Danish company. The chunk contains the start of the auditor's report, including the addressee and the conclusion section.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 0.5025}, {\"x\": 7.6497, \"y\": 0.5025}, {\"x\": 7.6497, \"y\": 11.2478}, {\"x\": 0.6041, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "d81f247b-9133-4387-8dc1-91b604acd89f",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n|  | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Wages and salaries | 7,981,462 | 7,857,432 |\n| Social security costs | 714,001 | 681,408 |\n| Other pension costs | 208,236 | 203,533 |\n|  | 8,903,699 | 8,742,373 |",
+    "element_metadata": {
+        "page_number": 21,
+        "bounding_box": "[{\"x\": 0.9079, \"y\": 2.6518}, {\"x\": 7.6811, \"y\": 2.6645}, {\"x\": 7.681, \"y\": 3.683}, {\"x\": 0.9062, \"y\": 3.671}]"
+    }
+}

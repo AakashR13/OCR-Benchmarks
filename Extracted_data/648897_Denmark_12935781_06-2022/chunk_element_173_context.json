@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "995ae3f2-fb25-47fe-b34e-65d4051e9f55",
+    "element_text": "{\"chunk\": \"Tilgang i \\u00e5ret\\n4.656.435\\n4.656.435\\n4.100.600\\nAdditions for the year\\nAfgang i \\u00e5ret\\n-5.494.665\\n-5.494.665\\n0\\nDisposals for the year\\nKOSTPRIS PR. 30/6 2022\\n17.482.234\\n17.482.234\\n18.320.464\\nCOST AT 30/6 2022\", \"context\": \"The provided chunk appears to be a section from the fixed asset and amortisation overview for the company's intangible assets, specifically the \\\"Completed development projects\\\". It provides the additions, disposals, and total cost at the end of the financial year for this asset category.\"}",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 1.0151, \"y\": 2.7208}, {\"x\": 8.1313, \"y\": 2.7208}, {\"x\": 8.1313, \"y\": 3.7868}, {\"x\": 1.0151, \"y\": 3.7868}]",
+        "document_part": 0
+    }
+}

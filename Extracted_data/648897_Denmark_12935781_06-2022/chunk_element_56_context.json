@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "10d1b401-f935-4a94-9a3d-60baf2b56c86",
+    "element_text": "{\"chunk\": \"ledelsesberetningen, og vi udtrykker ingen form for\\nkonklusion med sikkerhed om ledelsesberetningen.\\nI tilknytning til vores revision af \\u00e5rsregnskabet er det vores\\nansvar at l\\u00e6se ledelsesberetningen og i den forbindelse\\noverveje, om ledelsesberetningen er v\\u00e6sentlig\", \"context\": \"This chunk is part of the Independent Auditor's Audit Report section of the document, where the auditor discusses their responsibility regarding the Management's Review.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 3.8169}, {\"x\": 3.9187, \"y\": 3.8169}, {\"x\": 3.9187, \"y\": 4.8828}, {\"x\": 0.6091, \"y\": 4.8828}]",
+        "document_part": 0
+    }
+}

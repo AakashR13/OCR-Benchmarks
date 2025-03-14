@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "c5942808-dbab-4327-a082-68beac2c2279",
+    "element_text": "{\"chunk\": \"another long term.\\nOur Commercial Management arm of the company is now under new management, and the business plan that has been presented to\\nthe board shows a projected growth and most importantly a bigger gross margin.\\nCrown Jewels is paying particular attention this year to encouraging new blood into the industry. We are trying to lead the way with a\\ncampaign to entice young people from all walks of life and all levels of education into the world of market data. We are trying to\", \"context\": \"This chunk discusses the company's strategy and initiatives, including the Commercial Management arm's new business plan, efforts to attract new talent to the industry, and the company's long-term partnership with London Stock Exchange Group.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 2.0607}, {\"x\": 7.7715, \"y\": 2.0607}, {\"x\": 7.7715, \"y\": 3.1469}, {\"x\": 0.4822, \"y\": 3.1469}]",
+        "document_part": 0
+    }
+}

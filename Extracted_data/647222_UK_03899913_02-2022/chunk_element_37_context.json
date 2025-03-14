@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ea779eca-5e9a-45c8-b4dd-e3b8ea93722c",
+    "element_text": "{\"chunk\": \"identify or recognise non-compliance with applicable laws and regulations;\\n- we identified the laws and regulations applicable to the company through discussions with directors and other management, and\\nfrom our commercial knowledge and experience of the software consultancy sector;\\n- we focused on specific laws and regulations which we considered may have a direct material effect on the financial statements or\\nthe operations of the company, including the Companies Act 2006, taxation legislation and data protection, anti-bribery, and\\nemployment legislation;\", \"context\": \"This chunk is from the \\\"Auditors' responsibilities for the audit of the financial statements\\\" section, which outlines the auditors' approach to identifying and assessing the risks of material misstatement in the financial statements, including those related to irregularities and non-compliance with laws and regulations.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 2.8322}, {\"x\": 7.7766, \"y\": 2.8322}, {\"x\": 7.7766, \"y\": 3.7713}, {\"x\": 0.4772, \"y\": 3.7713}]",
+        "document_part": 0
+    }
+}

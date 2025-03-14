@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "4cc87e34-92c5-4278-85ef-0b4120f16e12",
+    "element_text": "{\"chunk\": \"consideration of \\u00a3458,624 and stamp duty of \\u00a32,295 was paid. On 28 June 2021, a further 526 \\\" A\\\" shares were purchased by\\nthe company and cancelled. These shares were also acquired for a consideration of \\u00a3458,624 and stamp duty of \\u00a32,295 was\\npaid. The shareholders had approved a resolution to purchase these shares. These shares were acquired in order to buy back\\nthe shares of a minority shareholder in the company.\", \"context\": \"The chunk describes the company's share buyback activities, where they purchased and cancelled 526 \\\"A\\\" shares on two occasions in 2021 to buy back the shares of a minority shareholder.\"}",
+    "element_metadata": {
+        "page_number": 27,
+        "bounding_box": "[{\"x\": 0.9238, \"y\": 5.8371}, {\"x\": 7.7715, \"y\": 5.8371}, {\"x\": 7.7715, \"y\": 6.4614}, {\"x\": 0.9238, \"y\": 6.4614}]",
+        "document_part": 0
+    }
+}

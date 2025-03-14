@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "7c347d09-fc92-4f36-9e8e-7f3c72743109",
+    "element_text": "{\"chunk\": \"Reserve for udviklingsomkostninger\\nReserve for development expenditure\\n6.982.378\\n6.723.096\\nOverf\\u00f8rt resultat\\nRetained earnings\\n650.771\\n283.539\\nForslag til udbytte for regnskabs\\u00e5ret\\n8.000.000\\n6.500.000\\nProposed dividends for the financial year\\nEGENKAPITAL\\n16.133.149\\n14.006.635\\nEQUITY\\n4\", \"context\": \"This chunk represents the equity section of the balance sheet, showing the company's share capital, reserves, retained earnings, and proposed dividends.\"}",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 0.6244, \"y\": 2.3551}, {\"x\": 7.5583, \"y\": 2.3551}, {\"x\": 7.5583, \"y\": 4.2281}, {\"x\": 0.6244, \"y\": 4.2281}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a4c1c4e1-784e-41f8-92f0-babfdcee3ddc",
+    "element_text": "{\"chunk\": \"There are inherent limitations in our audit procedures described above. The more removed that laws and regulations are from\\nfinancial transactions, the less likely it is that we would become aware of non-compliance. Auditing standards also limit the audit\\nprocedures required to identify non-compliance with laws and regulations to enquiry of the directors and other management and the\\ninspection of regulatory and legal correspondence, if any.\", \"context\": \"This chunk is part of the auditor's report, discussing the limitations of their audit procedures in identifying non-compliance with laws and regulations.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 7.5121}, {\"x\": 7.7715, \"y\": 7.5121}, {\"x\": 7.7715, \"y\": 8.1414}, {\"x\": 0.4822, \"y\": 8.1414}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ce7ae4af-fa81-4ebf-ada9-a0b4a3b2dd12",
+    "element_text": "{\"chunk\": \"ANVENDT REGNSKABSPRAKSIS, fortsat\\nSUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued\\nForpligtelser indregnes i balancen, n\\u00e5r det er sandsynligt,\\nat fremtidige \\u00f8konomiske fordele vil frag\\u00e5 selskabet, og\\nforpligtelsens v\\u00e6rdi kan m\\u00e5les p\\u00e5lideligt.\\nLiabilities are recognised in the balance sheet when it is\", \"context\": \"The chunk describes the accounting policy for recognizing liabilities in the balance sheet of the company.\"}",
+    "element_metadata": {
+        "page_number": 11,
+        "bounding_box": "[{\"x\": 0.599, \"y\": 0.5177}, {\"x\": 7.406, \"y\": 0.5177}, {\"x\": 7.406, \"y\": 1.7867}, {\"x\": 0.599, \"y\": 1.7867}]",
+        "document_part": 0
+    }
+}

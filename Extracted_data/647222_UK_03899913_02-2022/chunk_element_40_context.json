@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "9a389615-bc3a-4bbe-8914-c4972ae80579",
+    "element_text": "{\"chunk\": \"- assessed whether judgements and assumptions made in determining the accounting estimates were indicative of potential bias; and\\n- investigated the rationale behind significant or unusual transactions.\\nIn response to the risk of irregularities and non-compliance with laws and regulations, we designed procedures which included, but\\nwere not limited to:\\n- agreeing financial statement disclosures to underlying supporting documentation;\\n- enquiring of management as to actual and potential litigation and claims; and\\n- reviewing correspondence with HMRC.\", \"context\": \"This chunk describes the auditor's procedures to address the risk of material misstatement due to fraud and non-compliance with laws and regulations.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 6.1061}, {\"x\": 7.7766, \"y\": 6.1061}, {\"x\": 7.7766, \"y\": 7.3547}, {\"x\": 0.4772, \"y\": 7.3547}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "e673d2be-c7c4-447d-beeb-eb46d9749abd",
+    "element_text": "{\"chunk\": \"Underskrifterne i dette dokument er juridisk bindende. Dokumentet er underskrevet via Penneo\\u2122 sikker digital underskrift.\\nUnderskrivernes identiteter er blevet registereret, og informationerne er listet herunder.\\n\\\"Med min underskrift bekr\\u00e6fter jeg indholdet og alle datoer i dette dokument.\\\"\\nErik Juel Ellinghaus\\nErik Juel Ellinghaus\\nAdm. direkt\\u00f8r\", \"context\": \"This chunk is the legal signature section at the end of the annual report document for Bruhn Newtech A/S, where the company executives and auditors digitally sign the report.\"}",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 0.5881, \"y\": 1.2674}, {\"x\": 7.1637, \"y\": 1.2674}, {\"x\": 7.1637, \"y\": 2.91}, {\"x\": 0.5881, \"y\": 2.91}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "1c96aea0-8751-467f-8851-d0972b65f9c2",
+    "element_text": "{\"chunk\": \"faglige vurderinger og opretholder professionel skepsis\\nunder revisionen. Herudover:\\nAs part of an audit conducted in accordance with ISAs\\nand the additional requirements applicable in Denmark,\\nwe exercise professional judgment and maintain\\nprofessional skepticism throughout the audit. We also:\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\ninforevision\\n6\", \"context\": \"The chunk is part of the independent auditor's report, specifically the section describing the auditor's responsibilities in conducting the audit.\"}",
+    "element_metadata": {
+        "page_number": 8,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 0.5533}, {\"x\": 8.1522, \"y\": 0.5533}, {\"x\": 8.1522, \"y\": 11.2478}, {\"x\": 0.6091, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

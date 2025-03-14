@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides a summary of cash flow and debt status over a period from 1st March 2021 to 28th February 2022. It includes details of cash at the bank, debts falling due within one year, and debts falling due after one year. The table shows the cash flow changes and the total net cash position at the beginning and end of the period.",
+        "table_in_markdown_format": "| Description                      | At 1.3.21 | Cash flow | At 28.2.22 |\n|----------------------------------|-----------|-----------|------------|\n| Cash at bank                     | 2,654,639 | 945,952   | 3,600,591  |\n| Debts falling due within 1 year  |           | (20,557)  | (20,557)   |\n| Debts falling due after 1 year   | 1         | (224,643) | (224,643)  |\n| Total                            | 2,654,639 | 700,752   | 3,355,391  |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the cash at bank on 1st March 2021?",
+                "answer": "£2,654,639"
+            },
+            {
+                "question": "What was the cash flow during the period?",
+                "answer": "£945,952"
+            },
+            {
+                "question": "What was the cash at bank on 28th February 2022?",
+                "answer": "£3,600,591"
+            },
+            {
+                "question": "What was the total debt falling due within one year at the end of the period?",
+                "answer": "£(20,557)"
+            },
+            {
+                "question": "What was the total debt falling due after one year at the end of the period?",
+                "answer": "£(224,643)"
+            },
+            {
+                "question": "What was the total net cash at the beginning of the period?",
+                "answer": "£2,654,639"
+            },
+            {
+                "question": "What was the total net cash at the end of the period?",
+                "answer": "£3,355,391"
+            },
+            {
+                "question": "How much did the debts falling due after one year change during the period?",
+                "answer": "£(224,643)"
+            },
+            {
+                "question": "What is the total change in cash flow during the period?",
+                "answer": "£700,752"
+            },
+            {
+                "question": "What is the total net cash change from 1st March 2021 to 28th February 2022?",
+                "answer": "£700,752"
+            }
+        ]
+    }
+]

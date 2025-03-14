@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "4f759c87-61d3-4210-b39e-026d708a0ca2",
+    "element_text": "{\"chunk\": \"-6.500.000\\n-6.500.000\\nDividends paid\\nValutakursregulering i tilknyttede virksomheder\\n0\\n0\\n317.853\\n0\\n317.853\\nNet exchange differences, investments in group enterprises\\nOverf\\u00f8rt til reserve\\nfor udviklingsomkostninger\\n0\\n259.282\\n0\\n0\\n259.282\\nTransferred to reserve for development expenditure\\nOverf\\u00f8rt via resultatdisponeringen\\n0\\n0\\n49.379\", \"context\": \"This chunk appears to be part of the statement of changes in equity, detailing the movements in the company's equity accounts during the financial year.\"}",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 1.0151, \"y\": 4.9035}, {\"x\": 10.192, \"y\": 4.9035}, {\"x\": 10.192, \"y\": 6.1928}, {\"x\": 1.0151, \"y\": 6.1928}]",
+        "document_part": 0
+    }
+}

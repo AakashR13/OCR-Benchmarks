@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "c6defcba-0d03-4afa-b941-c32ffb4fee43",
+    "element_text": "{\"chunk\": \"Transaktioner i fremmed valuta er i \\u00e5rets l\\u00f8b omregnet til\\ntransaktionsdagens kurs. Hvis valutapositioner anses for\\nsikring af fremtidige pengestr\\u00f8mme, indregnes\\nv\\u00e6rdireguleringerne direkte p\\u00e5 egenkapitalen.\\nDuring the year, transactions in foreign currencies have\\nbeen translated applying the exchange rate at the\\ntransaction date. If currency positions are considered\", \"context\": \"The chunk describes the company's policy for accounting for transactions in foreign currencies, which is part of the summary of significant accounting policies section of the annual report.\"}",
+    "element_metadata": {
+        "page_number": 11,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 6.9283}, {\"x\": 7.406, \"y\": 6.9283}, {\"x\": 7.406, \"y\": 7.6288}, {\"x\": 0.6041, \"y\": 7.6288}]",
+        "document_part": 0
+    }
+}

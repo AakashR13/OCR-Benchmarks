@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "cfe131bb-6d1f-4a3c-9c6a-e225d13cae49",
+    "element_text": "{\"chunk\": \"to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions we\\nhave formed.\\nMarc Levy FCA (Senior Statutory Auditor)\\nfor and on behalf of Blick Rothenberg Audit LLP\\nChartered Accountants\\nStatutory Auditor\\n16 Great Queen Street\\nCovent Garden\\nLondon\\nWC2B 5AH\\n22 November 2022\\nPage 9\", \"context\": \"This chunk is the concluding section of the independent auditor's report for Crown Jewels Consultants Ltd, which outlines the auditor's responsibilities and the limitation of liability for the audit.\"}",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 1.746}, {\"x\": 7.7664, \"y\": 1.746}, {\"x\": 7.7664, \"y\": 11.1666}, {\"x\": 0.4772, \"y\": 11.1666}]",
+        "document_part": 0
+    }
+}

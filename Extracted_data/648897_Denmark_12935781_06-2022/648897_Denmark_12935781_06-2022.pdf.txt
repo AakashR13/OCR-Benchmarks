@@ -1,0 +1,2020 @@
+Buddingevej 312
+2860 Søborg
+Tlf. 39 53 50 00
+CVR-nr.: 19 26 30 96
+inforevision a/s
+Statsautoriseret  Revisionsaktieselskab
+            ÅRSRAPPORT
+                ANNUAL REPORT
+           1. JULI 2021 - 30. JUNI 2022
+                1 JULY 2021 - 30 JUNE 2022
+           BRUHN NEWTECH A/S
+           Vandtårnsvej 62 A, 1. a.
+           2860 Søborg
+           CVR-nr. 12 93 57 81
+                CENTRAL BUSINESS REGISTRATION no. 12 93 57 81
+Godkendt på selskabets
+ordinære generalforsamling,
+den  13/10    2022
+Adopted at the Company's
+Annual General Meeting,
+on       13/10      2022
+Kristoffer Basse
+Dirigent
+Chairman
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+INDHOLDSFORTEGNELSE
+CONTENTS
+Side
+Page
+Ledelsesberetning mv.
+Management’s review etc.
+Selskabsoplysninger
+1
+Company details
+Ledelsesberetning
+2
+Management’s review
+Påtegninger
+Statement and report
+Ledelsespåtegning
+3
+Statement by Management on the annual report
+Den uafhængige revisors revisionspåtegning
+4-7
+Independent auditor's report
+Årsregnskab
+Financial statements
+Anvendt regnskabspraksis
+8-16
+Summary of significant accounting policies
+Resultatopgørelse 1. juli 2021 - 30. juni 2022
+17
+Income statement 1 July 2021 -  30 June 2022
+Balance pr. 30. juni 2022
+18-20
+Balance sheet at 30 June 2022
+Egenkapitalopgørelse pr. 30. juni 2022
+21
+Statement of changes in equity 30 June 2022
+Noter
+22-28
+Notes
+Sagsnr.  902304
+Case no. 902304
+st/dcj
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+SELSKABSOPLYSNINGER
+1
+COMPANY DETAILS
+Selskab
+Company
+Bruhn Newtech A/S
+Vandtårnsvej 62 A, 1. a.
+2860  Søborg
+CVR-nummer 12 93 57 81
+Central Business Registration no. 12 93 57 81
+Hjemsted: 
+Gladsaxe
+Registered in: 
+Direktion
+Board of Executives
+Erik Juel Ellinghaus
+Bestyrelse
+Board of Directors
+Kristoffer Basse
+Lars Bjørn Dupont Jensen
+Erik Bakke
+Erik Juel Ellinghaus
+Revision
+Company auditors
+inforevision
+statsautoriseret revisionsaktieselskab
+Buddingevej 312
+2860 Søborg
+CVR-nummer 19263096
+Central business registration no. 19263096
+Simon Morthorst, statsautoriseret revisor/State Authorized Public Accountant
+Daniel Castiblanco Jakobsen statsautoriseret revisor/State Authorized Public Accountant
+I tilfælde af uoverensstemmelser mellem den danske og 
+den engelske tekst, er den danske tekst gældende.
+In case of discrepancy between the Danish and the 
+English text the Danish shall prevail.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+LEDELSESBERETNING 2021/22
+2
+MANAGEMENT'S REVIEW 2021/22
+Væsentligste aktiviteter
+Primary activities
+Den forventede udvikling
+Development in the Company's activities and finances
+Selskabet har i løbet af regnskabsåret fulgt sin strategi om 
+fokus på udvikling af sine softwareløsninger, der beskytter 
+mennesker mod kemiske, biologiske, radiologiske og 
+nukleare (CBRN) trusler.
+The company has during the year followed its strategic 
+focus on developing its life-saving software solutions, 
+that protects people against Chemical, biological, 
+radiological and nuclear (CBRN) threats.
+Selskabet har i løbet af regnskabsåret opnået fortsat 
+vækst i sin portefølje af kunder, der abonnerer løbende på 
+selskabets softwareløsninger.
+During the financial year, the company has achieved 
+continued growth of its portfolio of customers with 
+ongoing subscriptions to the company’s software 
+solutions.
+Bruhn Newtech A/S' hovedaktivitet har i lighed med 
+tidligere år bestået i udvikling og handel med
+teknologiske produkter.
+As in previous years, Bruhn Newtech A/S's primary 
+activities were developing of and trading with 
+technological products.
+Events after the balance sheet date
+Resultatet anses for værende tilfredsstillende.
+Selskabets fokus på at indgå i fælleseuropæiske 
+sikkerhedsprojekter har resulteret i igangværende 
+projekter og selskabet har forventning om yderligere 
+vækst i projektporteføljen.
+The company’s focus on entering common European 
+security projects has resulted in ongoing projects and the 
+company is expecting further increases in the project 
+portfolio.
+Udviklingen i selskabets aktiviteter og økonomiske 
+forhold
+Der forventes vækst i selskabets omsætning og fortsat 
+positiv indtjening.
+Begivenheder efter regnskabsårets afslutning
+Der er ikke indtrådt betydningsfulde begivenheder efter 
+regnskabsårets afslutning, som kan have indflydelse på 
+bedømmelsen af selskabets finansielle stilling pr. 30. juni 
+2022.
+No significant events have occurred after the balance 
+sheet date which would influence the evaluation of the 
+Company's financial position at 30. juni 2022.
+Outlook
+Management expects growth in revenue and 
+continuously positive earnings.
+The profit for the year is considered satisfactory.
+Selskabet har fortsat vist resiliens i relation til Covid-19 
+pandemiens indvirken generelt og samtidig vist resiliens 
+overfor de udfordringer energipriser og forsyningslinjer 
+skaber i markedet.
+The company has shown continued resilience in relation 
+to the Covid-19 pandemic’s effect in general and has also 
+shown resilience towards the challenges that energy 
+prices and supply lines cause in the markets.
+Selskabets relevans i markedet, og for samfundet 
+generelt, er styrket yderligere i takt med den ændrede 
+geopolitiske situation. Selskabet er parat til at leve op til 
+det stigende ansvar og øgede efterspørgsel som forventes 
+i kommende år. 
+The relevance of the company in the market, and in 
+society more broadly, has been further strengthened by 
+the changed geopolitical situation. The company is ready 
+to take on the increased responsibility and demand that 
+is expected in the years ahead.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+LEDELSESPÅTEGNING
+3
+STATEMENT BY MANAGEMENT ON THE ANNUAL REPORT
+Søborg, den 11. oktober 2022
+Søborg, 11th October 2022
+I direktionen
+Board of Executives
+Erik Juel Ellinghaus
+Adm. direktør
+CEO
+I bestyrelsen
+Board of Directors
+Kristoffer Basse
+Lars Bjørn Dupont Jensen
+Formand
+Bestyrelsesmedlem
+Chairman
+Boardmember
+Erik Bakke
+Erik Juel Ellinghaus
+Bestyrelsesmedlem
+Bestyrelsesmedlem
+Boardmember
+Boardmember
+The Board of Directors and Board of Executives have 
+today discussed and approved the annual report for the 
+financial year 1 July 2021 - 30 June 2022 of Bruhn 
+Newtech A/S.
+Det er vor opfattelse, at årsregnskabet giver et retvisende 
+billede af selskabets aktiver, passiver og finansielle stilling 
+pr. 30. juni 2022 samt af resultatet af selskabets 
+aktiviteter for regnskabsåret 1. juli 2021 - 30. juni 2022.
+In our opinion the financial statements give a true and 
+fair view of the Company's financial position at 30 June 
+2022 and of the result of the Company's operation for the 
+financial year 1 July 2021 - 30 June 2022.
+We recommend that the Annual Report be approved at 
+the annual general meeting.
+Årsrapporten indstilles til generalforsamlingens 
+godkendelse.
+Bestyrelse og direktion har dags dato behandlet og 
+godkendt årsrapporten for 1. juli 2021 - 30. juni 2022 for 
+Bruhn Newtech A/S.
+Årsrapporten er aflagt i overensstemmelse med 
+årsregnskabsloven. 
+In our opinion the management's review includes a fair 
+review about the matters the review deals with.
+The annual report has been prepared in accordance with 
+the Danish Financial Statements Act. 
+Ledelsesberetningen indeholder efter vor opfattelse en 
+retvisende redegørelse for de forhold beretningen 
+omhandler.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+DEN UAFHÆNGIGE REVISORS REVISIONSPÅTEGNING
+4
+INDEPENDENT AUDITOR'S AUDIT REPORT
+Konklusion
+Grundlag for konklusion
+To the shareholders of Bruhn Newtech A/S
+Basis for opinion
+Vi har revideret årsregnskabet for Bruhn Newtech A/S for 
+regnskabsåret 1. juli 2021 - 30. juni 2022, der omfatter 
+anvendt regnskabspraksis, resultatopgørelse, balance, 
+egenkapitalopgørelse og noter. Årsregnskabet udarbejdes 
+efter årsregnskabsloven.
+We have audited the financial statements of Bruhn 
+Newtech A/S for the financial year 1 July 2021 to 30 June 
+2022, which comprise the accounting policies applied, 
+the income statement, the balance sheet, statement of 
+changes in equity statement and notes. The financial 
+statements are prepared in accordance under the Danish 
+Financial Statements Act.
+Vi har udført vores revision i overensstemmelse med 
+internationale standarder om revision og de yderligere 
+krav, der er gældende i Danmark. Vores ansvar ifølge disse 
+standarder og krav er nærmere beskrevet i 
+revisionspåtegningens afsnit "Revisors ansvar for 
+revisionen af årsregnskabet". Vi er uafhængige af 
+selskabet i overensstemmelse med International Ethics 
+Standards Board for Accountants' internationale 
+retningslinjer for revisorers etiske adfærd (IESBA Code) og 
+de yderligere etiske krav, der er gældende i Danmark, 
+ligesom vi har opfyldt vores øvrige etiske forpligtelser i 
+henhold til disse krav og IESBA Code. Det er vores 
+opfattelse, at det opnåede revisionsbevis er tilstrækkeligt 
+og egnet som grundlag for vores konklusion.
+We conducted our audit in accordance with international 
+Standards on Auditing (ISAs) and the additional 
+requirements applicable in Denmark. Our responsibilities 
+under those standards and requirements are further 
+described in the “Auditor’s Responsibilities for the Audit 
+of the Financial Statements” section of our report. We 
+are independent of the company in accordance with the 
+International Ethics Standards Board for Accountants’ 
+Code of Ethics for Professional
+Accountants (IESBA Code) and the additional 
+requirements applicable in Denmark, and we have 
+fulfilled our other ethical responsibilities in accordance 
+with these requirements. We believe that the audit 
+evidence we have obtained is sufficient and appropriate 
+to provide a basis for our opinion.
+Opinion
+Det er vores opfattelse, at årsregnskabet giver et 
+retvisende billede af selskabets aktiver, passiver og 
+finansielle stilling pr. 30. juni 2022 samt af resultatet af 
+selskabets aktiviteter for regnskabsåret 1. juli 2021 - 30. 
+juni 2022 i overensstemmelse med årsregnskabsloven.
+In our opinion the financial statement give a true and fair 
+view of the Company's financial position at 30 June 2022, 
+and of the result of the Company's operations for the 
+financial year 1 July 2021 to 30 June 2022 in accordance 
+with the Danish Financial Statements Act.
+Til kapitalejerne i Bruhn Newtech A/S
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+DEN UAFHÆNGIGE REVISORS REVISIONSPÅTEGNING
+5
+INDEPENDENT AUDITOR'S AUDIT REPORT
+Ledelsens ansvar for årsregnskabet
+Management's responsibility for the Financial 
+Statements
+Management is responsible for the preparation of 
+Financial Statements that give a true and fair view in 
+accordance with the Danish Financial Statements
+Act, and for such internal control as Management 
+determines is necessary to enable the preparation of
+Financial Statements that are free from material
+misstatement, whether due to fraud or error.
+Som led i en revision, der udføres i overensstemmelse 
+med internationale standarder om revision og de 
+yderligere krav, der er gældende i Danmark, foretager vi 
+faglige vurderinger og opretholder professionel skepsis 
+under revisionen. Herudover:
+Auditor's responsibility for the Audit of the Financial 
+Statements
+As part of an audit conducted in accordance with ISAs 
+and the additional requirements applicable in Denmark, 
+we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also:
+Ledelsen har ansvaret for udarbejdelsen af et årsregnskab, 
+der giver et retvisende billede i overensstemmelse med 
+årsregnskabsloven. Ledelsen har endvidere ansvaret for 
+den interne kontrol, som ledelsen anser for nødvendig for 
+at udarbejde et årsregnskab uden væsentlig 
+fejlinformation, uanset om denne skyldes besvigelser eller 
+fejl.
+Vores mål er at opnå høj grad af sikkerhed for, om 
+årsregnskabet som helhed er uden væsentlig 
+fejlinformation, uanset om denne skyldes besvigelser eller 
+fejl, og at afgive en revisionspåtegning med en konklusion. 
+Høj grad af sikkerhed er et højt niveau af sikkerhed, men 
+ikke en garanti for, at en revision, der udføres i 
+overensstemmelse med internationale standarder om 
+revision og de yderligere krav, der er gældende i Danmark, 
+altid vil afdække væsentlig fejlinformation, når sådan 
+findes. Fejlinformationer kan opstå som følge af 
+besvigelser eller fejl og kan betragtes som væsentlige, hvis 
+det med rimelighed kan forventes, at de enkeltvis eller 
+samlet har indflydelse på de økonomiske beslutninger, 
+som regnskabsbrugerne træffer på grundlag af 
+årsregnskabet.
+Ved udarbejdelsen af årsregnskabet er ledelsen ansvarlig 
+for at vurdere selskabets evne til at fortsætte driften; at 
+oplyse om forhold vedrørende fortsat drift, hvor dette er 
+relevant; samt at udarbejde årsregnskabet på grundlag af 
+regnskabsprincippet om fortsat drift, medmindre ledelsen 
+enten har til hensigt at likvidere selskabet, indstille driften 
+eller ikke har andet realistisk alternativ end at gøre dette.
+Our objectives are to obtain reasonable assurance about 
+whether the Financial Statements as a whole are free 
+from material misstatement, whether due to fraud or 
+error, and to issue an auditor’s report that includes our 
+opinion. Reasonable assurance is a high level of 
+assurance, but is not a guarantee that an audit 
+conducted in accordance with ISAs and the
+additional requirements applicable in Denmark will 
+always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, 
+they could reasonably be expected to influence the 
+economic decisions of users taken on the basis of 
+Financial Statements.
+In preparing the Financial Statements, Management
+is responsible for assessing the Company’s ability to 
+continue as a going concern, disclosing, as applicable, 
+matters related to going concern and using the going 
+concern basis of accounting in preparing the Financial 
+Statements unless Management either intends to 
+liquidate the Company or to cease operations, or has no 
+realistic alternative but to do so.
+Revisors ansvar for revisionen af årsregnskabet
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+DEN UAFHÆNGIGE REVISORS REVISIONSPÅTEGNING
+6
+INDEPENDENT AUDITOR'S AUDIT REPORT
+* Konkluderer vi, om ledelsens udarbejdelse af 
+årsregnskabet på grundlag af regnskabsprincippet om 
+fortsat drift er passende, samt om der på grundlag af det 
+opnåede revisionsbevis er væsentlig usikkerhed forbundet 
+med begivenheder eller forhold, der kan skabe betydelig 
+tvivl om selskabets evne til at fortsætte driften. Hvis vi 
+konkluderer, at der er en væsentlig usikkerhed, skal vi i 
+vores revisionspåtegning gøre opmærksom på oplysninger 
+herom i årsregnskabet eller, hvis sådanne oplysninger ikke 
+er tilstrækkelige, modificere vores konklusion. Vores 
+konklusioner er baseret på det revisionsbevis, der er 
+opnået frem til datoen for vores revisionspåtegning. 
+Fremtidige begivenheder eller forhold kan dog medføre, 
+at selskabet ikke længere kan fortsætte driften.
+* Obtain an understanding of internal control relevant to 
+the audit in order to design audit procedures that are 
+appropriate in the circum-stances, but not for the 
+purpose of expressing an opinion on the effectiveness of 
+the Company’s internal control.
+* Tager vi stilling til, om den regnskabspraksis, som er 
+anvendt af ledelsen, er passende, samt om de 
+regnskabsmæssige skøn og tilknyttede oplysninger, som 
+ledelsen har udarbejdet, er rimelige.
+* Evaluate the overall presentation, structure and 
+contents of the Financial Statements, including the 
+disclosures, and whether the Financial Statements 
+represent the underlying transactions and events in a 
+manner that gives a true and fair view.
+* Evaluate the appropriateness of accounting policies 
+used and the reasonableness of accounting
+estimates and related disclosures made by Management.
+* Conclude on the appropriateness of Management’s use 
+of the going concern basis of accounting in preparing the 
+Financial Statements and, based on the audit evidence 
+obtained, whether a material uncertainty exists related 
+to events or conditions that may cast significant doubt on 
+the Company’s ability to continue as a going concern. If 
+we conclude that a material uncertainty exists, we are 
+required to draw attention in our auditor’s report to the 
+related disclosures in the Financial Statements or, if such 
+disclosures are inadequate, to modify our opinion. Our 
+conclusions are based on the audit evidence obtained up 
+to the date of our auditor’s report. However, future 
+events or conditions may cause the Company to cease to 
+continue as a going concern.
+* Tager vi stilling til den samlede præsentation, struktur 
+og indhold af årsregnskabet, herunder noteoplysningerne, 
+samt om årsregnskabet afspejler de underliggende 
+transaktioner og begivenheder på en sådan måde, at der 
+gives et retvisende billede heraf.
+* Identificerer og vurderer vi risikoen for væsentlig 
+fejlinformation i årsregnskabet, uanset om denne skyldes 
+besvigelser eller fejl, udformer og udfører 
+revisionshandlinger som reaktion på disse risici samt 
+opnår revisionsbevis, der er tilstrækkeligt og egnet til at 
+danne grundlag for vores konklusion. Risikoen for ikke at 
+opdage væsentlig fejlinformation forårsaget af besvigelser 
+er højere end ved væsentlig fejlinformation forårsaget af 
+fejl, idet besvigelser kan omfatte sammensværgelser, 
+dokumentfalsk, bevidste udeladelser, vildledning eller 
+tilsidesættelse af intern kontrol.
+* Identify and assess the risks of material misstatement 
+of the Financial Statements, whether due to fraud or 
+error, design and perform audit procedures responsive to 
+those risks, and obtain audit evidence that is sufficient 
+and appropriate to provide a basis for our opinion. The 
+risk of not detecting a material misstatement resulting 
+from fraud is higher than for one resulting from error as 
+fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal 
+control.
+* Opnår vi forståelse af den interne kontrol med relevans 
+for revisionen for at kunne udforme revisionshandlinger, 
+der er passende efter omstændighederne, men ikke for at 
+kunne udtrykke en konklusion om effektiviteten af 
+selskabets interne kontrol.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+DEN UAFHÆNGIGE REVISORS REVISIONSPÅTEGNING, fortsat
+7
+INDEPENDENT AUDITOR'S AUDIT REPORT, continued
+Søborg, den 11. oktober 2022
+Søborg, 11th October 2022
+inforevision
+statsautoriseret revisionsaktieselskab
+(cvr 19263096)
+Simon Morthorst
+Daniel Castiblanco Jakobsen
+statsautoriseret revisor
+statsautoriseret revisor
+State Authorized Public Accountant
+State Authorized Public Accountant
+mne29383
+mne45858
+Udtalelse om ledelsesberetningen
+Baseret på det udførte arbejde er det vores opfattelse, at 
+ledelsesberetningen er i overensstemmelse med 
+årsregnskabet og er udarbejdet i overensstemmelse med 
+årsregnskabslovens krav. Vi har ikke fundet væsentlig 
+fejlinformation i ledelsesberetningen.
+Vi kommunikerer med den øverste ledelse om blandt 
+andet det planlagte omfang og den tidsmæssige placering 
+af revisionen samt betydelige revisionsmæssige 
+observationer, herunder eventuelle betydelige mangler i 
+intern kontrol, som vi identificerer under revisionen.
+We communicate with those charged with governance 
+regarding, among other matters, the planned scope and 
+timing of the audit and significant audit findings, 
+including any significant deficiencies in internal control 
+that we identify during our audit.
+Based on the work we have performed, we conclude that 
+Management’s Review is in accordance with the 
+Financial Statements and has been prepared in 
+accordance with the requirements of the Danish 
+Financial Statement Acts. We did not identify any 
+material misstatement of Management’s Review.
+Vores konklusion om årsregnskabet omfatter ikke 
+ledelsesberetningen, og vi udtrykker ingen form for 
+konklusion med sikkerhed om ledelsesberetningen.
+Our opinion on the Financial Statements does
+not cover Management’s Review, and we do not express 
+any form of assurance conclusion thereon.
+I tilknytning til vores revision af årsregnskabet er det vores 
+ansvar at læse ledelsesberetningen og i den forbindelse 
+overveje, om ledelsesberetningen er væsentlig 
+inkonsistent med årsregnskabet eller vores viden opnået 
+ved revisionen eller på anden måde synes at indeholde 
+væsentlig fejlinformation.
+In connection with our audit of the Financial
+Statements, our responsibility is to read Management’s 
+Review and, in doing so, consider whether 
+Management’s Review is materially inconsistent with the 
+Financial Statements or our knowledge obtained during 
+the audit, or otherwise appears to be materially 
+misstated.
+Vores ansvar er derudover at overveje, om 
+ledelsesberetningen indeholder krævede oplysninger i 
+henhold til årsregnskabsloven.
+Statement on the Management’s review
+Moreover, it is our responsibility to consider whether 
+Management’s Review provides the information required 
+under the Danish Financial Statements Act.
+Ledelsen er ansvarlig for ledelsesberetningen.
+Management is responsible for Management’s Review.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS
+8
+Summary of significant accounting policies
+GENERELT OM INDREGNING OG MÅLING
+Årsrapporten er udarbejdet i overensstemmelse med 
+dansk regnskabslovgivning samt almindeligt anerkendt 
+regnskabspraksis. 
+Indtægterne indregnes i resultatopgørelsen i takt med, at 
+de indtjenes. Herudover indregnes værdireguleringer af 
+finansielle aktiver og forpligtelser, der måles til dagsværdi 
+eller amortiseret kostpris. Endvidere indregnes i 
+resultatopgørelsen alle omkostninger, der er afholdt for at 
+opnå årets indtjening, herunder afskrivninger, 
+nedskrivninger og hensatte forpligtelser samt 
+tilbageførsler som følge af ændrede regnskabsmæssige 
+skøn af beløb, der tidligere har været indregnet i 
+resultatopgørelsen.
+Årsrapporten aflægges efter årsregnskabslovens 
+regnskabsklasse B, med tilvalgt af enkelte bestemmelser 
+fra regnskabsklasse C.
+The annual report has been prepared in accordance with 
+Danish financial statements legislation as well as 
+generally accepted accounting principles. 
+The annual report has been prepared in accordance with 
+the reporting requirements of the Danish Financial 
+Statements Act of reporting class B as well as selected 
+rules applying to reporting class C.
+Regnskabet er udarbejdet med udgangspunkt i det 
+historiske kostprisprincip.
+Anvendt regnskabspraksis er uændret i forhold til sidste 
+år.
+Assets are recognised in the balance sheet when it is 
+probable that future economic benefits will flow into the 
+Company, and the value of the asset can be measured 
+reliably.
+The accounting policies has been unchanged from last 
+year.
+The financial statements have been prepared based on 
+historical cost.
+RECOGNITION AND MEASUREMENT
+Aktiver indregnes i balancen, når det er sandsynligt, at 
+fremtidige økonomiske fordele vil tilflyde selskabet, og 
+aktivets værdi kan måles pålideligt.
+The income is recognised in the income statement as 
+earned. Further to this, value adjustments of financial 
+assets and liabilities measured at fair value or amortised 
+cost are recognised. Furthermore, all costs incurred to 
+earn the profit or loss for year have been recognised in 
+the income statement, including amortisation, 
+depreciation, write-down and provisions as well as 
+reversals as a consequence of changed accounting 
+estimates of amounts previously recognised in the 
+income statement.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+9
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+VALUTAOMREGNING
+Som målevaluta benyttes danske kroner. Alle andre 
+valutaer anses som fremmed valuta.
+The functional currency is Danish kroner, DKK. All other 
+currencies are considered foreign currencies.
+Ved indregning og måling tages hensyn til forudsigelige 
+tab og risici, der fremkommer, inden årsrapporten 
+aflægges, og som be- eller afkræfter forhold, der 
+eksisterer på balancedagen.
+Transaktioner i fremmed valuta er i årets løb omregnet til 
+transaktionsdagens kurs. Hvis valutapositioner anses for 
+sikring af fremtidige pengestrømme, indregnes 
+værdireguleringerne direkte på egenkapitalen.
+Tilgodehavender og gæld i fremmed valuta er indregnet til 
+balancedagens kurs.
+During the year, transactions in foreign currencies have 
+been translated applying the exchange rate at the 
+transaction date. If currency positions are considered 
+hedge of future cash flows, the value adjustments are 
+recognised directly in equity.
+FOREIGN CURRENCY TRANSLATION
+Receivables and debt denominated in foreign currencies 
+have been recognised at the exchange rate of the 
+balance sheet date.
+Certain financial assets and liabilities are measured at 
+amortised cost, by which a constant redemption yield is 
+recognised over the term. Amortised cost is calculated as 
+original cost less instalments and addition/deduction of 
+the accumulated amortisation of the difference between 
+cost and the nominal amount. Thereby, capital and 
+exchange losses or gains are allocated over the term.
+Forpligtelser indregnes i balancen, når det er sandsynligt, 
+at fremtidige økonomiske fordele vil fragå selskabet, og 
+forpligtelsens værdi kan måles pålideligt.
+Liabilities are recognised in the balance sheet when it is 
+probable that future economic benefits will flow out of 
+the Company, and the value of the liability can be 
+measured reliably.
+On initial recognition, assets and liabilities are measured 
+at cost. Subsequently, assets and liabilities are measured 
+as described below for each financial statement item.
+Ved første indregning måles aktiver og forpligtelser til 
+kostpris. Efterfølgende måles aktiver og forpligtelser som 
+beskrevet for hver enkelt regnskabspost nedenfor.
+Visse finansielle aktiver og forpligtelser måles til 
+amortiseret kostpris, hvorved der indregnes en konstant 
+effektiv rente over løbetiden. Amortiseret kostpris 
+opgøres som oprindelig kostpris med fradrag af afdrag og 
+tillæg/fradrag af den akkumulerede afskrivning af 
+forskellen mellem kostprisen og det nominelle beløb. 
+Herved fordeles kurstab og -gevinst over løbetiden.
+Realiserede og urealiserede valutakursfortjenester og -tab 
+er indregnet i resultatopgørelsen under andre finansielle 
+indtægter og omkostninger.
+Realised and unrealised exchange gains and losses have 
+been recognised in the income statement under other 
+financial income and expenses.
+On recognition and measurement, anticipated losses and 
+risks that appear before presentation of the annual 
+report and which confirm or invalidate affairs or 
+conditions existing at the balance sheet date are 
+considered.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+10
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+RESULTATOPGØRELSEN
+Resultatopgørelsen er artsopdelt.
+Bruttofortjeneste
+Nettoomsætning
+Andre driftsindtægter
+Arbejde udført for egen regning og opført under aktiver
+Eksterne omkostninger
+Personaleomkostninger
+Staff costs
+Eksterne omkostninger omfatter omkostninger til råvarer 
+og hjælpematerialer/handelsvarer samt salgs-, lokale- og 
+administrationsomkostninger.
+Staff costs include wages and salaries including holiday 
+pay and pensions and other social security costs etc. To 
+the Company´s employees. Staff costs are reduced with 
+payments received from public authorities.
+External expenses comprise cost of raw materials and 
+consumables/goods for resale as well as selling costs, 
+facility costs and administration costs.
+Som indtægtskriterium anvendes produktionskriteriet, 
+således at nettoomsætningen omfatter årets fakturerede 
+omsætning reduceret med forudbetalinger, og med tillæg 
+for igangværende arbejder målt til salgsværdi. 
+Nettoomsætningen måles til dagsværdien ekskl. moms og 
+med fradrag af afgivne rabatter.
+INCOME STATEMENT
+External expenses
+Revenue
+Gross profit/loss
+The Company has aggregated the items "revenue", 
+"other operating income", "salaries regocnized as assets" 
+as well as "external expenses".
+The income statement has been classified by nature.
+Arbejde udført for egen regning og opført under aktiver 
+omfatter lønninger og gager, der er afholdt i året og 
+indregnet i kostprisen for egenudviklede immaterielle 
+anlægsaktiver.
+Own work capitalised includes staff cost and other 
+internal costs incurred during the financial year and 
+recognised in the cost of proprietary intangible fixed 
+assets.
+Own work capitalised
+Selskabet har  foretaget et sammendrag af posterne 
+"nettoomsætning", "andre driftsindtægter", "arbejde 
+udført for egen regning og opført som aktiver" samt 
+"eksterne omkostninger".
+Andre driftsindtægter indeholder regnskabsposter af 
+sekundær karakter i forhold til virksomhedens 
+hovedaktivitet, herunder avance ved salg af anlægsaktiver 
+samt offentlige tilskud og andre tilskud til forsknings- og 
+udviklingsprojekter.
+As income recognition criterion, the production criterion 
+is applied so that revenue comprises the invoiced revenue 
+for the year reduced by prepayments and with addition 
+for work in progress measured at market value. Revenue 
+is measured at fair value excl. VAT and less granted 
+discounts.
+Other operating income
+Other operating income includes financial statement 
+items of a secondary nature in relation to the primary 
+activity of the enterprise, including profit on sale of fixed 
+assets and public grants and other grants for research 
+and development projects.
+Personaleomkostninger omfatter løn og gager, inklusive 
+feriepenge og pensioner samt andre omkostninger til 
+social sikring m.v. til selskabets medarbejdere. I 
+personaleomkostninger er fratrukket modtagne 
+godtgørelser fra offentlige myndigheder.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+11
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+Andre driftsomkostninger
+Indtægter af kapitalandele i tilknyttede virksomheder
+Skat af årets resultat og selskabsskat
+Selskabet er sambeskattet med øvrige danske 
+koncernselskaber med K. Basse Holding ApS som 
+administrationsselskab. Skatteeffekten af 
+sambeskatningen fordeles mellem koncernselskaberne i 
+forhold til deres skattepligtige indkomster efter 
+selskabsskattelovens regler om fuld fordeling med 
+refusion vedrørende skattemæssige underskud. 
+Skat af årets resultat er sammensat af den forventede skat 
+af årets skattepligtige indkomst reguleret for årets 
+forskydning i udskudt skat. Ændring i udskudt skat som 
+følge af ændring i skattesatser indregnes i 
+resultatopgørelsen.
+Tax on profit or loss for the year consists of the 
+anticipated tax portion of the taxable income for the year 
+adjusted for the changes for the year in deferred 
+tax.Changes in deferred taxes due to adjustments of tax 
+rates is recognised in the income statement.
+Tax on profit or loss for the year income taxes
+Tax on profit or loss for the year represents 22% of the 
+book profit or loss adjusted for non-taxable and non-
+deductible items.
+Skat af årets resultat udgør 22 % af det regnskabsmæssige 
+resultat korrigeret for ikke indkomstskattepligtige og ikke 
+fradragsberettigede poster.
+Andre finansielle indtægter og øvrige finansielle 
+omkostninger
+Other operating expenses
+Other operating expenses include financial statement 
+items of a secondary nature in relation to the primary 
+activity of the enterprise, including profit from sale of 
+fixed assets.
+Income from investments in group enterprises comprises 
+the pro rata share of the group enterprises’ operating 
+profit/loss adjusted for internal profits and losses.
+Other financial income and other financial expenses
+Finansielle indtægter og omkostninger indregnes i 
+resultatopgørelsen med de beløb, der vedrører 
+regnskabsåret. Finansielle poster omfatter renter, 
+realiserede og urealiserede valutakursfortjenester og -tab 
+samt rentetillæg og rentegodtgørelse under 
+acontoskatteordningen.
+Sambeskatningsbidrag mellem de sambeskattede 
+selskaber, som ikke er afregnet på balancedagen, 
+klassificeres som sambeskatningsbidrag under enten 
+tilgodehavender eller gældsforpligtelser.
+Joint tax contributions between the jointly taxed 
+companies which have not been settled at the balance 
+sheet date are classified as joint tax contributions in 
+receivables or liabilities.
+The Company is jointly taxed with other Danish group 
+enterprises with K. Basse Holding ApS as management 
+company. The tax effect of the joint taxation is allocated 
+among the group enterprises in ratio to their taxable 
+income according to the rules on full allocation with a 
+refund for tax losses of the Danish Corporation Tax Act. 
+The Company is subject to the Danish Tax Prepayment 
+Scheme. Interest reimbursement and interest surcharge 
+have been recognised in financial income and expenses.
+Andre driftsomkostninger indeholder regnskabsposter af 
+sekundær karakter i forhold til virksomhovedaktivitet, 
+herunder avance ved salg af anlægsaktiver.
+Indtægter af kapitalandele i tilknyttede virksomheder 
+omfatter den forholdsmæssige andel af de tilknyttede 
+virksomheders driftsresultat reguleret for interne avancer 
+og tab.
+Selskabet er omfattet af acontoskatteordningen. 
+Rentegodtgørelse og rentetillæg er indregnet under 
+finansielle indtægter og omkostninger.
+Financial income and expenses is recognised with 
+amounts concerning the financial year. Financial items 
+comprise interest, realised and unrealised exchange 
+gains and losses as well as interest surcharge and 
+interest reimbursements under the Danish Tax 
+Prepayment Scheme.
+Income from investments in group enterprises
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+12
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+BALANCEN
+Balancen er opstillet i kontoform.
+AKTIVER
+ASSETS
+3 år
+3 y.
+Materielle anlægsaktiver måles til kostpris med fradrag af 
+akkumulerede afskrivninger. Afskrivningsgrundlaget er 
+kostpris med fradrag af forventet restværdi efter afsluttet 
+brugstid.
+Profit/loss on sale has been included in the income 
+statement under gross profit or loss and other operating 
+expenses.
+Færdiggjorte udviklingsprojekter
+Kostprisen omfatter anskaffelsesprisen samt 
+omkostninger direkte tilknyttet anskaffelsen indtil det 
+tidspunkt hvor aktivet er klar til at blive taget i brug.  
+Cost comprises the acquisition price as well as costs 
+directly related to the acquisition until the time when the 
+asset is ready to be put into operation. 
+As the intangible assets are not being traded in an active 
+and effective market, no residual values after end of use 
+are included when determining the depreciation period.
+Der er ved fastlæggelse af afskrivningsperioderne ikke 
+medtaget restværdi efter endt brug, da de immaterielle 
+aktiver ikke bliver handlet på et aktivt og effektivt marked.
+Immaterielle anlægsaktiver
+Immaterielle anlægsaktiver måles til kostpris med fradrag 
+af akkumulerede afskrivninger. 
+Materielle anlægsaktiver
+Aktiverne afskrives lineært over deres forventede 
+økonomiske brugstid:
+Fortjeneste/tab ved salg er medtaget i resultatopgørelsen 
+under bruttofortjeneste og andre driftsomkostninger.
+For egenudviklede udviklingsprojekter, der er aktiveret 
+efter 1. januar 2016, bindes den regnskabsmæssige værdi 
+af disse projekter på en særskilt reserve for 
+udviklingsomkostninger under egenkapitalen. Der 
+foretages ikke binding af den regnskabsmæssige værdi af 
+udviklingsprojekter overtaget i forbindelse med aktiv- eller 
+aktivitetskøb.
+Kostprisen omfatter anskaffelsesprisen samt 
+omkostninger direkte tilknyttet anskaffelsen indtil det 
+tidspunkt, hvor aktivet er klar til at blive taget i brug.  For 
+egenudviklede udviklingsprojekter indgår direkte 
+lønninger samt eksterne omkostninger.
+Intangible assets are measured at cost less accumulate 
+amortisation.
+Completed development 
+projects
+For own-developed development projects, capitalised 
+after 1 January 2016 the carrying amount is transferred 
+from "retained earnings" to "reserve for capitalised 
+development cost" under equity. Carrying amounts which 
+exist as a consequence of purchases of assets or 
+companys are not bound reserves.
+The balance sheet has been presented in account form.
+Cost comprises the acquisition price as well as costs 
+directly related to the acquisition until the time when the 
+asset is ready to be put into operation. For own-
+developed development projects, production costs and 
+payroll are also included. 
+Assets are amortised on a straight-line basis over their 
+estimated useful lives:
+BALANCE SHEET
+Intangible assets
+Property, plant and equipment
+Property, plant and equipment are measured at cost less 
+accumulate amortisation and depreciation. The basis of 
+amortisation and depreciation is cost less estimated 
+residual value after the end of useful life.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+13
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+Brugstid
+Restværdier
+Useful 
+lives
+Residual value
+5 år
+0-20%
+5 y.
+0-20%
+5 år
+0-10%
+5 y.
+0-10%
+Andre anlæg, 
+driftsmateriel og 
+inventar
+Profit/loss on sale or retirement has been included in the 
+income statement under gross profit and other operating 
+expenses.
+Afskrivninger påbegyndes, når aktiverne er klar til 
+ibrugtagning. Aktiverne afskrives lineært baseret på 
+følgende forventninger til brugstid og restværdier:
+Kostprisen på et samlet aktiv opdeles i separate 
+bestanddele, der afskrives hver for sig, hvis brugstiden på 
+de enkelte bestanddele er væsentlig forskellig.
+The costprice for an asset is divided into separate 
+components, that are depreciated separately, if the 
+useful life of the individual components is significantly 
+different.
+Indretning af lejede 
+lokaler
+Leasehold 
+improvements
+Årets nedskrivninger indregnes i resultatopgørelsen under 
+af- og nedskrivninger af materielle og immaterielle 
+anlægsaktiver.
+The carrying amount of intangible assets and property 
+plant and equipment is reviewed annually for indication 
+of impairment for loss, apart from what is expressed by 
+usual amortisation and depreciation.  If this applies, 
+impairment for loss is made of each asset or group of 
+assets, respectively, to lower recoverable amount.
+As recoverable amount, the higher of expected net selling 
+price and net present value is applied. The net present 
+value is calculated as the present value of the anticipated 
+cash flows from the use of the asset or the group of 
+assets.
+Som genindvingsværdi anvendes den højeste værdi af 
+forventet nettosalgspris og kapitalværdi. Kapitalværdi 
+opgøres som nutidsværdien af de forventede 
+nettopengestrømme fra anvendelsen af aktivet eller 
+aktivgruppen.
+Småaktiver med en levetid under et år er omkostningsført 
+i resultatopgørelsen under eksterne omkostninger.
+Den regnskabsmæssige værdi af immaterielle og 
+materielle anlægsaktiver gennemgås årligt for indikationer 
+på værdiforringelse, ud over det som udtrykkes ved de 
+normale afskrivninger. Hvis dette er tilfældet, foretages 
+der nedskrivning af hvert enkelt aktiv henholdsvis gruppe 
+af aktiver til lavere genindvindingsværdi.
+Værdiforringelse af immaterielle og materielle 
+anlægsaktiver
+Fortjeneste/tab ved salg eller udrangering er medtaget i 
+resultatopgørelsen under bruttofortjeneste og andre 
+driftsomkostninger.
+Impairment for loss for the year is recognised in the 
+income statement as amortisation, depreciation and 
+impairment for loss of property, plant and equipment 
+and intangible assets.
+Impairment of intangible assets and property, plant and 
+equipment
+Minor purchases with useful lives below one year have 
+been recognised as an expense in the income statement 
+in external expenses.
+Other fixtures, 
+etc.
+Depreciation is initiated when the assets are ready to be 
+taken into operation. Assets are depreciated on a 
+straight-line basis over their estimated useful lives with 
+following residual values:
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+14
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+Andre tilgodehavender indregnet under anlægsaktiver 
+omfatter lejedeposita, som er målt til amortiseret 
+kostpris, hvilket sædvanligvis svarer til nominel værdi. I 
+tilfælde hvor den regnskabsmæssige værdi overstiger 
+genindvindingsværdien, nedskrives til denne lavere værdi. 
+Årets nedskrivning indregnes i resultatopgørelsen under 
+nedskrivning af finansielle aktiver.
+Other receivables recognised under fixed assets comprise 
+rental deposits measured at amortised cost, which 
+usually corresponds to nominal amount. In events when 
+the carrying amount exceeds the recoverable amount, 
+impairment for loss is made to such lower value. 
+Impairment for loss for the year is recognised in the 
+income statement as impairment for loss of financial 
+assets.
+Fixed asset investments
+Foreign group enterprises' profit or loss and equity have 
+been translated into DKK. Exchange adjustments arising 
+on translation of the foreign group enterprises' equity at 
+the beginning of the financial year as well as profit/loss 
+for the financial year are taken to equity.
+Investments in group enterprises have been recognised 
+according to the equity method, so that the investment is 
+measured at the pro rata share of the group enterprises' 
+net asset value adjusted for internal dividends and gains.
+Other receivables (fixed assets)
+Andre tilgodehavender, der er anlægsaktiver
+Kapitalandele i tilknyttede virksomheder er indregnet 
+efter den indre værdis metode, således at kapitalandelen 
+måles til den forholdsmæssige andel af de tilknyttede 
+virksomheders regnskabsmæssige indre værdi reguleret 
+for interne udbytter og avancer.
+Udenlandske tilknyttede virksomheders resultat og 
+egenkapital er omregnet til danske kroner. 
+Valutakursreguleringer, der opstår ved omregning af de 
+udenlandske tilknyttede virksomheders egenkapital ved 
+regnskabsårets begyndelse og omregning af årets resultat 
+fra gennemsnitskurs til balancedagens kurs, føres direkte 
+over egenkapitalen.
+Disponible reserver i de tilknyttede virksomheder, som på 
+balancetidspunktet disponeres som udbytte til 
+moderselskabet, indgår i værdien af kapitalandele.
+Tilknyttede virksomheder med negativ regnskabsmæssig 
+indre værdi måles til nul, og et eventuelt tilgodehavende 
+hos disse virksomheder nedskrives med moderselskabets 
+andel af den negative indre værdi i det omfang, det 
+vurderes uerholdeligt. Såfremt den regnskabsmæssige 
+negative indre værdi overstiger tilgodehavendet, 
+indregnes det resterende beløb under hensatte 
+forpligtelser i det omfang, modervirksomheden har en 
+retlig eller faktisk forpligtelse til at dække den 
+pågældende virksomheds forpligtelser.
+Kapitalandele i tilknyttede virksomheder
+Group enterprises with negative net asset values are 
+measured at zero, and any receivable from such 
+enterprises is written down by the Parent's share of the 
+negative net asset value to the extend deemed 
+irrecoverable. If the negative net asset value exceeds the 
+amount receivable, the remaining amount is recognised 
+in provisions to the extent the Parent has a legal or 
+constructive obligation to cover the relevant enterprise's 
+liabilities.
+Distributable reserves in group enterprises which are 
+distributed as dividends to the parent at the balance 
+sheet date are included in the value of investments.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+15
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+Tilgodehavender
+Periodeafgrænsningsposter
+Costs in connection with sales work and contracting are 
+recognised in the income statement as incurred. Any 
+finance costs of financing of work in progress are 
+included in financial expenses.
+Omkostninger i forbindelse med salgsarbejde og opnåelse 
+af kontrakter indregnes i resultatopgørelsen i takt med, at 
+de afholdes. Eventuelle finansieringsomkostninger til 
+finansiering af igangværende arbejder indgår under 
+finansielle omkostninger.
+Igangværende arbejder for fremmed regning
+Tilgodehavender måles til amortiseret kostpris, der 
+sædvanligvis svarer til nominel værdi. Værdien reduceres 
+med nedskrivning til imødegåelse af forventede tab efter 
+en individuel vurdering.
+Igangværende arbejder for fremmed regning er indregnet 
+efter produktionskriteriet, hvorefter igangværende 
+arbejder måles til salgsværdien af det udførte arbejde. 
+Salgsværdien måles på baggrund af færdiggørelsesgraden 
+på balancedagen og de samlede forventede indtægter på 
+det enkelte igangværende arbejde. Færdiggørelsesgraden 
+opgøres som andelen af de afholdte omkostninger i 
+forhold til de forventede samlede omkostninger på det 
+enkelte igangværende arbejde.
+Receivables are measured at amortised cost which 
+usually corresponds to nominal value. The value is 
+reduced by write-down for bad debt according to an 
+individual assessment.
+Contract work in progress
+Contract work in progress has been recognised according 
+to the percentage-of-completion method, according to 
+which work in progress is measured at the market value 
+of the work performed. The market value is measured on 
+the basis of the degree of completion at the balance 
+sheet date and the total anticipated income from each 
+work in progress. Completion is calculated as the 
+proportion of the costs incurred in relation to the 
+expected total costs of the individual work in progress.
+When the market value of the individual work in progress 
+can not be measured reliably, the market value is 
+recognized at cost or net realizable value, if this value is 
+lower.
+Receivables
+Når salgsværdien på de enkelte igangværende arbejder 
+ikke kan opgøres pålideligt, måles salgsværdien til de 
+medgåede omkostninger eller til 
+nettorealisationsværdien, såfremt denne er lavere.
+Prepayments 
+Periodeafgrænsningsposter, indregnet under aktiver, 
+omfatter afholdte omkostninger vedrørende 
+efterfølgende regnskabsår.
+Prepayments comprise costs incurred relating to 
+subsequent financial years.
+Each work in progress is recognised in the balance sheet 
+in receivables or liabilities other than provisions 
+depending on the net value of the selling price less on 
+account invoicing and prepayments.
+Det enkelte igangværende arbejde indregnes i balancen 
+under tilgodehavender eller gældsforpligtelser, afhængigt 
+af nettoværdien af salgssummen med fradrag af 
+acontofaktureringer og forudbetalinger.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+ANVENDT REGNSKABSPRAKSIS, fortsat
+16
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued
+PASSIVER
+Egenkapital
+Equity
+Hensættelser til udskudt skat
+Periodeafgrænsningsposter
+KONCERNREGNSKAB
+CONSOLIDATED
+Deferred tax is also measures with respect of the planned 
+use of the asset and the settlement of the liability.The tax 
+value of the tax losses to be carried forwardare included 
+in the calculation of deferred taxes if it is probable that 
+the losses can be used.
+Management's proposed dividends for the financial year 
+is disclosed as a separate item in equity. 
+Deferred tax is measured according to the liability 
+method. Provision has been made for deferred tax by 22 
+% on all temporary differences between carrying amount 
+and tax-based value of assets and liabilities.
+The tax-based values of tax losses carried forward are 
+included in the statement of deferred tax if it is probable 
+that the losses can be utilised.
+Deferred income comprises income received relating to 
+subsequent years.
+EQUITY AND LIABILITIES
+Ledelsens forslag til udbytte for regnskabsåret vises som 
+en særskilt post under egenkapitalen. 
+Udskudt skat måles efter den balanceorienterede 
+gældsmetode. Der er hensat til udskudt skat med 22 % af 
+alle midlertidige forskelle mellem regnskabsmæssig og 
+skattemæssig værdi af aktiver og forpligtelser.
+Udskudt skat måles endvidere under hensyntagen til 
+henholdsvis den planlagte anvendelse af aktivet og 
+afvikling af forpligtelsen. Skatteværdien af 
+fremførselsberettigede skattemæssige underskud indgår i 
+opgørelsen af den udskudte skat, såfremt det er 
+sandsynligt, at underskuddene kan udnyttes.
+Gældsforpligtelser
+Skatteværdien af fremførselsberettigede skattemæssige 
+underskud indgår i opgørelsen af den udskudte skat, 
+såfremt det er sandsynligt, at underskuddene kan 
+udnyttes.
+Udskudte skatteaktiver som ikke forventes udnyttet inden 
+for en kortere årrække, er noteoplyst under 
+eventualaktiver.
+Gældsforpligtelser i øvrigt er målt til amortiseret kostpris 
+svarende til nominel værdi. 
+Periodeafgrænsningsposter, indregnet under forpligtelser, 
+omfatter modtagne indtægter vedrørende de 
+efterfølgende år.
+Deferred tax assets which are not expected utilised 
+within a few years have been disclosed in notes under 
+contingent assets.
+Financial liabilities
+I henhold til Årsregnskabslovens § 110 er der ikke 
+udarbejdet koncernregnskab.
+According to section 110 of the Danish Financial 
+Statements Act, no consolidated financial statements has 
+been prepared.
+Other liabilities other than provisions have been 
+measured at amortised cost which corresponds to 
+nominal value. 
+Deferred income
+Provision for deferred tax
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+RESULTATOPGØRELSE
+17
+1. JULI 2021 - 30. JUNI 2022
+INCOME STATEMENT
+1 JULY 2021 - 30 JUNE 2022
+Note
+2021/22
+2020/21
+BRUTTOFORTJENESTE
+26.330.054
+22.281.523
+GROSS PROFIT/LOSS
+2
+Personaleomkostninger
+-11.291.699
+-11.066.667
+Staff costs
+INDTJENINGSBIDRAG
+15.038.355
+11.214.856
+5,6
+Af- og nedskrivninger på materielle og immat. anlægsaktiver
+-4.449.574
+-3.947.739
+Amortisation, depreciation and impairment for loss of intangible and tangible fixed assets
+RESULTAT AF PRIMÆR DRIFT
+10.588.781
+7.267.117
+OPERATING PROFIT/LOSS
+7
+Indtægter af kapitalandele i tilknyttede virksomheder
+253.655
+1.079.621
+Income from investments in group enterprises 
+Andre finansielle indtægter
+40.132
+4.143
+Other financial income
+3
+Øvrige finansielle omkostninger
+-624.201
+-492.549
+Other financial expenses
+RESULTAT FØR SKAT 
+10.258.367
+7.858.332
+PROFIT/LOSS BEFORE TAX 
+4
+Skat af årets resultat
+-1.949.706
+-1.240.447
+Tax on profit/loss for the year
+ÅRETS RESULTAT
+8.308.661
+6.617.885
+PROFIT/LOSS FOR THE YEAR
+Årets resultat foreslås fordelt således:
+Profit/loss for the year is proposed distributed as follows:
+Resultatdisponering
+Distribution of profit/loss
+2021/22
+2020/21
+Reserve for nettoopskrivning efter den indre værdis metode
+0
+0
+Reserve for net revaluation according to equity method
+Reserve for udviklingsomkostninger
+259.282
+188.577
+Reserve for capitalised development costs
+Forslag til udbytte for regnskabsåret
+8.000.000
+6.500.000
+Proposed dividends for the financial year
+Overført resultat
+49.379
+-70.692
+Retained earnings
+ÅRETS RESULTAT
+8.308.661
+6.617.885
+PROFIT/LOSS FOR THE YEAR
+PROFIT/LOSS BEFORE DEPRECIATION, INTEREST AND TAX
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+BALANCE PR. 30. JUNI 2022
+18
+BALANCE SHEET AT 30 JUNE 2022
+AKTIVER
+ASSETS
+Note
+30/6 2022
+30/6 2021
+5
+Færdiggjorte udviklingsprojekter
+8.951.767
+8.619.354
+Completed development projects
+IMMATERIELLE ANLÆGSAKTIVER
+8.951.767
+8.619.354
+INTANGIBLE ASSETS
+6
+Indretning af lejede lokaler
+91.668
+164.796
+Leasehold improvements
+6
+Andre anlæg, driftsmateriel og inventar
+90.660
+143.084
+Other fixtures and fittings, tools and equipment
+MATERIELLE ANLÆGSAKTIVER
+182.328
+307.880
+PROPERTY, PLANT AND EQUIPMENT
+7
+Kapitalandele i tilknyttede virksomheder
+3.103.807
+5.015.156
+Investments in group enterprises
+7
+Andre tilgodehavender
+123.920
+123.920
+Other receivables
+FINANSIELLE ANLÆGSAKTIVER
+3.227.727
+5.139.076
+FIXED ASSET INVESTMENTS
+ANLÆGSAKTIVER
+12.361.822
+14.066.310
+FIXED ASSETS
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+AKTIVER, fortsat
+19
+ASSETS, continued
+Note
+30/6 2022
+30/6 2021
+Tilgodehavender fra salg og tjenesteydelser
+7.468.871
+489.929
+Trade receivables
+Andre tilgodehavender
+752.251
+1.583.392
+Other receivables
+4
+Tilgodehavende selskabsskat
+0
+41.000
+Corporate tax receivables
+Periodeafgrænsningsposter
+618.433
+272.472
+Prepayments
+TILGODEHAVENDER
+8.839.555
+2.386.793
+RECEIVABLES
+LIKVIDE BEHOLDNINGER
+10.719.938
+14.997.805
+CASH
+OMSÆTNINGSAKTIVER
+19.559.493
+17.384.598
+CURRENT ASSETS
+AKTIVER I ALT
+31.921.315
+31.450.908
+TOTAL ASSETS
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+BALANCE PR. 30. JUNI 2022
+20
+BALANCE SHEET AT 30 JUNE 2022
+PASSIVER
+EQUITY AND LIABILITIES
+Note
+30/6 2022
+30/6 2021
+Virksomhedskapital
+500.000
+500.000
+Share capital
+Reserve for udviklingsomkostninger
+6.982.378
+6.723.096
+Reserve for development expenditure
+Overført resultat
+650.771
+283.539
+Retained earnings
+Forslag til udbytte for regnskabsåret
+8.000.000
+6.500.000
+Proposed dividends for the financial year
+EGENKAPITAL
+16.133.149
+14.006.635
+EQUITY
+4
+Hensættelser til udskudt skat
+2.012.472
+1.919.658
+Provision for deferred tax
+HENSATTE FORPLIGTELSER
+2.012.472
+1.919.658
+PROVISIONS
+Anden gæld
+0
+0
+Other payables
+9
+LANGFRISTEDE GÆLDSFORPLIGTELSER
+0
+0
+LONG-TERM LIABILITIES OTHER THAN PROVISIONS
+Leverandører af varer og tjenesteydelser
+928.031
+590.599
+Trade payables
+Gæld til tilknyttede virksomheder
+1.237.748
+4.649.258
+Payables to group enterprises
+4
+Skyldigt sambeskatningsbidrag
+1.815.892
+1.166.871
+Joint tax contribution payables
+Anden gæld
+1.110.290
+2.800.747
+Other payables
+Periodeafgrænsningsposter
+8.683.733
+6.317.140
+Deferred income
+KORTFRISTEDE GÆLDSFORPLIGTELSER
+13.775.694
+15.524.615
+SHORT-TERM LIABILITIES OTHER THAN PROVISIONS
+GÆLDSFORPLIGTELSER
+13.775.694
+15.524.615
+LIABILITIES OTHER THAN PROVISIONS
+PASSIVER I ALT
+31.921.315
+31.450.908
+TOTAL EQUITY AND LIABILITIES
+1
+Særlige poster
+Special items
+10
+Eventualforpligtelser
+Contingent liabilities
+11
+Pantsætninger og sikkerhedsstillelser
+Assets charged and security
+12
+Kontraktlige forpligtelser
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+EGENKAPITALOPGØRELSE
+21
+Statement of changes in equity
+Reserve for
+Virksom-
+udviklings-
+Overført
+Foreslået
+hedskapital
+omkostninger
+resultat
+udbytte
+I ALT
+Reserve for
+Share 
+development
+Retained
+Proposed
+capital
+expenditure
+earnings
+dividends
+TOTAL
+Egenkapital pr. 1/7 2020
+500.000
+6.534.519
+320.837
+2.700.000
+10.055.356
+Equity at 1/7 2020
+Udloddet udbytte
+0
+0
+0
+-2.700.000
+-2.700.000
+Dividends paid
+Valutakursregulering i tilknyttede virksomheder
+33.394
+33.394
+Net exchange differences, investments in group enterprises 
+Overført til reserve
+for udviklingsomkostninger
+0
+188.577
+0
+0
+188.577
+Transferred to reserve for development expenditure
+Overført via resultatdisponeringen
+0
+0
+-70.692
+6.500.000
+6.429.308
+Transferred from distribution of profit/loss
+Egenkapital pr. 1/7 2021
+500.000
+6.723.096
+283.539
+6.500.000
+14.006.635
+Equity at 1/7 2021
+Udloddet udbytte
+0
+0
+0
+-6.500.000
+-6.500.000
+Dividends paid
+Valutakursregulering i tilknyttede virksomheder
+0
+0
+317.853
+0
+317.853
+Net exchange differences, investments in group enterprises 
+Overført til reserve
+for udviklingsomkostninger
+0
+259.282
+0
+0
+259.282
+Transferred to reserve for development expenditure
+Overført via resultatdisponeringen
+0
+0
+49.379
+8.000.000
+8.049.379
+Transferred from distribution of profit/loss
+EGENKAPITAL PR. 30/6 2022
+500.000
+6.982.378
+650.771
+8.000.000
+16.133.149
+Equity at 30/6 2022
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER
+22
+NOTES
+1
+Særlige poster
+2021/22
+2020/21
+Special items
+Medfinansiering til forsknings- og udviklingsprojekter
+1.238.580
+4.880.070
+Co-financing to research and development projects
+I ALT
+1.238.580
+4.880.070
+TOTAL
+Særlige poster er indregnet under andre driftsindtægter i resultatopgørelsen.
+Special items is recognised in the income statement under other operating income
+2
+Personaleomkostninger
+2021/22
+2020/21
+Staff costs
+Gager og lønninger
+9.722.754
+9.642.887
+Wages and salaries
+Pensioner 
+1.442.637
+1.320.514
+Pensions  
+Andre omkostninger til social sikring
+126.308
+103.266
+Other social security costs
+I ALT
+11.291.699
+11.066.667
+TOTAL
+3
+Øvrige finansielle omkostninger
+2021/22
+2020/21
+Other financial expenses
+Renteomkostninger til tilknyttede virksomheder
+120.456
+280.510
+Interest expenses to group enterprises
+Finansielle omkostninger i øvrigt
+503.745
+212.039
+Other financial expenses
+I ALT
+624.201
+492.549
+TOTAL
+Det gennemsnitlige antal heltidsbeskæftigede har i 
+regnskabsåret udgjort 14 mod 14 i sidste 
+regnskabsår.
+The average number of full-time employees has 
+represented 14 in this financial year against 14 in the 
+previous financial year.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER, fortsat
+23
+NOTES, continued
+4
+Selskabsskat og udskudt skat
+Corporation tax and deferred tax
+Ifølge
+resultat-
+Selskabsskat
+Udskudt skat
+opgørelsen
+Acc. to the inc.
+Income taxes
+Deferred tax
+statement
+2020/21
+Skyldig pr. 1/7 2021
+1.125.871
+1.919.658
+Payable at 1/7 2021
+Regulering vedr. tidl. år
+41.000
+41.000
+Adj. re. Previous years
+Betalt vedr. tidligere år
+-1.166.871
+0
+Paid re. previous years
+Skat af årets resultat
+1.815.892
+92.814
+1.908.706
+1.240.447
+Tax on profit/loss for the year
+SKYLDIG PR. 30/6 2022
+1.815.892
+2.012.472
+PAYABLE AT 30/6 2022
+SKAT AF ÅRETS RESULTAT
+1.949.706
+1.240.447
+TAX ON PROFIT/LOSS FOR THE YEAR
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER, fortsat
+24
+NOTES, continued
+5
+Anlægs- og afskrivningsoversigt, immaterielle anlægsaktiver
+List of fixed assets, amortisation and impairment, intangible assets
+Færdiggjorte
+udviklingsprojekter
+I ALT
+Completed development
+projects
+TOTAL
+30/6 2021
+Kostpris pr. 1/7 2021
+18.320.464
+18.320.464
+14.219.864
+Cost at 1/7 2021
+Tilgang i året
+4.656.435
+4.656.435
+4.100.600
+Additions for the year
+Afgang i året
+-5.494.665
+-5.494.665
+0
+Disposals for the year
+KOSTPRIS PR. 30/6 2022
+17.482.234
+17.482.234
+18.320.464
+COST AT 30/6 2022
+Af- og nedskrivninger pr. 1/7 2021
+9.701.110
+9.701.110
+5.842.276
+Amortisation and impairment at 1/7 2021
+Årets afskrivninger
+4.324.022
+4.324.022
+3.858.834
+Amortisation for the year
+Af- og nedskrivn., afgang i året
+-5.494.665
+-5.494.665
+0
+Amortisation and impairment, disposals for the year
+AF- OG NEDSKRIVNINGER PR. 30/6 2022
+8.530.467
+8.530.467
+9.701.110
+AMORTISATION AND IMPAIRMENT AT 30/6 2022
+REGNSKABSMÆSSIG VÆRDI PR. 30/6 2022
+8.951.767
+8.951.767
+8.619.354
+CARRYING AMOUNT AT 30/6 2022
+Virksomhedens udviklingsprojekter vedrører udviklingen af nye og forbedrede softwareløsninger. Projekterne forløber som planlagt, og færdiggøres
+løbende.
+The Company´s development projects relates to the development of new and improved software solutions. The Projects are progressing as planned and are completed in an ongoing proces.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER, fortsat
+25
+NOTES, continued
+6
+Anlægs- og afskrivningsoversigt,
+materielle anlægsaktiver
+List of fixed assets, amortisation and depreciation,
+property, plant and equipment
+Andre anlæg,
+Indretning
+driftsmateriel
+af lejede
+og inventar
+lokaler
+I ALT
+Other fixtures,
+Leasehold
+etc.
+Improvem.
+TOTAL
+30/6 2021
+Kostpris pr. 1/7 2021
+664.043
+364.243
+1.028.286
+869.425
+Cost at 1/7 2021
+Tilgang i året
+0
+0
+0
+158.861
+Additions for the year
+Afgang i året
+0
+0
+0
+0
+Disposals for the year
+KOSTPRIS PR. 30/6 2022
+664.043
+364.243
+1.028.286
+1.028.286
+COST AT 30/6 2022
+Af- og nedskrivninger pr. 1/7 2021
+520.959
+199.447
+720.406
+631.501
+Amortisation, depreciation and impairment at 1/7 2021
+Årets afskrivninger
+52.424
+73.128
+125.552
+88.905
+Amortisation and depreciation for the year
+Af- og nedskrivn., afgang i året
+0
+0
+0
+0
+Amortisation, depreciation and impairment, disposals for the year
+AF- OG NEDSKRIVNINGER PR. 30/6 2022
+573.383
+272.575
+845.958
+720.406
+AMORTISATION, DEPRECIATION AND IMPAIRMENT AT 30/6 2022
+REGNSKABSMÆSSIG VÆRDI PR. 30/6 2022
+90.660
+91.668
+182.328
+307.880
+CARRYING AMOUNT AT 30/6 2022
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER, fortsat
+26
+NOTES, continued
+7
+Anlægsoversigt,
+finansielle anlægsaktiver
+List of fixed assets, amortisation and depreciation,
+fixed asset investments
+Kapitalandele
+i tilknyttede
+Andre
+virksomheder
+tilgodehavender
+I alt
+Investments
+in group
+Other
+enterprises
+receivables
+Total
+30/6 2021
+Kostpris pr. 1/7 2021
+6.200.000
+123.920
+6.323.920
+6.323.920
+Cost 1/7 2021
+Tilgang i året
+0
+0
+0
+0
+Additions for the year
+Afgang i året
+0
+0
+0
+0
+Disposals for the year
+KOSTPRIS PR. 30/6 2022
+6.200.000
+123.920
+6.323.920
+6.323.920
+COST AT 30/6 2022
+Af- og nedskrivninger pr. 1/7 2021
+1.184.844
+0
+1.184.844
+2.309.468
+Amortisations and impairment at 1/7 2021
+Valutakursreguleringer
+-317.853
+0
+-317.853
+-33.394
+Net exchange differences
+Årets opskrivninger
+-253.655
+0
+-253.655
+-1.079.621
+Revaluation for the year
+Modtaget udbytte i året
+2.482.857
+0
+2.482.857
+0
+Dividends received during the year
+Af- og nedskrivninger, afgang i året
+0
+0
+0
+-11.609
+Amortisations and impairment, disposal for the year
+AF- OG NEDSKRIVNINGER
+PR. 30/6 2022
+3.096.193
+0
+3.096.193
+1.184.844
+AMORTISATIONS AND IMPAIRMENT AT 30/6 2022
+REGNSKABSMÆSSIG VÆRDI PR. 30/6 2022
+3.103.807
+123.920
+3.227.727
+5.139.076
+CARRYING AMOUNT AT 30/6 2022
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER, fortsat
+27
+NOTES, continued
+8
+Kapitalandele i tilknyttede virksomheder
+Investments in group enterprises
+Selskabets tilknyttede virksomheder omfatter følgende:
+The Company’s group enterprises comprise the following:
+Selskabs-
+Årets
+Egen-
+Ejerandel
+kapital
+resultat
+kapital
+Ownership
+Contributed
+Profit or loss
+share
+capital
+for the year
+Equity
+Tilknyttede virksomheder:
+Group enterprises
+Bruhn NewTech Limited, UK
+100%
+433.420
+253.655
+3.103.807
+I ALT
+433.420
+253.655
+3.103.807
+TOTAL
+9
+Langfristede gældsforpligtelser
+Long-term liabilities other than provisions
+30/6 2022
+30/6 2021
+Gældsforpligtelser i alt:
+Total debt:
+Anden gæld
+0
+824.276
+Other payables
+I ALT
+0
+824.276
+TOTAL
+Gæld, der forfalder inden for et år:
+Instalments next financial year:
+Anden gæld
+0
+824.276
+Other payables
+I ALT
+0
+824.276
+TOTAL
+Gæld, der forfalder efter 5 år:
+Debt outstanding after 5 years:
+Anden gæld
+0
+0
+Other payables
+I ALT
+0
+0
+TOTAL
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+NOTER, fortsat
+28
+NOTES, continued
+10
+Eventualforpligtelser
+Contingent liabilities
+11
+Pantsætninger og
+sikkerhedsstillelser
+Assets charged and 
+security
+12
+Kontraktlige forpligtelser
+Contractual obligations
+Selskabet har indgået huslejekontrakt med 6 
+måneders opsigelsesfrist. Lejeaftalen er uopsigelig 
+indtil 31/12 2022. Den samlede huslejeforpligtelse 
+udgør ca. t.kr. 200.
+The Company has entered into rentalagreement with 6 
+months notice. The rental agreement is interminable 
+until 31/12 2022. Total rental obligations amounts to 
+approx. T.DKK 200.
+Letter of Idemnity, nom. T.DKK 3.000, with security in the 
+Company's debtors has been deposited as security for 
+account with credit institution. 
+Skadesløsbrev, nom. t.kr. 3.000, med pant i 
+selskabets debitorer er deponeret til sikkerhed for 
+engagement med kreditinstitut. 
+Selskabet indgår i sambeskatningen med øvrige 
+koncernselskaber og hæfter subsidiært og pro 
+ratarisk for øvrige koncernselskabers forfaldne og 
+ikke afregnede selskabsskatter samt kildeskatter. 
+Det samlede beløb for skyldig selskabsskat fremgår 
+af årsrapporten for K. Basse Holding ApS. 
+Eventuelle senere korrektioner til selskabsskatter 
+og kildeskatter kan medføre at selskabets hæftelse 
+udgør et større beløb.
+The company is jointly taxed with other group companies 
+and is secondarily and severally liable for other group 
+companies' payable and unsettled corporation and 
+withholding taxes.The total amount for payable 
+corporate tax is shown in the annual report for K. Basse 
+Holding ApS. Any subsequent corrections to the 
+corporate tax and withtholding taxes can lead to a 
+higher liability for the Company.
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT
+Dette dokument er underskrevet digitalt via Penneo.com. Signeringsbeviserne i 
+dokumentet er sikret og valideret ved anvendelse af den matematiske hashværdi af 
+det originale dokument.  Dokumentet er låst for ændringer og tidsstemplet med et 
+certifikat fra en betroet tredjepart. Alle kryptografiske signeringsbeviser er indlejret i 
+denne PDF, i tilfælde af de skal anvendes til validering i fremtiden.
+Sådan kan du sikre, at dokumentet er originalt
+Dette dokument er beskyttet med et Adobe CDS certifikat. Når du åbner dokumentet 
+i Adobe Reader, kan du se, at dokumentet er certificeret af Penneo e-signature ser-
+vice <penneo@penneo.com>. Dette er din garanti for, at indholdet af dokumentet 
+er uændret. 
+Du har mulighed for at efterprøve de kryptografiske signeringsbeviser indle-
+jret i dokumentet ved at anvende Penneos validator på følgende websted: 
+https://penneo.com/validate
+Underskrifterne i dette dokument er juridisk bindende. Dokumentet er underskrevet via Penneo™ sikker digital underskrift.
+Underskrivernes identiteter er blevet registereret, og informationerne er listet herunder.
+“Med min underskrift bekræfter jeg indholdet og alle datoer i dette dokument.”
+Erik Juel Ellinghaus
+Adm. direktør
+Serienummer: a8a4f1bb-59d1-4101-8269-085833f2d7d7
+IP: 78.31.xxx.xxx
+2022-10-19 05:48:23 UTC
+Erik Juel Ellinghaus
+Bestyrelsesmedlem
+Serienummer: a8a4f1bb-59d1-4101-8269-085833f2d7d7
+IP: 78.31.xxx.xxx
+2022-10-19 05:48:23 UTC
+Erik Bakke
+Bestyrelsesmedlem
+Serienummer: PID:9208-2002-2-696999476528
+IP: 194.192.xxx.xxx
+2022-10-19 08:52:56 UTC
+Kristoffer Basse
+Bestyrelsesformand
+Serienummer: PID:9208-2002-2-461718297233
+IP: 83.94.xxx.xxx
+2022-10-19 10:10:36 UTC
+Lars Bjørn Dupont Jensen
+Bestyrelsesmedlem
+Serienummer: PID:9208-2002-2-370489719918
+IP: 217.74.xxx.xxx
+2022-10-19 10:18:52 UTC
+Daniel C. Jakobsen
+Statsautoriseret revisor
+Serienummer: CVR:19263096-RID:81743404
+IP: 93.165.xxx.xxx
+2022-10-19 10:34:30 UTC
+Simon Morthorst
+Statsautoriseret revisor
+Serienummer: CVR:19263096-RID:58129611
+IP: 80.160.xxx.xxx
+2022-10-20 06:22:52 UTC
+Kristoffer Basse
+Dirigent
+Serienummer: PID:9208-2002-2-461718297233
+IP: 109.58.xxx.xxx
+2022-10-20 08:25:30 UTC
+Penneo dokumentnøgle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT

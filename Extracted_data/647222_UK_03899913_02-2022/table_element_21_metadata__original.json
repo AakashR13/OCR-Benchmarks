@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "4d1bed7f-4130-4bbc-9820-25082dd61587",
+    "element_text": "| Column 1 | Column 2 |\n|---|---|\n| FIXED ASSET INVESTMENTS | Shares in group undertaking |\n|  | \u00a3 |\n| COST |  |\n| At 1 March 2021 | 150 |\n| Disposals | (150) |\n| At 28 February 2022 | - |\n| NET BOOK VALUE |  |\n| At 28 February 2022 |  |\n| At 28 February 2021 | 150 |",
+    "element_metadata": {
+        "page_number": 24,
+        "bounding_box": "[{\"x\": 0.8839, \"y\": 4.4023}, {\"x\": 7.817, \"y\": 4.4064}, {\"x\": 7.819, \"y\": 6.2196}, {\"x\": 0.8846, \"y\": 6.216}]"
+    }
+}

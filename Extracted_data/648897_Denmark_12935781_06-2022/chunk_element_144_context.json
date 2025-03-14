@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "495bcc88-a51c-4139-883c-a6c326bf8f7d",
+    "element_text": "{\"chunk\": \"PROFIT/LOSS BEFORE DEPRECIATION, INTEREST AND TAX\\n15.038.355\\n11.214.856\\n5,6\\nAf- og nedskrivninger p\\u00e5 materielle og immat. anl\\u00e6gsaktiver\\n-4.449.574\\n-3.947.739\\nAmortisation, depreciation and impairment for loss of intangible and tangible fixed asset:\\nRESULTAT AF PRIM\\u00c6R DRIFT\\nOPERATING PROFIT/LOSS\\n10.588.781\", \"context\": \"This chunk provides information about the company's operating performance, including the profit/loss before depreciation, interest and tax, and the amortization, depreciation and impairment of intangible and tangible assets, leading to the operating profit/loss for the year.\"}",
+    "element_metadata": {
+        "page_number": 19,
+        "bounding_box": "[{\"x\": 0.6193, \"y\": 2.6394}, {\"x\": 7.5583, \"y\": 2.6394}, {\"x\": 7.5583, \"y\": 3.8829}, {\"x\": 0.6193, \"y\": 3.8829}]",
+        "document_part": 0
+    }
+}

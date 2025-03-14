@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "6b461528-f5c2-433b-bc16-44ecf957d8e4",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n|  | Brugstid | Restv\u00e6rdier |\n| Indretning af lejede |  |  |\n| lokaler | 5 \u00e5r | 0-20% |\n| Andre anl\u00e6g, driftsmateriel og |  |  |\n| inventar | 5 \u00e5r | 0-10% |",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 0.5784, \"y\": 3.098}, {\"x\": 3.9943, \"y\": 3.1057}, {\"x\": 3.9951, \"y\": 4.5856}, {\"x\": 0.5784, \"y\": 4.58}]"
+    }
+}

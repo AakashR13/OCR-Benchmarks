@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "eb908343-e3c3-4c82-a1bd-82eb70341d2f",
+    "element_text": "{\"chunk\": \"Penneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\nMoreover, it is our responsibility to consider whether\\nManagement's Review provides the information required\\nunder the Danish Financial Statements Act.\\nBased on the work we have performed, we conclude that\\nManagement's Review is in accordance with the\\nFinancial Statements and has been prepared in\\naccordance with the requirements of the Danish\\nFinancial Statement Acts. We did not identify any\", \"context\": \"This chunk appears to be part of the independent auditor's report, specifically the section where the auditor discusses their responsibilities and conclusions regarding the management's review.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 4.2792, \"y\": 4.1621}, {\"x\": 8.1471, \"y\": 4.1621}, {\"x\": 8.1471, \"y\": 7.4664}, {\"x\": 4.2792, \"y\": 7.4664}]",
+        "document_part": 0
+    }
+}

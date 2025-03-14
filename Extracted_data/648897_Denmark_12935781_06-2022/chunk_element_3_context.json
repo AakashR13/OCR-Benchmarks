@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "314d0c3d-d8b0-4dcf-9e02-7520470c4815",
+    "element_text": "{\"chunk\": \"Statsautoriseret Revisionsaktieselskab\\nBuddingevej 312\\n2860 S\\u00f8borg\\nTlf. 39 53 50 00\\nCVR-nr .: 19 26 30 96\\nA member of UHY International, a network of\\nindependent accounting and consulting firms\\nINDHOLDSFORTEGNELSE\\nCONTENTS\\nSide\\nPage\\nLedelsesberetning mv.\\nManagement's review etc.\\nSelskabsoplysninger\\n1\\nCompany details\", \"context\": \"This chunk provides the contact information for the accounting firm that has audited the financial statements of Bruhn Newtech A/S, which is the subject of this annual report.\"}",
+    "element_metadata": {
+        "page_number": 2,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 0.5126}, {\"x\": 7.873, \"y\": 0.5126}, {\"x\": 7.873, \"y\": 11.4153}, {\"x\": 0.6041, \"y\": 11.4153}]",
+        "document_part": 0
+    }
+}

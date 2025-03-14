@@ -1,0 +1,1 @@
+This chunk appears to be related to the digital signing of the document using the Penneo e-signature service. It provides information about the timestamp, IP address, and Penneo document key used in the signing process.

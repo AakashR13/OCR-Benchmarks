@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "64649999-2d08-4068-904a-d0f8495824d0",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| DEBTORS: AMOUNTS FALLING DUE WITHIN ONE | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Trade debtors | 2,684,451 | 2,517,161 |\n| Other debtors | 4,120 | 40,897 |\n| Sundry debtors | 129 | 129 |\n| Tax | 106,086 | 133,624 |\n| Deferred tax asset |  | 6,733 |\n| Called up share capital not paid |  | 350 |\n|  | 2,794,786 | 2,698,894 |",
+    "element_metadata": {
+        "page_number": 25,
+        "bounding_box": "[{\"x\": 0.9006, \"y\": 4.8454}, {\"x\": 7.6743, \"y\": 4.8594}, {\"x\": 7.6721, \"y\": 6.314}, {\"x\": 0.8971, \"y\": 6.3003}]"
+    }
+}

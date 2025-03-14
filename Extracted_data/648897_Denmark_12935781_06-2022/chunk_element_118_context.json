@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "78cad38b-c8f6-4bfb-860c-87d90def188f",
+    "element_text": "{\"chunk\": \"balancetidspunktet disponeres som udbytte til\\nmoderselskabet, indg\\u00e5r i v\\u00e6rdien af kapitalandele.\\nTilknyttede virksomheder med negativ regnskabsm\\u00e6ssig\\nindre v\\u00e6rdi m\\u00e5les til nul, og et eventuelt tilgodehavende\\nhos disse virksomheder nedskrives med moderselskabets\", \"context\": \"This chunk is part of the accounting policies section of the financial statements, specifically discussing the treatment of investments in group enterprises.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 4.2484}, {\"x\": 3.8477, \"y\": 4.2484}, {\"x\": 3.8477, \"y\": 5.4158}, {\"x\": 0.6041, \"y\": 5.4158}]",
+        "document_part": 0
+    }
+}

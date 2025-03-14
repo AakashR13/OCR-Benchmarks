@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides financial data related to bank loans, leasing agreements, and secured debts for the years 2022 and 2021. It includes details on the maturity of loans, minimum lease payments under non-cancellable operating leases, and secured debts included within creditors.",
+        "table_in_markdown_format": "| Description | 2022 (£) | 2021 (£) |\n|---|---|---|\n| Bank loans (sec note 17) | 224,643 |  |\n| Bank loans due within one year or on demand | 20,557 |  |\n| Bank loans due between one and two years | 46,617 |  |\n| Bank loans due between two and five years | 154,656 |  |\n| Bank loans due in more than five years | 23,370 | - |\n| Minimum lease payments within one year | 212,520 | 231,782 |\n| Minimum lease payments between one and five years | 595,968 | 619,124 |\n| Total minimum lease payments | 808,488 | 850,906 |\n| Secured debts - Bank loans | 245,200 |  |",
+        "q_and_a__pairs": [
+            {
+                "question": "What is the total amount of bank loans in 2022?",
+                "answer": "The total amount of bank loans in 2022 is £224,643."
+            },
+            {
+                "question": "How much are the bank loans due within one year in 2022?",
+                "answer": "The bank loans due within one year in 2022 are £20,557."
+            },
+            {
+                "question": "What is the amount of bank loans due between one and two years in 2022?",
+                "answer": "The amount of bank loans due between one and two years in 2022 is £46,617."
+            },
+            {
+                "question": "How much are the bank loans due between two and five years in 2022?",
+                "answer": "The bank loans due between two and five years in 2022 are £154,656."
+            },
+            {
+                "question": "What is the amount of bank loans due in more than five years in 2022?",
+                "answer": "The amount of bank loans due in more than five years in 2022 is £23,370."
+            },
+            {
+                "question": "What are the minimum lease payments within one year for 2022?",
+                "answer": "The minimum lease payments within one year for 2022 are £212,520."
+            },
+            {
+                "question": "How much are the minimum lease payments between one and five years in 2022?",
+                "answer": "The minimum lease payments between one and five years in 2022 are £595,968."
+            },
+            {
+                "question": "What is the total of minimum lease payments in 2022?",
+                "answer": "The total of minimum lease payments in 2022 is £808,488."
+            },
+            {
+                "question": "What is the amount of secured debts in bank loans for 2022?",
+                "answer": "The amount of secured debts in bank loans for 2022 is £245,200."
+            },
+            {
+                "question": "What were the minimum lease payments within one year in 2021?",
+                "answer": "The minimum lease payments within one year in 2021 were £231,782."
+            }
+        ]
+    }
+]

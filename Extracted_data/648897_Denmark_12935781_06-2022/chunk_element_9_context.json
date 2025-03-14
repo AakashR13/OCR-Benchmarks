@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "3f2b5c9a-25e2-4ce1-8260-4c6f5558a8be",
+    "element_text": "{\"chunk\": \"Simon Morthorst, statsautoriseret revisor/State Authorized Public Accountant\\nDaniel Castiblanco Jakobsen statsautoriseret revisor/State Authorized Public Accountant\\nI tilf\\u00e6lde af uoverensstemmelser mellem den danske og\\nden engelske tekst, er den danske tekst g\\u00e6ldende.\\nIn case of discrepancy between the Danish and the\\nEnglish text the Danish shall prevail.\\ninforevision\\nLEDELSESBERETNING 2021/22\", \"context\": \"This chunk contains the company auditors' information and a note about the Danish text prevailing over the English text, followed by the heading for the Management's Review section of the annual report.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 0.5228}, {\"x\": 7.6497, \"y\": 0.5228}, {\"x\": 7.6497, \"y\": 11.2478}, {\"x\": 0.6041, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "d4f42ee9-20b9-4941-bc39-e363470544ad",
+    "element_text": "{\"chunk\": \"arbejder m\\u00e5les til salgsv\\u00e6rdien af det udf\\u00f8rte arbejde.\\nSalgsv\\u00e6rdien m\\u00e5les p\\u00e5 baggrund af f\\u00e6rdigg\\u00f8relsesgraden\\np\\u00e5 balancedagen og de samlede forventede indt\\u00e6gter p\\u00e5\\ndet enkelte igangv\\u00e6rende arbejde. F\\u00e6rdigg\\u00f8relsesgraden\", \"context\": \"The chunk describes how work in progress is measured in the financial statements, specifically that it is measured at the sales value of the work performed, based on the degree of completion at the balance sheet date and the total expected revenue on the individual work in progress.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 3.1571}, {\"x\": 3.8781, \"y\": 3.1571}, {\"x\": 3.8781, \"y\": 3.8474}, {\"x\": 0.6091, \"y\": 3.8474}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "102980c0-d642-4e2e-bf4a-f1f122af248c",
+    "element_text": "{\"chunk\": \"Impairment for loss for the year is recognised in the\\nincome statement as impairment for loss of financial\\nassets.\\ninforevision\\n15\\nANVENDT REGNSKABSPRAKSIS, fortsat\\nSUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued\\nTilgodehavender\\nTilgodehavender m\\u00e5les til amortiseret kostpris, der\", \"context\": \"The chunk discusses the accounting treatment of receivables, specifically that they are measured at amortized cost. This is part of the summary of significant accounting policies section in the document.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.599, \"y\": 0.5126}, {\"x\": 7.6497, \"y\": 0.5126}, {\"x\": 7.6497, \"y\": 11.2478}, {\"x\": 0.599, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

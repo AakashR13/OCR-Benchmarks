@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "33065fae-5888-42a5-beaa-07da115fea86",
+    "element_text": "{\"chunk\": \"s\\u00e6dvanligvis svarer til nominel v\\u00e6rdi. V\\u00e6rdien reduceres\\nmed nedskrivning til im\\u00f8deg\\u00e5else af forventede tab efter\\nen individuel vurdering.\\nIgangv\\u00e6rende arbejder for fremmed regning\\nIgangv\\u00e6rende arbejder for fremmed regning er indregnet\\nefter produktionskriteriet, hvorefter igangv\\u00e6rende\", \"context\": \"The chunk describes the accounting treatment of receivables and contract work in progress on the balance sheet.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 1.6344}, {\"x\": 3.8731, \"y\": 1.6344}, {\"x\": 3.8731, \"y\": 3.1216}, {\"x\": 0.6041, \"y\": 3.1216}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "e539e57a-e1d8-48d1-bd4d-fa4aad0597f8",
+    "element_text": "{\"chunk\": \"sekund\\u00e6r karakter i forhold til virksomhovedaktivitet,\\nherunder avance ved salg af anl\\u00e6gsaktiver.\\nOther operating expenses include financial statement\\nitems of a secondary nature in relation to the primary\\nactivity of the enterprise, including profit from sale of\\nfixed assets.\\nIndt\\u00e6gter af kapitalandele i tilknyttede virksomheder\", \"context\": \"The chunk describes the accounting treatment of other operating expenses and income from investments in group enterprises, which are part of the income statement section of the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 1.4517}, {\"x\": 7.3096, \"y\": 1.4517}, {\"x\": 7.3096, \"y\": 2.6597}, {\"x\": 0.6091, \"y\": 2.6597}]",
+        "document_part": 0
+    }
+}

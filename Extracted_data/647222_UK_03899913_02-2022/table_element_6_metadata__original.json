@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "eadf4fbd-efc0-4f71-a60d-fb299adf9749",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 |\n|---|---|---|---|\n|  | Notes | 2022 | 2021 |\n|  |  | \u00a3 | \u00a3 |\n| Cash flows from operating activities |  |  |  |\n| Cash generated from operations | 1 | 2,218,779 | 721,565 |\n| Interest paid |  | (753) |  |\n| Tax paid |  | (196,127) | (14,978) |\n| Net cash from operating activities |  | 2,021,899 | 706,587 |\n| Cash flows from investing activities |  |  |  |\n| Purchase of tangible fixed assets |  | (158,457) | (49,225) |\n| Sale of fixed asset investments |  | 150 | I |\n| Interest received |  | 120 |  |\n| Dividends received |  |  | 180,467 |\n| Net cash from investing activities |  | (158,187) | 131,242 |\n| Cash flows from financing activities |  |  |  |\n| New loans in year |  | 250,000 | 1 |\n| Share buyback |  | (917,248) |  |\n| Share capital paid up |  | 350 | 1 |\n| Equity dividends paid |  | (250,862) | (398,816) |\n| Net cash from financing activities |  | (917,760) | (398,816) |\n| Increase in cash and cash equivalents |  | 945,952 | 439,013 |\n| Cash and cash equivalents at beginning of year | 2 | 2,654,639 | 2,215,626 |\n| Cash and cash equivalents at end of year | 2 | 3,600,591 | 2,654,639 |",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 0.4378, \"y\": 1.1637}, {\"x\": 7.7032, \"y\": 1.1688}, {\"x\": 7.701, \"y\": 5.5709}, {\"x\": 0.434, \"y\": 5.5645}]"
+    }
+}

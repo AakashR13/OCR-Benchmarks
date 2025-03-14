@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "4cac2f9d-6dbd-4bcb-a255-d8d5b0ac3c85",
+    "element_text": "{\"chunk\": \"henhold til disse krav og IESBA Code. Det er vores\\nopfattelse, at det opn\\u00e5ede revisionsbevis er tilstr\\u00e6kkeligt\\nog egnet som grundlag for vores konklusion.\\nTo the shareholders of Bruhn Newtech A/S\\nOpinion\\nWe have audited the financial statements of Bruhn\\nNewtech A/S for the financial year 1 July 2021 to 30 June\\n2022, which comprise the accounting policies applied,\", \"context\": \"This chunk is part of the independent auditor's report, where the auditor expresses their opinion on the financial statements of Bruhn Newtech A/S for the financial year 1 July 2021 to 30 June 2022.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 1.2689}, {\"x\": 7.4771, \"y\": 1.2689}, {\"x\": 7.4771, \"y\": 8.0146}, {\"x\": 0.6091, \"y\": 8.0146}]",
+        "document_part": 0
+    }
+}

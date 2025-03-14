@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "d97fe2b9-9f38-49ab-8ea0-2bbaa81c4d1a",
+    "element_text": "{\"chunk\": \"Our business continues to add value for our clients and is still seeing increased demand for our services delivered from our global\\nbranches. The directors are now very happy that the company's product offering, especially with the cloud element, is assisting the\\ngrowth of the company and is enabling us to be true leaders in our industry.\\nThe company's potential risk is a lot lower now the world has returned to normal operations following the pandemic. Staff are now\", \"context\": \"This chunk is part of the \\\"PRINCIPAL RISKS AND UNCERTAINTIES\\\" section of the Strategic Report, where the directors discuss the company's risk exposure and how it has changed due to the recovery from the pandemic.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 5.3295}, {\"x\": 7.7715, \"y\": 5.3295}, {\"x\": 7.7715, \"y\": 6.1061}, {\"x\": 0.4822, \"y\": 6.1061}]",
+        "document_part": 0
+    }
+}

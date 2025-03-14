@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ef3f205e-e0a5-4b08-afd3-5c78c4c87d41",
+    "element_text": "{\"chunk\": \"Anl\\u00e6gs- og afskrivningsoversigt, immaterielle anl\\u00e6gsaktiver\\nList of fixed assets, amortisation and impairment, intangible asset:\\nF\\u00e6rdiggjorte\\nudviklingsprojekter\\nCompleted development\\nprojects\\nI ALT\\nTOTAL\\n30/6 2021\\nKostpris pr. 1/7 2021\\n18.320.464\\n18.320.464\\n14.219.864\\nCost at 1/7 2021\", \"context\": \"This chunk is part of the notes to the financial statements, specifically note 5 on intangible assets. It provides details on the cost and amortisation of completed development projects, which are a significant asset for the company.\"}",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 1.0202, \"y\": 1.0812}, {\"x\": 8.1313, \"y\": 1.0812}, {\"x\": 8.1313, \"y\": 2.6954}, {\"x\": 1.0202, \"y\": 2.6954}]",
+        "document_part": 0
+    }
+}

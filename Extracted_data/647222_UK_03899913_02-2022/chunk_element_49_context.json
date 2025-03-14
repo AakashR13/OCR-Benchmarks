@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "d29a7795-1420-42b1-baa1-b7b408277775",
+    "element_text": "{\"chunk\": \"5,623,860\\nCREDITORS\\nAmounts falling due within one year\\n15\\n3,511,369\\n3,047,806\\nNET CURRENT ASSETS\\n3,131,218\\n2,576,054\\nTOTAL ASSETS LESS CURRENT\\nLIABILITIES\\n3,314,642\\n2,663,463\\nCREDITORS\\nAmounts falling due after more than one\\n(224,643)\\nyear\\n16\\nPROVISIONS FOR LIABILITIES\\n20\\n(16,811)\\n1\\nNET ASSETS\\n3,073,188\", \"context\": \"This chunk provides details on the company's current and non-current liabilities, net current assets, and total net assets at the end of the financial year.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 2.9997}, {\"x\": 7.6243, \"y\": 2.9997}, {\"x\": 7.6243, \"y\": 5.025}, {\"x\": 0.4772, \"y\": 5.025}]",
+        "document_part": 0
+    }
+}

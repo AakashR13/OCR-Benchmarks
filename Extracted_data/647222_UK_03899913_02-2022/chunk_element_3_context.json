@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "f7e5567a-6111-4c9e-b59c-3a9fec62ed0b",
+    "element_text": "{\"chunk\": \"London\\nEC2A 2DX\\nREGISTERED NUMBER:\\n03899913 (England and Wales)\\nAUDITORS:\\nBlick Rothenberg Audit LLP\\nChartered Accountants\\nStatutory Auditor\\n16 Great Queen Street\\nCovent Garden\\nLondon\\nWC2B 5AH\\nBANKERS:\\nMetro Bank\\nOne Southampton Row\\nLondon\\nWCIB 5HA\\nPage 1\\nCROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\\nSTRATEGIC REPORT\", \"context\": \"This chunk contains the company information, including the registered office, auditors, and bankers, as well as the start of the strategic report for Crown Jewels Consultants Ltd.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 1.6751, \"y\": 0.472}, {\"x\": 6.4314, \"y\": 0.472}, {\"x\": 6.4314, \"y\": 11.1716}, {\"x\": 1.6751, \"y\": 11.1716}]",
+        "document_part": 0
+    }
+}

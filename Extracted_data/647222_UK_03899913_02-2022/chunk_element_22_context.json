@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ac12b204-ca68-4612-b34e-6ea9df81d7df",
+    "element_text": "{\"chunk\": \"- the director has taken all the steps that ought to have been taken as a director in order to be aware of any relevant audit information\\nand to establish that the company's auditor is aware of that information.\\nAUDITORS\\nThe auditors, Blick Rothenberg Audit LLP, will be proposed for re-appointment.\\nON BEHALF OF THE BOARD:\\nMr P R Gow - Director\\n22 November 2022\\nPage 5\\nREPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF\", \"context\": \"This chunk is from the Report of the Directors section, which provides information about the directors' responsibilities and the re-appointment of the company's auditors.\"}",
+    "element_metadata": {
+        "page_number": 8,
+        "bounding_box": "[{\"x\": 0.4721, \"y\": 0.4771}, {\"x\": 7.7766, \"y\": 0.4771}, {\"x\": 7.7766, \"y\": 11.1666}, {\"x\": 0.4721, \"y\": 11.1666}]",
+        "document_part": 0
+    }
+}

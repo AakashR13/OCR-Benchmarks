@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "6d42a0b2-ceed-4405-9494-ef72bb44c88e",
+    "element_text": "{\"chunk\": \"always detect a material misstatement when it exists.\\nMisstatements can arise from fraud or error and are\\nconsidered material if, individually or in the aggregate,\\nthey could reasonably be expected to influence the\\neconomic decisions of users taken on the basis of\\nFinancial Statements.\\nSom led i en revision, der udf\\u00f8res i overensstemmelse\\nmed internationale standarder om revision og de\\nyderligere krav, der er g\\u00e6ldende i Danmark, foretager vi\", \"context\": \"This chunk is part of the auditor's responsibilities in conducting the audit of the financial statements in accordance with international auditing standards and additional requirements applicable in Denmark.\"}",
+    "element_metadata": {
+        "page_number": 7,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 6.7558}, {\"x\": 7.3553, \"y\": 6.7558}, {\"x\": 7.3553, \"y\": 8.913}, {\"x\": 0.6091, \"y\": 8.913}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "53fc2724-78fe-4be0-b5a7-9fe8b746708f",
+    "element_text": "{\"chunk\": \"As income recognition criterion, the production criterion\\nis applied so that revenue comprises the invoiced revenue\\nfor the year reduced by prepayments and with addition\\nfor work in progress measured at market value. Revenue\\nis measured at fair value excl. VAT and less granted\\ndiscounts.\\nOther operating income\\nOther operating income includes financial statement\\nitems of a secondary nature in relation to the primary\\nactivity of the enterprise, including profit on sale of fixed\\nassets and public grants and other grants for research\\nand development projects.\", \"context\": \"The given chunk describes the company's revenue recognition policy and the treatment of other operating income, which are important aspects of the financial statements presented in the annual report.\"}",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 4.2639, \"y\": 3.7713}, {\"x\": 7.5177, \"y\": 3.7713}, {\"x\": 7.5177, \"y\": 6.2736}, {\"x\": 4.2639, \"y\": 6.2736}]",
+        "document_part": 0
+    }
+}

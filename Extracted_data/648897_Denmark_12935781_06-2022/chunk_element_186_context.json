@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ef99275a-7442-410f-ba84-37ae9f8b0386",
+    "element_text": "{\"chunk\": \"REGNSKABSM\\u00c6SSIG V\\u00c6RDI PR. 30/6 2022\\nCARRYING AMOUNT AT 30/6 2022\\n3.103.807\\n123.920\\n3.227.727\\n5.139.076\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\ninforevision\\n27\\nNOTER, fortsat\\nNOTES, continued\\n8\", \"context\": \"This chunk is from the \\\"Notes\\\" section of the financial statements, specifically Note 8 \\\"Investments in group enterprises\\\". It provides the carrying amount of the company's investments in group enterprises and other receivables as of June 30, 2022.\"}",
+    "element_metadata": {
+        "page_number": 29,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 0.5228}, {\"x\": 11.5879, \"y\": 0.5228}, {\"x\": 11.5879, \"y\": 7.9492}, {\"x\": 0.6041, \"y\": 7.9492}]",
+        "document_part": 0
+    }
+}

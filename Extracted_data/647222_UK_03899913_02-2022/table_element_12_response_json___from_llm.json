@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a breakdown of the average number of employees in different departments for the years 2022 and 2021. It includes data for Directors, Operations, Engineering, Sales & Marketing, and Administration, along with the total number of employees for each year.",
+        "table_in_markdown_format": "| Department          | 2022 | 2021 |\n|---------------------|------|------|\n| Directors Employees | 3    | 4    |\n| Operations          | 60   | 62   |\n| Engineering         | 18   | 15   |\n| Sales & Marketing   | 7    | 7    |\n| Administration      | 18   | 16   |\n| **Total**           | 106  | 104  |",
+        "q_and_a__pairs": [
+            {
+                "question": "How many directors were there in 2022?",
+                "answer": "There were 3 directors in 2022."
+            },
+            {
+                "question": "What was the total number of employees in 2021?",
+                "answer": "The total number of employees in 2021 was 104."
+            },
+            {
+                "question": "Which department had the same number of employees in both 2022 and 2021?",
+                "answer": "The Sales & Marketing department had the same number of employees, 7, in both 2022 and 2021."
+            },
+            {
+                "question": "How many employees were in the Operations department in 2022?",
+                "answer": "There were 60 employees in the Operations department in 2022."
+            },
+            {
+                "question": "Did the Engineering department have more employees in 2022 or 2021?",
+                "answer": "The Engineering department had more employees in 2022, with 18 employees compared to 15 in 2021."
+            },
+            {
+                "question": "What is the difference in the number of employees in the Administration department between 2022 and 2021?",
+                "answer": "The Administration department had 2 more employees in 2022 than in 2021."
+            },
+            {
+                "question": "How many employees were there in the Sales & Marketing department in 2022?",
+                "answer": "There were 7 employees in the Sales & Marketing department in 2022."
+            },
+            {
+                "question": "What was the total increase in the number of employees from 2021 to 2022?",
+                "answer": "The total increase in the number of employees from 2021 to 2022 was 2."
+            },
+            {
+                "question": "Which department had the largest number of employees in 2022?",
+                "answer": "The Operations department had the largest number of employees in 2022, with 60 employees."
+            },
+            {
+                "question": "How many more employees were there in the Operations department in 2021 compared to the Engineering department in the same year?",
+                "answer": "There were 47 more employees in the Operations department compared to the Engineering department in 2021."
+            }
+        ],
+        "table_type": "Others"
+    }
+]

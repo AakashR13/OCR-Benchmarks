@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "81b683f2-58ac-48be-9880-f7d90391b602",
+    "element_text": "{\"chunk\": \"The financial statements have been prepared on the historical cost basis except for the modification to a fair value basis for\\ncertain financial instruments as specified in the accounting policies below.\\nThe principal accounting policies adopted in the preparation of these financial statements are set out below. These policies\\nhave been consistently applied to all the years presented, unless otherwise stated.\\nThe company's subsidiary ceased trading in 2020 and was struck off on 18 May 2021. The company is no longer a parent\", \"context\": \"The chunk discusses the basis of preparation of the financial statements, the company's accounting policies, and the company's subsidiary that ceased trading.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.9238, \"y\": 3.6139}, {\"x\": 7.7867, \"y\": 3.6139}, {\"x\": 7.7867, \"y\": 4.7103}, {\"x\": 0.9238, \"y\": 4.7103}]",
+        "document_part": 0
+    }
+}

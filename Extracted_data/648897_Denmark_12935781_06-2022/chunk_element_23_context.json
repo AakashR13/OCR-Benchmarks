@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "b122f38d-33c3-493e-9537-c428b5ad5db5",
+    "element_text": "{\"chunk\": \"Board of Executives\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\nErik Juel Ellinghaus\\nAdm. direkt\\u00f8r\\nCEO\\nI bestyrelsen\\nBoard of Directors\\nKristoffer Basse\\nFormand\\nChairman\\nLars Bj\\u00f8rn Dupont Jensen\\nBestyrelsesmedlem\\nBoardmember\\nErik Bakke\\nBestyrelsesmedlem\\nBoardmember\\nErik Juel Ellinghaus\", \"context\": \"This chunk provides information about the company's board of executives and board of directors.\"}",
+    "element_metadata": {
+        "page_number": 5,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 4.2078}, {\"x\": 8.1522, \"y\": 4.2078}, {\"x\": 8.1522, \"y\": 9.5017}, {\"x\": 0.6091, \"y\": 9.5017}]",
+        "document_part": 0
+    }
+}

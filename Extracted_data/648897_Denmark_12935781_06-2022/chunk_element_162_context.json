@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "cb69b29c-fdca-4d38-94d5-cfb7ec1cb8ae",
+    "element_text": "{\"chunk\": \"Transferred to reserve for development expenditure\\nOverf\\u00f8rt via resultatdisponeringen\\n0\\n0\\n-70.692\\n6.500.000\\n6.429.308\\nTransferred from distribution of profit/loss\\nEgenkapital pr. 1/7 2021\\n500.000\\n6.723.096\\n283.539\\n6.500.000\\n14.006.635\\nEquity at 1/7 2021\\nUdloddet udbytte\\n0\\n0\\n0\", \"context\": \"This chunk represents changes in the company's equity for the period from 1 July 2021 to 30 June 2022, including the transfer of development costs to a reserve, the transfer of profit/loss, the distribution of dividends, and the opening equity balance.\"}",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 1.0151, \"y\": 3.9238}, {\"x\": 10.187, \"y\": 3.9238}, {\"x\": 10.187, \"y\": 5.0507}, {\"x\": 1.0151, \"y\": 5.0507}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides information on the number of shares allotted, issued, and fully paid for different classes of shares for the years 2022 and 2021. It includes details such as the class of shares, nominal value, and the number of shares for each year.",
+        "table_in_markdown_format": "| Allotted, issued Number | Class | Nominal value | 2022 | 2021 |\n|---|---|---|---|---|\n| 5,988 | \"A\" Ordinary voting | £1 | 5,988 | 7,040 |\n| 2 | \"B\" Ordinary non-voting | £1 | 2 | 2 |\n| 1 | \"C\" Ordinary non-voting |  | 1 | 1 |\n| 1 | \"D\" Ordinary non-voting | £1 | 1 | 1 |\n| 2 | \"E\" Ordinary non-voting | £1 | 2 | 2 |\n| 2 | \"G\" Ordinary non-voting | £1 | 2 | 2 |\n|  |  |  | 5,996 | 7,048 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What is the nominal value of 'A' Ordinary voting shares?",
+                "answer": "£1"
+            },
+            {
+                "question": "How many 'A' Ordinary voting shares were there in 2022?",
+                "answer": "5,988"
+            },
+            {
+                "question": "How many 'A' Ordinary voting shares were there in 2021?",
+                "answer": "7,040"
+            },
+            {
+                "question": "What is the total number of shares for all classes in 2022?",
+                "answer": "5,996"
+            },
+            {
+                "question": "What is the total number of shares for all classes in 2021?",
+                "answer": "7,048"
+            },
+            {
+                "question": "How many 'B' Ordinary non-voting shares were there in 2022?",
+                "answer": "2"
+            },
+            {
+                "question": "What is the nominal value of 'D' Ordinary non-voting shares?",
+                "answer": "£1"
+            },
+            {
+                "question": "How many 'E' Ordinary non-voting shares were there in 2021?",
+                "answer": "2"
+            },
+            {
+                "question": "What is the class of shares with a nominal value of £1 and 2 shares in 2022?",
+                "answer": "\"B\" Ordinary non-voting, \"E\" Ordinary non-voting, \"G\" Ordinary non-voting"
+            },
+            {
+                "question": "How many 'C' Ordinary non-voting shares were there in 2021?",
+                "answer": "1"
+            }
+        ]
+    }
+]

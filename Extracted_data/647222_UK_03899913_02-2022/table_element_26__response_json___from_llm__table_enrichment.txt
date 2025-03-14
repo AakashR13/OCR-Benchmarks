@@ -1,0 +1,12 @@
+[
+  {
+    "table_description": "The table is not a valid table.",
+    "table_in_markdown_format": "The table is not a valid table.",
+    "q_and_a__pairs": [
+      {
+        "question": "Not applicable",
+        "answer": "Not applicable"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "52c9affc-8868-4890-9e9f-ab1825fd0eee",
+    "element_text": "{\"chunk\": \"FINANSIELLE ANL\\u00c6GSAKTIVER\\nFIXED ASSET INVESTMENTS\\n3.227.727\\n5.139.076\\nANL\\u00c6GSAKTIVER\\n12.361.822\\n14.066.310\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\nFIXED ASSETS\\ninforevision\\n19\\nAKTIVER, fortsat\\nASSETS, continued\\nNote\", \"context\": \"This chunk is from the Balance Sheet section of the annual report, specifically the Assets side, where it shows the Fixed Asset Investments and Total Fixed Assets.\"}",
+    "element_metadata": {
+        "page_number": 21,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 0.5228}, {\"x\": 8.1522, \"y\": 0.5228}, {\"x\": 8.1522, \"y\": 11.2478}, {\"x\": 0.6041, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

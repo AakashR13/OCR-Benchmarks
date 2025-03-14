@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "24660be0-972a-4520-a618-f2785751cb16",
+    "element_text": "{\"chunk\": \"Tax on profit or loss for the year represents 22% of the\\nbook profit or loss adjusted for non-taxable and non-\\ndeductible items.\\nSkat af \\u00e5rets resultat udg\\u00f8r 22 % af det regnskabsm\\u00e6ssige\\nresultat korrigeret for ikke indkomstskattepligtige og ikke\\nfradragsberettigede poster.\\nSkat af \\u00e5rets resultat er sammensat af den forventede skat\", \"context\": \"The chunk provides details on the calculation of tax on the company's profit or loss for the year, including the applicable tax rate and adjustments for non-taxable and non-deductible items. This information is part of the company's accounting policies disclosed in the notes to the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 5.4767}, {\"x\": 7.34, \"y\": 5.4767}, {\"x\": 7.34, \"y\": 6.5883}, {\"x\": 0.6041, \"y\": 6.5883}]",
+        "document_part": 0
+    }
+}

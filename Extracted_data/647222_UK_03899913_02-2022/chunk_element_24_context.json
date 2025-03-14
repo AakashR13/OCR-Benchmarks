@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "e5900721-bb73-4a98-b887-4aabe2e296ce",
+    "element_text": "{\"chunk\": \"of significant accounting polices. The financial reporting framework that has been applied in their preparation is applicable law and\\nUnited Kingdom Accounting Standards, including Financial Reporting Standard 102 \\\"Financial Reporting Standard applicable in the\\nUK and Republic of Ireland\\\" (United Kingdom Generally Accepted Accounting Practice).\\nIn our opinion the financial statements:\\n- give a true and fair view of the state of the company's affairs as at 28 February 2022 and of its profit for the year then ended;\", \"context\": \"This chunk contains the auditor's opinion on the financial statements of Crown Jewels Consultants Ltd for the year ended 28 February 2022.\"}",
+    "element_metadata": {
+        "page_number": 8,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 1.5887}, {\"x\": 7.7766, \"y\": 1.5887}, {\"x\": 7.7766, \"y\": 2.5226}, {\"x\": 0.4822, \"y\": 2.5226}]",
+        "document_part": 0
+    }
+}

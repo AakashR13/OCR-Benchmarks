@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table contains financial data related to group enterprises and long-term liabilities. It includes information on ownership share, contributed capital, profit or loss for the year, and equity for Bruhn NewTech Limited, UK. Additionally, it details long-term liabilities, total debt, and other payables, with specific focus on debts due within a year and debts outstanding after five years.",
+        "table_in_markdown_format": "| Company/Category | Ownership Share | Contributed Capital | Profit or Loss for the Year | Equity |\n|---|---|---|---|---|\n| Bruhn NewTech Limited, UK | 100% | 433,420 | 253,655 | 3,103,807 |\n| **TOTAL** |  | 433,420 | 253,655 | 3,103,807 |\n\n| Category |  |  | 30/6 2022 | 30/6 2021 |\n|---|---|---|---|---|\n| Total Debt |  |  | 0 | 824,276 |\n| **TOTAL** |  |  | 0 | 824,276 |\n\n| Category |  |  |  |  |\n|---|---|---|---|---|\n| Instalments next financial year |  |  | 0 | 824,276 |\n| **TOTAL** |  |  | 0 | 824,276 |\n\n| Category |  |  |  |  |\n|---|---|---|---|---|\n| Debt outstanding after 5 years |  |  | 0 | 0 |\n| **TOTAL** |  |  | 0 | 0 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What is the ownership share of Bruhn NewTech Limited, UK?",
+                "answer": "100%"
+            },
+            {
+                "question": "What is the contributed capital for Bruhn NewTech Limited, UK?",
+                "answer": "433,420"
+            },
+            {
+                "question": "What is the profit or loss for the year for Bruhn NewTech Limited, UK?",
+                "answer": "253,655"
+            },
+            {
+                "question": "What is the equity for Bruhn NewTech Limited, UK?",
+                "answer": "3,103,807"
+            },
+            {
+                "question": "What is the total debt as of 30/6 2021?",
+                "answer": "824,276"
+            },
+            {
+                "question": "What is the total debt as of 30/6 2022?",
+                "answer": "0"
+            },
+            {
+                "question": "What are the instalments due next financial year as of 30/6 2021?",
+                "answer": "824,276"
+            },
+            {
+                "question": "What are the instalments due next financial year as of 30/6 2022?",
+                "answer": "0"
+            },
+            {
+                "question": "What is the debt outstanding after 5 years as of 30/6 2021?",
+                "answer": "0"
+            },
+            {
+                "question": "What is the debt outstanding after 5 years as of 30/6 2022?",
+                "answer": "0"
+            }
+        ],
+        "table_type": "Balance Sheet"
+    }
+]

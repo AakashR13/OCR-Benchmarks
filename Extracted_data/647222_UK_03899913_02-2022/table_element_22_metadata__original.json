@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "0341578b-8aba-4540-9a23-704d2e7baa1f",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| Ordinary voting | 2022 | 23/12/20 |\n|  | 48 | \u00a3 |\n| Aggregate capital and reserves |  | 233 |\n| Profit for the year/period |  | 3,981 |",
+    "element_metadata": {
+        "page_number": 25,
+        "bounding_box": "[{\"x\": 0.9326, \"y\": 2.9794}, {\"x\": 7.6864, \"y\": 2.9741}, {\"x\": 7.6829, \"y\": 3.6451}, {\"x\": 0.9283, \"y\": 3.6508}]"
+    }
+}

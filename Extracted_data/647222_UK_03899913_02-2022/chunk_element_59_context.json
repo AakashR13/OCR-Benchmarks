@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "3a6bc02c-ec29-4426-a247-45bb93a2410f",
+    "element_text": "{\"chunk\": \"1.3.21\\n28.2.22\\n\\u00a3\\n\\u00a3\\nCash and cash equivalents\\n3,600,591\\n2,654,639\\nYear ended 28 February 2021\\n28.2.21\\n1.3.20\\n\\u00a3\\n\\u00a3\\nCash and cash equivalents\\n2,654,639\\n2,215,696\\nBank overdrafts\\n(70)\\n2,654,639\\n2,215,626\\n3.\\nANALYSIS OF CHANGES IN NET FUNDS\\nAt 1.3.21\\nCash flow\", \"context\": \"This chunk appears to be related to the company's cash and cash equivalents, as well as an analysis of changes in net funds. It is likely located within the notes to the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.4924, \"y\": 4.7204}, {\"x\": 7.6548, \"y\": 4.7204}, {\"x\": 7.6548, \"y\": 6.9233}, {\"x\": 0.4924, \"y\": 6.9233}]",
+        "document_part": 0
+    }
+}

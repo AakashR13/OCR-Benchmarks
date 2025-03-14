@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a0105f8e-aa6e-4651-9589-3e3a1207358f",
+    "element_text": "{\"chunk\": \"andet det planlagte omfang og den tidsm\\u00e6ssige placering\\naf revisionen samt betydelige revisionsm\\u00e6ssige\\nobservationer, herunder eventuelle betydelige mangler i\\nintern kontrol, som vi identificerer under revisionen.\\nUdtalelse om ledelsesberetningen\\nLedelsen er ansvarlig for ledelsesberetningen.\\nVores konklusion om \\u00e5rsregnskabet omfatter ikke\", \"context\": \"This chunk is part of the independent auditor's report, where the auditor describes their responsibilities in the audit, including communicating with management about the planned scope and timing of the audit and any significant audit findings, including significant deficiencies in internal control. The chunk then transitions to the auditor's statement about management's review.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 0.599, \"y\": 1.4567}, {\"x\": 3.8832, \"y\": 1.4567}, {\"x\": 3.8832, \"y\": 3.7865}, {\"x\": 0.599, \"y\": 3.7865}]",
+        "document_part": 0
+    }
+}

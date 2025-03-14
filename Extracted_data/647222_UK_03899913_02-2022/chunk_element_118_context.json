@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "2756dc44-899b-4d27-b08c-014d8af262c5",
+    "element_text": "{\"chunk\": \"The final tranche will take place in April 2023 when 1,049 \\\"A\\\" shares, 1 \\\"C\\\" share and 2 \\\"E\\\" shares are purchased for\\n\\u00a3917,247.94. These shares will also be cancelled.\\n24.\\nRELATED PARTY DISCLOSURES\\nEntities over which the entity has control\\nA dividend was paid to Crown Jewels Consultants Ltd of \\u00a3Nil (2021 : \\u00a3180,467).\\nEntities that provide key management personnel services to the entity\", \"context\": \"This chunk discusses the company's related party transactions, including the purchase of its own shares in a final tranche and the payment of dividends to its subsidiary.\"}",
+    "element_metadata": {
+        "page_number": 28,
+        "bounding_box": "[{\"x\": 0.4873, \"y\": 5.964}, {\"x\": 7.7817, \"y\": 5.964}, {\"x\": 7.7817, \"y\": 7.5324}, {\"x\": 0.4873, \"y\": 7.5324}]",
+        "document_part": 0
+    }
+}

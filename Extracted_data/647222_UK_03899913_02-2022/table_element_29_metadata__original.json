@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "3d2dd446-2b0c-418c-bf8c-c9921617e2b9",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |\n|---|---|---|---|---|\n| RESERVES | Retained carnings | Capital redemption reserve | Share option reserve | Totals |\n|  | \u00a3 | \u00a3 | \u00a3 | \u00a3 |\n| At 1 March 2021 | 2,622,792 | 701 | 32,922 | 2,656,415 |\n| Profit for the year | 1,549,616 | - | I | 1,549,616 |\n| Dividends | (250,862) |  |  | (250,862) |\n| Purchase of own shares | (917,248) | 1,052 |  | (916,196) |\n| Share based payment charge |  |  | 28,219 | 28,219 |\n| At 28 February 2022 | 3,004,298 | 1,753 | 61,141 | 3,067,192 |",
+    "element_metadata": {
+        "page_number": 28,
+        "bounding_box": "[{\"x\": 0.8949, \"y\": 1.403}, {\"x\": 7.6944, \"y\": 1.4029}, {\"x\": 7.696, \"y\": 3.2072}, {\"x\": 0.8951, \"y\": 3.2063}]"
+    }
+}

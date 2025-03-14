@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "76c00826-0bad-4fc2-9bde-e762fbcc0700",
+    "element_text": "{\"chunk\": \"The directors present their report with the financial statements of the company for the year ended 28 February 2022.\\nPRINCIPAL ACTIVITY\\nThe principal activity of the company in the year under review was that of software consultancy and supply.\\nDIVIDENDS\\nThe total distribution of dividends for the year ended 28 February 2022 was \\u00a3250,862 (2021: \\u00a3398,816). Further dividends of\\n\\u00a3180,408 have been paid after the year end.\", \"context\": \"This chunk provides an overview of the company's principal activity, dividends paid, and dividends paid after the year end, as part of the directors' report for the financial year ended 28 February 2022.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 1.2689}, {\"x\": 7.7817, \"y\": 1.2689}, {\"x\": 7.7817, \"y\": 2.5176}, {\"x\": 0.4822, \"y\": 2.5176}]",
+        "document_part": 0
+    }
+}

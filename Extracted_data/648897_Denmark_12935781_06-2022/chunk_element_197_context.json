@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "3a2bc92c-b785-4c81-98bb-561bcb36f1f5",
+    "element_text": "{\"chunk\": \"Bestyrelsesmedlem\\nSerienummer: a8a4f1bb-59d1-4101-8269-085833f2d7d7\\nSerienummer: a8a4f1bb-59d1-4101-8269-085833f2d7d7\\nIP: 78.31.xxx.xxx\\nIP: 78.31.xxx.xxx\\nMit &D\\n2022-10-19 05:48:23 UTC\", \"context\": \"This chunk appears to be a signature block for a board member of the company Bruhn Newtech A/S, as evidenced by the \\\"Bestyrelsesmedlem\\\" (Board Member) title and the digital signature information.\"}",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 0.5881, \"y\": 2.7934}, {\"x\": 7.2753, \"y\": 2.7934}, {\"x\": 7.2753, \"y\": 3.4474}, {\"x\": 0.5881, \"y\": 3.4474}]",
+        "document_part": 0
+    }
+}

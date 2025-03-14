@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "dad1fa29-a5a6-41e1-b1b4-9ca4e0cff1c0",
+    "element_text": "| Column 1 | Column 2 |\n|---|---|\n|  | Side Page |\n| Ledelsesberetning mv. |  |\n| Management's review etc. |  |\n| Selskabsoplysninger | 1 |\n| Company details |  |\n| Ledelsesberetning | 2 |\n| Management's review |  |\n| P\u00e5tegninger |  |\n| Statement and report |  |\n| Ledelsesp\u00e5tegning | 3 |\n| Statement by Management on the annual report |  |\n| Den uafh\u00e6ngige revisors revisionsp\u00e5tegning Independent auditor's report | 4-7 |\n| \u00c5rsregnskab |  |\n| Financial statements |  |\n| Anvendt regnskabspraksis | 8-16 |\n| Summary of significant accounting policies |  |\n| Resultatopg\u00f8relse 1. juli 2021 - 30. juni 2022 Income statement 1 July 2021 - 30 June 2022 | 17 |\n| Balance pr. 30. juni 2022 Balance sheet at 30 June 2022 | 18-20 |\n| Egenkapitalopg\u00f8relse pr. 30. juni 2022 | 21 |\n| Statement of changes in equity 30 June 2022 |  |\n| Noter Notes | 22-28 |",
+    "element_metadata": {
+        "page_number": 2,
+        "bounding_box": "[{\"x\": 0.5296, \"y\": 1.4861}, {\"x\": 7.2598, \"y\": 1.4954}, {\"x\": 7.2571, \"y\": 7.8037}, {\"x\": 0.5257, \"y\": 7.7941}]"
+    }
+}

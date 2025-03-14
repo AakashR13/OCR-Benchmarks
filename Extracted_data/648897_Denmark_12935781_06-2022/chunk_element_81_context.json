@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "d1d28941-4185-424b-9b18-3b731f5f8780",
+    "element_text": "{\"chunk\": \"Arbejde udf\\u00f8rt for egen regning og opf\\u00f8rt under aktiver\\nArbejde udf\\u00f8rt for egen regning og opf\\u00f8rt under aktiver\\nomfatter l\\u00f8nninger og gager, der er afholdt i \\u00e5ret og\\nindregnet i kostprisen for egenudviklede immaterielle\\nanl\\u00e6gsaktiver.\\nEksterne omkostninger\", \"context\": \"The chunk describes the accounting treatment of work performed for the company's own account and recognized under assets, as well as the accounting treatment of external expenses, as part of the summary of significant accounting policies section of the annual report.\"}",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 6.7609}, {\"x\": 3.8274, \"y\": 6.7609}, {\"x\": 3.8274, \"y\": 8.2734}, {\"x\": 0.6041, \"y\": 8.2734}]",
+        "document_part": 0
+    }
+}

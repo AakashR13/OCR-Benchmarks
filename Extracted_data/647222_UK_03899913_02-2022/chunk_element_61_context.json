@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "0c92a953-86a5-4aba-a9b8-3fecd1e29d69",
+    "element_text": "{\"chunk\": \"700,752\\n3,355,391\\nThe notes form part of these financial statements\\nPage 14\\nCROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\\nNOTES TO THE FINANCIAL STATEMENTS\\nFOR THE YEAR ENDED 28 FEBRUARY 2022\\n1.\\nSTATUTORY INFORMATION\\nCrown Jewels Consultants Ltd is a private company, limited by shares, incorporated in England and Wales. The company's\", \"context\": \"This chunk appears to be a part of the Notes to the Financial Statements section of the financial report for Crown Jewels Consultants Ltd for the year ended 28 February 2022. It provides information about the company's statutory information and the basis of preparation of the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 17,
+        "bounding_box": "[{\"x\": 0.5025, \"y\": 0.472}, {\"x\": 7.7664, \"y\": 0.472}, {\"x\": 7.7664, \"y\": 11.1666}, {\"x\": 0.5025, \"y\": 11.1666}]",
+        "document_part": 0
+    }
+}

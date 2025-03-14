@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "3346dfb2-204d-46dd-bdba-08bae5a59b93",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| AMOUNTS WRITTEN OFF INVESTMENTS | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Amounts written off investments |  | 140,346 |",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 0.9331, \"y\": 1.4069}, {\"x\": 7.6792, \"y\": 1.4017}, {\"x\": 7.6768, \"y\": 1.9313}, {\"x\": 0.9294, \"y\": 1.9372}]"
+    }
+}

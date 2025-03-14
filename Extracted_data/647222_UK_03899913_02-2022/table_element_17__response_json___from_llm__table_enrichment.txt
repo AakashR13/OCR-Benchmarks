@@ -1,0 +1,48 @@
+[
+  {
+    "table_description": "The table provides a breakdown of the tax charges on profit for the years 2022 and 2021. It includes current tax charges from different regions such as the UK, Hong Kong, USA, and Singapore, as well as the total current tax and deferred tax. The final row shows the total tax on profit for each year.",
+    "table_in_markdown_format": "| Description                  | 2022   | 2021    |\n|------------------------------|--------|---------|\n| UK corporation tax           | 6,045  | (20,161)|\n| Hong Kong corporation tax    | 5,807  | 28,861  |\n| USA corporation tax          | 302,865| (17,250)|\n| Singapore corporation tax    | 71,438 | 115,483 |\n| Total current tax            | 386,155| 106,933 |\n| Deferred tax                 | 23,544 | (13,886)|\n| Tax on profit                | 409,699| 93,047  |",
+    "q_and_a__pairs": [
+      {
+        "question": "What was the UK corporation tax in 2022?",
+        "answer": "6,045"
+      },
+      {
+        "question": "How much was the Hong Kong corporation tax in 2021?",
+        "answer": "28,861"
+      },
+      {
+        "question": "What was the USA corporation tax in 2022?",
+        "answer": "302,865"
+      },
+      {
+        "question": "How much was the Singapore corporation tax in 2021?",
+        "answer": "115,483"
+      },
+      {
+        "question": "What was the total current tax in 2022?",
+        "answer": "386,155"
+      },
+      {
+        "question": "How much was the deferred tax in 2021?",
+        "answer": "(13,886)"
+      },
+      {
+        "question": "What was the total tax on profit in 2022?",
+        "answer": "409,699"
+      },
+      {
+        "question": "What was the total tax on profit in 2021?",
+        "answer": "93,047"
+      },
+      {
+        "question": "How much was the USA corporation tax in 2021?",
+        "answer": "(17,250)"
+      },
+      {
+        "question": "What was the total current tax in 2021?",
+        "answer": "106,933"
+      }
+    ]
+  }
+]

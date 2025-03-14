@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "207b1149-86e8-425f-99f9-b085b27bce97",
+    "element_text": "{\"chunk\": \"FOR THE YEAR ENDED 28 FEBRUARY 2022\\n3.\\nACCOUNTING POLICIES - continued\\nTangible fixed assets\\nTangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses.\\nDepreciation is calculated to write down the cost less estimated residual value of all tangible fixed assets over their expected\\nuseful lives, using the straight-line method.\\nThe rates applicable are:\\n- Plant and machinery 4 years\\n- Fixtures and fittings 5 years\", \"context\": \"This chunk describes the company's accounting policy for tangible fixed assets, including the depreciation rates used for different asset categories.\"}",
+    "element_metadata": {
+        "page_number": 18,
+        "bounding_box": "[{\"x\": 0.4924, \"y\": 0.9593}, {\"x\": 7.7664, \"y\": 0.9593}, {\"x\": 7.7664, \"y\": 3.1419}, {\"x\": 0.4924, \"y\": 3.1419}]",
+        "document_part": 0
+    }
+}

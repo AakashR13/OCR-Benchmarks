@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "57cf500c-dbf4-4f78-a9e7-d202e5643859",
+    "element_text": "{\"chunk\": \"2,663,463\\nCAPITAL AND RESERVES\\nCalled up share capital\\n21\\n5,996\\n7,048\\nCapital redemption reserve\\n22\\n1,753\\n701\\nShare option reserve\\n22\\n61,141\\n32,922\\nRetained earnings\\n22\\n3,004,298\\n2,622,792\\nSHAREHOLDERS' FUNDS\\n3,073,188\\n2,663,463\\nThe financial statements were approved by the Board of Directors and authorised for issue on 22 November 2022 and were signed on\\nits behalf by:\", \"context\": \"This chunk covers the capital and reserves section of the statement of financial position, providing details on the company's called up share capital, capital redemption reserve, share option reserve, and retained earnings that make up the total shareholders' funds for the company.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 4.8879}, {\"x\": 7.7715, \"y\": 4.8879}, {\"x\": 7.7715, \"y\": 6.6289}, {\"x\": 0.4822, \"y\": 6.6289}]",
+        "document_part": 0
+    }
+}

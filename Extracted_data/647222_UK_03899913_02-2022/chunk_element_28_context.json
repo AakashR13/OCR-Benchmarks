@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "ee281f2e-2441-40c7-bf45-30ce323304fc",
+    "element_text": "{\"chunk\": \"Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this\\nreport.\\nOther information\\nThe other information comprises the information included in the annual report other than the financial statements and our auditor's\\nreport thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the\\nfinancial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not\", \"context\": \"This chunk comes from the \\\"Report of the Independent Auditors to the Members of Crown Jewels Consultants Ltd\\\" section of the document. It discusses the auditor's responsibilities and the directors' responsibilities with respect to the going concern status of the company, as well as the auditor's opinion on the other information included in the annual report.\"}",
+    "element_metadata": {
+        "page_number": 8,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 5.4818}, {\"x\": 7.7766, \"y\": 5.4818}, {\"x\": 7.7766, \"y\": 6.568}, {\"x\": 0.4822, \"y\": 6.568}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table presents a financial summary for the years 2021 and 2022, detailing fixed assets, current assets, creditors, net current assets, total assets less current liabilities, provisions for liabilities, net assets, and capital and reserves. It includes specific figures for property, plant and equipment, investments, debtors, prepayments, cash at bank, and various reserves.",
+        "table_in_markdown_format": "| Category | Notes | 2022 (\u00a3) | 2021 (\u00a3) |\n|---|---|---|---|\n| **FIXED ASSETS** | | | |\n| Property, plant and equipment | 12 | 183,424 | 87,259 |\n| Investments | 13 | | 150 |\n| **CURRENT ASSETS** | | | |\n| Debtors | 14 | 2,794,786 | 2,698,894 |\n| Prepayments and accrued income | | 247,210 | 270,327 |\n| Cash at bank | | 3,600,591 | 2,654,639 |\n| **CREDITORS** | | | |\n| Amounts falling due within one year | 15 | 3,511,369 | 3,047,806 |\n| **NET CURRENT ASSETS** | | 3,131,218 | 2,576,054 |\n| **TOTAL ASSETS LESS CURRENT LIABILITIES** | | 3,314,642 | 2,663,463 |\n| **CREDITORS** | | | |\n| Amounts falling due after more than one year | 16 | (224,643) | |\n| **PROVISIONS FOR LIABILITIES** | 20 | (16,811) | 1 |\n| **NET ASSETS** | | 3,073,188 | 2,663,463 |\n| **CAPITAL AND RESERVES** | | | |\n| Called up share capital | 21 | 5,996 | 7,048 |\n| Capital redemption reserve | 22 | 1,753 | 701 |\n| Share option reserve | 22 | 61,141 | 32,922 |\n| Retained earnings | 22 | 3,004,298 | 2,622,792 |\n| **SHAREHOLDERS' FUNDS** | | 3,073,188 | 2,663,463 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the value of property, plant, and equipment in 2022?",
+                "answer": "183,424"
+            },
+            {
+                "question": "How much were the debtors in 2021?",
+                "answer": "2,698,894"
+            },
+            {
+                "question": "What is the total of current assets in 2022?",
+                "answer": "6,642,587"
+            },
+            {
+                "question": "What were the net current assets in 2021?",
+                "answer": "2,576,054"
+            },
+            {
+                "question": "How much cash was at the bank in 2022?",
+                "answer": "3,600,591"
+            },
+            {
+                "question": "What was the amount of creditors falling due within one year in 2022?",
+                "answer": "3,511,369"
+            },
+            {
+                "question": "What were the total assets less current liabilities in 2022?",
+                "answer": "3,314,642"
+            },
+            {
+                "question": "What was the provision for liabilities in 2022?",
+                "answer": "(16,811)"
+            },
+            {
+                "question": "What was the value of retained earnings in 2022?",
+                "answer": "3,004,298"
+            },
+            {
+                "question": "What were the shareholders' funds in 2021?",
+                "answer": "2,663,463"
+            }
+        ],
+        "table_type": "Balance Sheet"
+    }
+]

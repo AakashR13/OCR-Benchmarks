@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "da2f4281-2e2c-4c4e-a290-3162141efd61",
+    "element_text": "{\"chunk\": \"material misstatement of Management's Review.\\nDaniel Castiblanco Jakobsen\\nstatsautoriseret revisor\\nState Authorized Public Accountant\\nmne45858\\ninforevision\\n8\\nANVENDT REGNSKABSPRAKSIS\\nSummary of significant accounting policies\\n\\u00c5rsrapporten er udarbejdet i overensstemmelse med\\ndansk regnskabslovgivning samt almindeligt anerkendt\\nregnskabspraksis.\", \"context\": \"This chunk describes the accounting policies used in preparing the annual report, which is in accordance with Danish accounting legislation and generally accepted accounting principles.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.599, \"y\": 0.5177}, {\"x\": 7.6497, \"y\": 0.5177}, {\"x\": 7.6497, \"y\": 11.2478}, {\"x\": 0.599, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

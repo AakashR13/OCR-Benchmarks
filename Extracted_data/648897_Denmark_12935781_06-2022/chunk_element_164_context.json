@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "98bb3484-dacd-49b0-992f-5a912969619e",
+    "element_text": "{\"chunk\": \"8.000.000\\n8.049.379\\nTransferred from distribution of profit/loss\\nEGENKAPITAL PR. 30/6 2022\\n500.000\\n6.982.378\\n650.771\\n8.000.000\\n16.133.149\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\nEquity at 30/6 2022\\ninforevision\\n22\\nNOTER\", \"context\": \"This chunk is part of the \\\"Statement of changes in equity\\\" section, which shows the changes in the company's equity accounts during the financial year, including the proposed dividends, transferred reserves, and the final equity balance at the end of the financial year.\"}",
+    "element_metadata": {
+        "page_number": 24,
+        "bounding_box": "[{\"x\": 0.6142, \"y\": 0.5279}, {\"x\": 11.5879, \"y\": 0.5279}, {\"x\": 11.5879, \"y\": 7.9492}, {\"x\": 0.6142, \"y\": 7.9492}]",
+        "document_part": 0
+    }
+}

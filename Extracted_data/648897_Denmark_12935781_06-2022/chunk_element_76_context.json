@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "2f461715-c7b5-47b7-870a-d68a31e92041",
+    "element_text": "{\"chunk\": \"hedge of future cash flows, the value adjustments are\\nrecognised directly in equity.\\nTilgodehavender og g\\u00e6ld i fremmed valuta er indregnet til\\nbalancedagens kurs.\\nReceivables and debt denominated in foreign currencies\\nhave been recognised at the exchange rate of the\\nbalance sheet date.\\nRealiserede og urealiserede valutakursfortjenester og -tab\\ner indregnet i resultatopg\\u00f8relsen under andre finansielle\", \"context\": \"This chunk describes the company's accounting policies for the translation of foreign currency transactions and balances, including the recognition of realised and unrealised foreign exchange gains and losses.\"}",
+    "element_metadata": {
+        "page_number": 11,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 7.4765}, {\"x\": 7.4365, \"y\": 7.4765}, {\"x\": 7.4365, \"y\": 9.0906}, {\"x\": 0.6091, \"y\": 9.0906}]",
+        "document_part": 0
+    }
+}

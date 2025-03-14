@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "9038b422-4283-4276-bd50-f19630b01e54",
+    "element_text": "{\"chunk\": \"The company has during the year followed its strategic\\nfocus on developing its life-saving software solutions,\\nthat protects people against Chemical, biological,\\nradiological and nuclear (CBRN) threats.\\nSelskabet har i l\\u00f8bet af regnskabs\\u00e5ret opn\\u00e5et fortsat\\nv\\u00e6kst i sin portef\\u00f8lje af kunder, der abonnerer l\\u00f8bende p\\u00e5\\nselskabets softwarel\\u00f8sninger.\\nDuring the financial year, the company has achieved\", \"context\": \"This chunk provides an overview of the company's activities and performance during the financial year, highlighting its focus on developing life-saving software solutions and its continued growth in customer subscriptions.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 2.7916}, {\"x\": 7.3705, \"y\": 2.7916}, {\"x\": 7.3705, \"y\": 4.3093}, {\"x\": 0.6041, \"y\": 4.3093}]",
+        "document_part": 0
+    }
+}

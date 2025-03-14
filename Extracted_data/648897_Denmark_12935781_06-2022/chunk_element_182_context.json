@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "339821d1-e493-48eb-85af-f9f518c25795",
+    "element_text": "{\"chunk\": \"Anl\\u00e6gsoversigt,\\nfinansielle anl\\u00e6gsaktiver\\nList of fixed assets, amortisation and depreciation,\\nfixed asset investments\\nKapitalandele\\ni tilknyttede\\nvirksomheder\\nInvestments\\nin group\\nenterprises\\nAndre\\ntilgodehavender\\nOther\\nreceivables\\nI alt\\nTotal\\n30/6 2021\\nKostpris pr. 1/7 2021\\nCost 1/7 2021\\n6.200.000\", \"context\": \"This chunk is part of the notes section of the financial statements, specifically the section on fixed asset investments, which includes investments in group enterprises and other receivables.\"}",
+    "element_metadata": {
+        "page_number": 28,
+        "bounding_box": "[{\"x\": 0.9999, \"y\": 1.0914}, {\"x\": 9.05, \"y\": 1.0914}, {\"x\": 9.05, \"y\": 3.1421}, {\"x\": 0.9999, \"y\": 3.1421}]",
+        "document_part": 0
+    }
+}

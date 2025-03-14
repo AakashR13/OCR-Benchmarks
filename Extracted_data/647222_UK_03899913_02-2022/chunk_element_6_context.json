@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "14e5ad97-663b-4a15-a261-4cc084332910",
+    "element_text": "{\"chunk\": \"open the magic box that is market data by giving a clear and concise message of what it is in all its parts. This will all form part of\\n\\\"The Crown Jewels Academy/Apprenticeship Scheme\\\"\\nREVIEW OF BUSINESS\\nCompany turnover increased by 1.0% and the gross profit percentage increased by 7.3% from 38.5% to 45.8%, principally due to\\nreduced costs.\", \"context\": \"The chunk is situated within the Strategic Report section of the document, which provides an overview of the company's performance and future developments.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 3.1469}, {\"x\": 7.7766, \"y\": 3.1469}, {\"x\": 7.7766, \"y\": 4.0656}, {\"x\": 0.4822, \"y\": 4.0656}]",
+        "document_part": 0
+    }
+}

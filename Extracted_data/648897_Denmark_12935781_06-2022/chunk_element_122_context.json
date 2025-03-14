@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a08ca379-df5e-4ab1-b469-817b59376878",
+    "element_text": "{\"chunk\": \"Investments in group enterprises have been recognised\\naccording to the equity method, so that the investment is\\nmeasured at the pro rata share of the group enterprises'\\nnet asset value adjusted for internal dividends and gains.\\nForeign group enterprises' profit or loss and equity have\\nbeen translated into DKK. Exchange adjustments arising\\non translation of the foreign group enterprises' equity at\\nthe beginning of the financial year as well as profit/loss\\nfor the financial year are taken to equity.\", \"context\": \"The chunk describes the accounting policy for investments in group enterprises, which is reported in the Notes section of the annual report.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 4.2639, \"y\": 1.4567}, {\"x\": 7.5025, \"y\": 1.4567}, {\"x\": 7.5025, \"y\": 3.4769}, {\"x\": 4.2639, \"y\": 3.4769}]",
+        "document_part": 0
+    }
+}

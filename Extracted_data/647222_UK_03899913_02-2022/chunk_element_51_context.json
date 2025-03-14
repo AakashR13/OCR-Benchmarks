@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "387a279c-c685-49f9-992d-ec3b92e5dc6b",
+    "element_text": "{\"chunk\": \"Mr P R Gow - Director\\nThe notes form part of these financial statements\\nPage 11\\nCROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\\nSTATEMENT OF CHANGES IN EQUITY\\nFOR THE YEAR ENDED 28 FEBRUARY 2022\\nCalled up\\nshare\\ncapital\\nRetained\\nearnings\\nCapital\\nredemption\\nreserve\\nShare\\noption\\nreserve\\nTotal\\nequity\\n\\u00a3\\n\\u00a3\\n\\u00a3\\n\\u00a3\\nBalance at 1 March 2020\\n7,048\\n2,255,866\\n701\", \"context\": \"This chunk is part of the financial statements for Crown Jewels Consultants Ltd, specifically the Statement of Changes in Equity for the year ended 28 February 2022. It shows the changes in the company's equity, including the called up share capital, retained earnings, capital redemption reserve, and share option reserve, from the previous year.\"}",
+    "element_metadata": {
+        "page_number": 14,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 0.472}, {\"x\": 7.5279, \"y\": 0.472}, {\"x\": 7.5279, \"y\": 11.1716}, {\"x\": 0.4772, \"y\": 11.1716}]",
+        "document_part": 0
+    }
+}

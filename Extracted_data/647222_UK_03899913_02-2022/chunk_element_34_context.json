@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "6b01590e-1fe8-4f1e-ba1f-2a688b5e6034",
+    "element_text": "{\"chunk\": \"In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a going concern,\\ndisclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either\\nintend to liquidate the company or to cease operations, or have no realistic alternative but to do so.\\nPage 7\\nREPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF\\nCROWN JEWELS CONSULTANTS LTD\", \"context\": \"This chunk is part of the \\\"Responsibilities of directors\\\" section in the Report of the Independent Auditors, which discusses the directors' responsibilities in preparing the financial statements, including assessing the company's ability to continue as a going concern.\"}",
+    "element_metadata": {
+        "page_number": 10,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 0.4771}, {\"x\": 7.7715, \"y\": 0.4771}, {\"x\": 7.7715, \"y\": 11.1716}, {\"x\": 0.4822, \"y\": 11.1716}]",
+        "document_part": 0
+    }
+}

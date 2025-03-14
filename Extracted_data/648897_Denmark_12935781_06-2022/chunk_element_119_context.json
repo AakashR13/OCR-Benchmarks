@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "c32f3d4b-b924-467d-ad13-53faf2a33a56",
+    "element_text": "{\"chunk\": \"andel af den negative indre v\\u00e6rdi i det omfang, det\\nvurderes uerholdeligt. S\\u00e5fremt den regnskabsm\\u00e6ssige\\nnegative indre v\\u00e6rdi overstiger tilgodehavendet,\\nindregnes det resterende bel\\u00f8b under hensatte\\nforpligtelser i det omfang, modervirksomheden har en\", \"context\": \"This chunk relates to the accounting treatment of investments in subsidiaries with negative net asset value, where the parent company is liable for the subsidiary's obligations.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 5.4564}, {\"x\": 3.6852, \"y\": 5.4564}, {\"x\": 3.6852, \"y\": 6.3294}, {\"x\": 0.6091, \"y\": 6.3294}]",
+        "document_part": 0
+    }
+}

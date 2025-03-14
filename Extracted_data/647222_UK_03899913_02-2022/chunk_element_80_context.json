@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "872624c9-3010-4435-8fb6-e5836fe309e1",
+    "element_text": "{\"chunk\": \"CROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\\nNOTES TO THE FINANCIAL STATEMENTS - continued\\nFOR THE YEAR ENDED 28 FEBRUARY 2022\\n3.\\nACCOUNTING POLICIES - continued\\nCreditors\\nShort term trade creditors are measured at the transaction price. Other financial liabilities, including loans, are measured\\ninitially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest\\nmethod.\", \"context\": \"This chunk provides details on the company's accounting policy for measuring short-term trade creditors and other financial liabilities, including the use of amortized cost and effective interest methods.\"}",
+    "element_metadata": {
+        "page_number": 20,
+        "bounding_box": "[{\"x\": 0.4924, \"y\": 0.472}, {\"x\": 7.7766, \"y\": 0.472}, {\"x\": 7.7766, \"y\": 2.1876}, {\"x\": 0.4924, \"y\": 2.1876}]",
+        "document_part": 0
+    }
+}

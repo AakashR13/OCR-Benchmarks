@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "f31b9c01-1e05-4a2b-baf2-6f0a30b580ee",
+    "element_text": "{\"chunk\": \"Amounts falling due between two and five years:\\nBank loans - 2-5 years\\n154,656\\nAmounts falling due in more than five years:\\nRepayable by instalments\\nBank loans - more than 5 years\\n23,370\\n-\\nLEASING AGREEMENTS\\nMinimum lease payments under non-cancellable operating leases fall due as follows:\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nWithin one year\\n212,520\\n231,782\\nBetween one and five years\\n595,968\\n619,124\\n808,488\", \"context\": \"The chunk provides details on the company's bank loans and operating lease commitments, including the repayment schedules and future minimum lease payments.\"}",
+    "element_metadata": {
+        "page_number": 26,
+        "bounding_box": "[{\"x\": 0.9137, \"y\": 4.1164}, {\"x\": 7.6141, \"y\": 4.1164}, {\"x\": 7.6141, \"y\": 6.6137}, {\"x\": 0.9137, \"y\": 6.6137}]",
+        "document_part": 0
+    }
+}

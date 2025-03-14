@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a breakdown of creditors' amounts falling due within one year for the years 2022 and 2021. It includes various categories such as bank loans, trade creditors, taxes, social security, pensions, VAT, other creditors, deferred income, and accrued expenses. The table shows the amounts in British pounds (\u00a3) for each category for both years.",
+        "table_in_markdown_format": "| Description                        | 2022 (\u00a3) | 2021 (\u00a3) |\n|------------------------------------|----------|----------|\n| Bank loans and overdrafts (see note 17) | 20,557   |          |\n| Trade creditors                    | 259,446  | 343,512  |\n| Tax                                | 383,814  | 221,324  |\n| Social security and other taxes    | 212,096  | 180,218  |\n| Pension - UK                       |          | 11,820   |\n| Pension - HK                       | 4,408    | 4,891    |\n| VAT                                | 572,406  | 486,891  |\n| Other creditors                    |          | 19,838   |\n| Deferred income                    | 1,705,646| 1,432,438|\n| Accrued expenses                   | 352,996  | 346,874  |\n| **Total**                          | 3,511,369| 3,047,806|",
+        "q_and_a__pairs": [
+            {
+                "question": "What is the total amount of creditors falling due within one year for 2022?",
+                "answer": "The total amount is \u00a33,511,369."
+            },
+            {
+                "question": "How much was the deferred income in 2021?",
+                "answer": "The deferred income in 2021 was \u00a31,432,438."
+            },
+            {
+                "question": "What was the amount for trade creditors in 2022?",
+                "answer": "The amount for trade creditors in 2022 was \u00a3259,446."
+            },
+            {
+                "question": "How much was the VAT in 2021?",
+                "answer": "The VAT in 2021 was \u00a3486,891."
+            },
+            {
+                "question": "What is the amount for social security and other taxes in 2022?",
+                "answer": "The amount for social security and other taxes in 2022 is \u00a3212,096."
+            },
+            {
+                "question": "Was there any amount for bank loans and overdrafts in 2021?",
+                "answer": "No, there is no amount listed for bank loans and overdrafts in 2021."
+            },
+            {
+                "question": "What was the amount for pension in the UK in 2021?",
+                "answer": "The amount for pension in the UK in 2021 was \u00a311,820."
+            },
+            {
+                "question": "How much was accrued expenses in 2022?",
+                "answer": "Accrued expenses in 2022 were \u00a3352,996."
+            },
+            {
+                "question": "What was the amount for other creditors in 2021?",
+                "answer": "The amount for other creditors in 2021 was \u00a319,838."
+            },
+            {
+                "question": "What is the difference in the total amount of creditors between 2022 and 2021?",
+                "answer": "The difference is \u00a3463,563, with 2022 having a higher total."
+            }
+        ],
+        "table_type": "Balance Sheet"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a financial overview of receivables, cash, current assets, and total assets for the dates 30/6 2022 and 30/6 2021. It includes specific categories such as trade receivables, other receivables, corporate tax receivables, and prepayments, along with their respective values for the two dates.",
+        "table_in_markdown_format": "| Description | 30/6 2022 | 30/6 2021 |\n|---|---|---|\n| Trade receivables | 7,468,871 | 489,929 |\n| Other receivables | 752,251 | 1,583,392 |\n| Corporate tax receivables | 0 | 41,000 |\n| Prepayments | 618,433 | 272,472 |\n| Receivables | 8,839,555 | 2,386,793 |\n| Cash | 10,719,938 | 14,997,805 |\n| Current assets | 19,559,493 | 17,384,598 |\n| Total assets | 31,921,315 | 31,450,908 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the value of trade receivables on 30/6 2022?",
+                "answer": "7,468,871"
+            },
+            {
+                "question": "How much were the other receivables on 30/6 2021?",
+                "answer": "1,583,392"
+            },
+            {
+                "question": "What was the amount of corporate tax receivables on 30/6 2022?",
+                "answer": "0"
+            },
+            {
+                "question": "What were the prepayments on 30/6 2021?",
+                "answer": "272,472"
+            },
+            {
+                "question": "What is the total value of receivables on 30/6 2022?",
+                "answer": "8,839,555"
+            },
+            {
+                "question": "How much cash was available on 30/6 2021?",
+                "answer": "14,997,805"
+            },
+            {
+                "question": "What were the current assets on 30/6 2022?",
+                "answer": "19,559,493"
+            },
+            {
+                "question": "What is the total assets value on 30/6 2021?",
+                "answer": "31,450,908"
+            },
+            {
+                "question": "How did the trade receivables change from 30/6 2021 to 30/6 2022?",
+                "answer": "Increased from 489,929 to 7,468,871"
+            },
+            {
+                "question": "What was the change in cash from 30/6 2021 to 30/6 2022?",
+                "answer": "Decreased from 14,997,805 to 10,719,938"
+            }
+        ],
+        "table_type": "Balance Sheet"
+    }
+]

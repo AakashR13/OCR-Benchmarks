@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a summary of changes in equity for a company over two fiscal years, ending on 28 February 2021 and 28 February 2022. It includes details on called up share capital, retained earnings, capital redemption reserve, share option reserve, and total equity. The table outlines the balance at the start and end of each fiscal year, as well as changes due to dividends, total comprehensive income, share-based payment charges, and purchase of own shares.",
+        "table_in_markdown_format": "| Description                  | Called up share capital (\u00a3) | Retained earnings (\u00a3) | Capital redemption reserve (\u00a3) | Share option reserve (\u00a3) | Total equity (\u00a3) |\n|------------------------------|-----------------------------|------------------------|-------------------------------|--------------------------|------------------|\n| Balance at 1 March 2020      | 7,048                       | 2,255,866              | 701                           | 4,703                    | 2,268,318        |\n| Changes in equity            |                             |                        |                               |                          |                  |\n| Dividends                    |                             | (398,816)              | -                             |                          | (398,816)        |\n| Total comprehensive income   |                             | 765,742                | 1                             |                          | 765,742          |\n| Share based payment charge   |                             |                        |                               | 28,219                   | 28,219           |\n| Balance at 28 February 2021  | 7,048                       | 2,622,792              | 701                           | 32,922                   | 2,663,463        |\n| Changes in equity            |                             |                        |                               |                          |                  |\n| Purchase of own shares       | (1,052)                     | (917,248)              | 1,052                         | I                        | (917,248)        |\n| Dividends                    | 1                           | (250,862)              |                               |                          | (250,862)        |\n| Total comprehensive income   | 1                           | 1,549,616              | 1                             |                          | 1,549,616        |\n| Share based payment charge   |                             |                        |                               | 28,219                   | 28,219           |\n| Balance at 28 February 2022  | 5,996                       | 3,004,298              | 1,753                         | 61,141                   | 3,073,188        |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the total equity at the beginning of the fiscal year on 1 March 2020?",
+                "answer": "The total equity was \u00a32,268,318."
+            },
+            {
+                "question": "How much were the retained earnings at the end of the fiscal year on 28 February 2021?",
+                "answer": "The retained earnings were \u00a32,622,792."
+            },
+            {
+                "question": "What was the impact of dividends on total equity in the fiscal year ending 28 February 2021?",
+                "answer": "Dividends reduced the total equity by \u00a3398,816."
+            },
+            {
+                "question": "What was the total comprehensive income for the fiscal year ending 28 February 2022?",
+                "answer": "The total comprehensive income was \u00a31,549,616."
+            },
+            {
+                "question": "How much did the share-based payment charge contribute to the share option reserve in each fiscal year?",
+                "answer": "The share-based payment charge contributed \u00a328,219 to the share option reserve in each fiscal year."
+            },
+            {
+                "question": "What was the balance of called up share capital at the end of the fiscal year on 28 February 2022?",
+                "answer": "The balance of called up share capital was \u00a35,996."
+            },
+            {
+                "question": "How did the purchase of own shares affect the capital redemption reserve in the fiscal year ending 28 February 2022?",
+                "answer": "The purchase of own shares increased the capital redemption reserve by \u00a31,052."
+            },
+            {
+                "question": "What was the total equity at the end of the fiscal year on 28 February 2022?",
+                "answer": "The total equity was \u00a33,073,188."
+            },
+            {
+                "question": "What was the change in retained earnings from 1 March 2020 to 28 February 2022?",
+                "answer": "The retained earnings increased from \u00a32,255,866 to \u00a33,004,298."
+            },
+            {
+                "question": "What was the total impact of dividends on retained earnings over the two fiscal years?",
+                "answer": "The total impact of dividends on retained earnings was a reduction of \u00a3649,678 (\u00a3398,816 + \u00a3250,862)."
+            }
+        ],
+        "table_type": "Others"
+    }
+]

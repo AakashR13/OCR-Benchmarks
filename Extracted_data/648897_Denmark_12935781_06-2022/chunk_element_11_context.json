@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "e1ffeede-0e47-4c05-a9d7-04a8198e973f",
+    "element_text": "{\"chunk\": \"Udviklingen i selskabets aktiviteter og \\u00f8konomiske\\nforhold\\nDevelopment in the Company's activities and finances\\nSelskabet har i l\\u00f8bet af regnskabs\\u00e5ret fulgt sin strategi om\\nfokus p\\u00e5 udvikling af sine softwarel\\u00f8sninger, der beskytter\\nmennesker mod kemiske, biologiske, radiologiske og\\nnukleare (CBRN) trusler.\", \"context\": \"The chunk describes the company's focus on developing software solutions to protect people against CBRN threats, as part of its overall strategy and activities during the financial year.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 2.4008}, {\"x\": 7.3908, \"y\": 2.4008}, {\"x\": 7.3908, \"y\": 3.487}, {\"x\": 0.6041, \"y\": 3.487}]",
+        "document_part": 0
+    }
+}

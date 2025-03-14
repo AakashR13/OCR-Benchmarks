@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "48dc0563-5837-4fb2-a912-9c85a8ce73ea",
+    "element_text": "{\"chunk\": \"8,674\\nPROFIT BEFORE TAXATION\\n1,959,315\\n858,789\\nTax on profit\\n10\\n409,699\\n93,047\\nPROFIT FOR THE FINANCIAL YEAR\\n1,549,616\\n765,742\\nOTHER COMPREHENSIVE INCOME\\nTOTAL COMPREHENSIVE INCOME\\nFOR THE YEAR\\n1,549,616\\n765,742\\nThe notes form part of these financial statements\\nPage 10\\nCROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\", \"context\": \"This chunk contains the company's statement of comprehensive income, including profit before taxation, tax on profit, and total comprehensive income for the year.\"}",
+    "element_metadata": {
+        "page_number": 13,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 0.472}, {\"x\": 7.6141, \"y\": 0.472}, {\"x\": 7.6141, \"y\": 11.1716}, {\"x\": 0.4822, \"y\": 11.1716}]",
+        "document_part": 0
+    }
+}

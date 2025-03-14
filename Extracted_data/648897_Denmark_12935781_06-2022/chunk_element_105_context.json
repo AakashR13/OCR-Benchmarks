@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "8cfe1503-a47c-44c6-bd15-cf38f4cea88e",
+    "element_text": "{\"chunk\": \"residual value after the end of useful life.\\nKostprisen omfatter anskaffelsesprisen samt\\nomkostninger direkte tilknyttet anskaffelsen indtil det\\ntidspunkt hvor aktivet er klar til at blive taget i brug.\\nCost comprises the acquisition price as well as costs\\ndirectly related to the acquisition until the time when the\\nasset is ready to be put into operation.\", \"context\": \"The chunk describes the measurement of property, plant and equipment in the accounting policies section of the annual report.\"}",
+    "element_metadata": {
+        "page_number": 14,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 9.451}, {\"x\": 7.4872, \"y\": 9.451}, {\"x\": 7.4872, \"y\": 10.4915}, {\"x\": 0.6041, \"y\": 10.4915}]",
+        "document_part": 0
+    }
+}

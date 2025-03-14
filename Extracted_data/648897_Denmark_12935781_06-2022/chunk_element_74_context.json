@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "c22f19cb-10e8-4098-82a1-ddce0eb3bbd4",
+    "element_text": "{\"chunk\": \"risks that appear before presentation of the annual\\nreport and which confirm or invalidate affairs or\\nconditions existing at the balance sheet date are\\nconsidered.\\nSom m\\u00e5levaluta benyttes danske kroner. Alle andre\\nvalutaer anses som fremmed valuta.\\nThe functional currency is Danish kroner, DKK. All other\\ncurrencies are considered foreign currencies.\\nVALUTAOMREGNING\\nFOREIGN CURRENCY TRANSLATION\", \"context\": \"The chunk discusses the company's use of Danish kroner as the functional currency and how foreign currencies are treated, as part of the summary of significant accounting policies.\"}",
+    "element_metadata": {
+        "page_number": 11,
+        "bounding_box": "[{\"x\": 0.599, \"y\": 4.9285}, {\"x\": 7.3908, \"y\": 4.9285}, {\"x\": 7.3908, \"y\": 6.7101}, {\"x\": 0.599, \"y\": 6.7101}]",
+        "document_part": 0
+    }
+}

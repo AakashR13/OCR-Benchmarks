@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table provides a financial overview of various asset categories for the years ending on June 30, 2022, and June 30, 2021. It includes intangible assets, property, plant and equipment, and fixed asset investments. Each category is broken down into specific items such as completed development projects, leasehold improvements, and investments in group enterprises, with their respective values for the two years.",
+        "table_in_markdown_format": "| Note | Description | 30/6 2022 | 30/6 2021 |\n|---|---|---|---|\n| 5 | Completed development projects | 8,951,767 | 8,619,354 |\n|   | Intangible assets | 8,951,767 | 8,619,354 |\n| 6 | Leasehold improvements | 91,668 | 164,796 |\n| 6 | Other fixtures and fittings, tools and equipment | 90,660 | 143,084 |\n|   | Property, plant and equipment | 182,328 | 307,880 |\n| 7 | Investments in group enterprises | 3,103,807 | 5,015,156 |\n| 7 | Other receivables | 123,920 | 123,920 |\n|   | Fixed asset investments | 3,227,727 | 5,139,076 |\n|   | Fixed assets | 12,361,822 | 14,066,310 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the value of completed development projects on 30/6 2022?",
+                "answer": "8,951,767"
+            },
+            {
+                "question": "How much did leasehold improvements decrease from 2021 to 2022?",
+                "answer": "73,128"
+            },
+            {
+                "question": "What is the total value of intangible assets for 30/6 2021?",
+                "answer": "8,619,354"
+            },
+            {
+                "question": "What was the value of other fixtures and fittings, tools and equipment on 30/6 2022?",
+                "answer": "90,660"
+            },
+            {
+                "question": "What was the total value of property, plant and equipment on 30/6 2021?",
+                "answer": "307,880"
+            },
+            {
+                "question": "How much did investments in group enterprises decrease from 2021 to 2022?",
+                "answer": "1,911,349"
+            },
+            {
+                "question": "What was the value of other receivables on 30/6 2022?",
+                "answer": "123,920"
+            },
+            {
+                "question": "What is the total value of fixed asset investments for 30/6 2021?",
+                "answer": "5,139,076"
+            },
+            {
+                "question": "What was the total value of fixed assets on 30/6 2022?",
+                "answer": "12,361,822"
+            },
+            {
+                "question": "What was the change in total fixed assets from 2021 to 2022?",
+                "answer": "Decrease of 1,704,488"
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "af5fefd1-4df0-4f22-8771-4fe5a877fe44",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 |\n|---|---|---|---|\n| 2 | Personaleomkostninger | 2021/22 | 2020/21 |\n|  | Staff costs |  |  |\n|  | Gager og l\u00f8nninger Wages and salaries | 9.722.754 | 9.642.887 |\n|  | Pensioner Pensions | 1.442.637 | 1.320.514 |\n|  | Andre omkostninger til social sikring Other social security costs | 126.308 | 103.266 |\n|  |  |  |  |\n|  | I ALT TOTAL | 11.291.699 | 11.066.667 |",
+    "element_metadata": {
+        "page_number": 24,
+        "bounding_box": "[{\"x\": 0.596, \"y\": 3.4903}, {\"x\": 7.6546, \"y\": 3.5294}, {\"x\": 7.6523, \"y\": 5.5174}, {\"x\": 0.592, \"y\": 5.4801}]"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "c1da852b-d9b3-4c75-8235-a0b93f2d8a79",
+    "element_text": "{\"chunk\": \"Mr P R Gow\\nMr K J Covington\\nOther changes in directors holding office are as follows:\\nMr P R P Tomblin - resigned 28 April 2021\\nMr T L Kozlowski - resigned 26 January 2022\\nDISCLOSURE IN THE STRATEGIC REPORT\\nAs permitted by s414c(11) of the Companies Act 2006, the directors have elected to disclose information, required to be in the\", \"context\": \"This chunk discusses the directors of the company, including changes in directors holding office, and the disclosure of information in the strategic report, as permitted by the Companies Act 2006.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 4.5478}, {\"x\": 7.7766, \"y\": 4.5478}, {\"x\": 7.7766, \"y\": 6.1112}, {\"x\": 0.4822, \"y\": 6.1112}]",
+        "document_part": 0
+    }
+}

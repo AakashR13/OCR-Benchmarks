@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "4a49bb4f-0015-4c2c-894d-32177552cad3",
+    "element_text": "{\"chunk\": \"useful life of the individual components is significantly\\ndifferent.\\nDepreciation is initiated when the assets are ready to be\\ntaken into operation. Assets are depreciated on a\\nstraight-line basis over their estimated useful lives with\\nfollowing residual values:\\nUseful\\nlives Residual value\\nLeasehold\\nimprovements\\n0-20%\\n5 y.\\nOther fixtures,\\netc.\\n5 y.\\n0-10%\\nMinor purchases with useful lives below one year have\\nbeen recognised as an expense in the income statement\\nin external expenses.\", \"context\": \"This chunk describes the company's policy for depreciating its property, plant, and equipment assets, including the useful lives and residual values used in the straight-line depreciation method.\"}",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 4.269, \"y\": 1.6344}, {\"x\": 7.5685, \"y\": 1.6344}, {\"x\": 7.5685, \"y\": 5.2483}, {\"x\": 4.269, \"y\": 5.2483}]",
+        "document_part": 0
+    }
+}

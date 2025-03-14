@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "22c7183c-5a6f-44c5-9172-aa670f3e155c",
+    "element_text": "{\"chunk\": \"CROWN JEWELS CONSULTANTS LTD (REGISTERED NUMBER: 03899913)\\nSTATEMENT OF COMPREHENSIVE\\nINCOME\\nFOR THE YEAR ENDED 28 FEBRUARY 2022\\nNotes\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\n\\u00a3\\n\\u00a3\\nREVENUE\\n4\\n14,269,245\\n14,133,195\\nCost of sales\\n7,739,014\\n8,692,776\\nGROSS PROFIT\\n6,530,231\\n5,440,419\\nAdministrative expenses\", \"context\": \"This chunk contains the Statement of Comprehensive Income for Crown Jewels Consultants Ltd for the year ended 28 February 2022, which details the company's revenue, cost of sales, and gross profit for the year.\"}",
+    "element_metadata": {
+        "page_number": 12,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 0.472}, {\"x\": 7.6192, \"y\": 0.472}, {\"x\": 7.6192, \"y\": 2.8322}, {\"x\": 0.4822, \"y\": 2.8322}]",
+        "document_part": 0
+    }
+}

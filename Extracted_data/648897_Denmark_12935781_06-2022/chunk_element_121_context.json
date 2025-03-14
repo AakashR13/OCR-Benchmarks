@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "b7fc2284-00be-45a4-8249-5eef89cd7801",
+    "element_text": "{\"chunk\": \"kostpris, hvilket s\\u00e6dvanligvis svarer til nominel v\\u00e6rdi. I\\ntilf\\u00e6lde hvor den regnskabsm\\u00e6ssige v\\u00e6rdi overstiger\\ngenindvindingsv\\u00e6rdien, nedskrives til denne lavere v\\u00e6rdi.\\n\\u00c5rets nedskrivning indregnes i resultatopg\\u00f8relsen under\\nnedskrivning af finansielle aktiver.\\nFixed asset investments\", \"context\": \"This chunk describes the accounting treatment of other receivables recognized under fixed assets in the company's balance sheet.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 1.2689}, {\"x\": 5.67, \"y\": 1.2689}, {\"x\": 5.67, \"y\": 8.5424}, {\"x\": 0.6041, \"y\": 8.5424}]",
+        "document_part": 0
+    }
+}

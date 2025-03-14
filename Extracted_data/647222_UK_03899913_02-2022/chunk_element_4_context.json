@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "939312a3-4fdf-4aa7-b545-fb6f447b3514",
+    "element_text": "{\"chunk\": \"FOR THE YEAR ENDED 28 FEBRUARY 2022\\nThe directors present their strategic report for the year ended 28 February 2022.\\nWith working life nearly back to normal, Crown Jewels Consultants Ltd continues to thrive and grow its business, especially within\\nthe major cloud providers. Our long term relationship with London Stock Exchange Group enters its final year of the latest three year\\nterm, with both parties keen to get around the table and lay down the principles and mechanisms to continue the partnership for\", \"context\": \"This chunk is part of the Strategic Report section of the financial statements for Crown Jewels Consultants Ltd for the year ended 28 February 2022. It provides an overview of the company's performance and key developments during the year.\"}",
+    "element_metadata": {
+        "page_number": 4,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 0.9542}, {\"x\": 7.7715, \"y\": 0.9542}, {\"x\": 7.7715, \"y\": 2.0455}, {\"x\": 0.4772, \"y\": 2.0455}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a2d4fb74-f0c8-4ae6-8ea3-2c6fd8436c48",
+    "element_text": "{\"chunk\": \"Ledelsens ansvar for \\u00e5rsregnskabet\\nManagement's responsibility for the Financial\\nStatements\\nLedelsen har ansvaret for udarbejdelsen af et \\u00e5rsregnskab,\\nder giver et retvisende billede i overensstemmelse med\\n\\u00e5rsregnskabsloven. Ledelsen har endvidere ansvaret for\\nden interne kontrol, som ledelsen anser for n\\u00f8dvendig for\", \"context\": \"This chunk is part of the Independent auditor's audit report section of the annual report. It outlines the management's responsibility for preparing the financial statements in accordance with the Danish Financial Statements Act and maintaining the necessary internal controls.\"}",
+    "element_metadata": {
+        "page_number": 7,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 1.2842}, {\"x\": 6.939, \"y\": 1.2842}, {\"x\": 6.939, \"y\": 2.345}, {\"x\": 0.6091, \"y\": 2.345}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "23e26c5f-8286-48a2-bd47-c531f4843427",
+    "element_text": "{\"chunk\": \"Management is responsible for Management's Review.\\nOur opinion on the Financial Statements does\\nnot cover Management's Review, and we do not express\\nany form of assurance conclusion thereon.\\nIn connection with our audit of the Financial\\nStatements, our responsibility is to read Management's\\nReview and, in doing so, consider whether\\nManagement's Review is materially inconsistent with the\\nFinancial Statements or our knowledge obtained during\\nthe audit, or otherwise appears to be materially\\nmisstated.\", \"context\": \"This chunk is from the \\\"Statement on the Management's review\\\" section of the independent auditor's report for the financial statements of Bruhn Newtech A/S.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 4.2792, \"y\": 3.0911}, {\"x\": 7.4974, \"y\": 3.0911}, {\"x\": 7.4974, \"y\": 5.5934}, {\"x\": 4.2792, \"y\": 5.5934}]",
+        "document_part": 0
+    }
+}

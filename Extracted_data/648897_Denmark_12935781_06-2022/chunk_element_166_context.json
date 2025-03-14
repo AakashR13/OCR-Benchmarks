@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "2864e447-d50d-4f03-b25b-7d0b9321abfb",
+    "element_text": "{\"chunk\": \"Special items is recognised in the income statement under other operating income\\n2\\nPersonaleomkostninger\\n2021/22\\n2020/21\\nStaff costs\\nGager og l\\u00f8nninger\\nWages and salaries\\n9.722.754\\n9.642.887\\nPensioner\\nPensions\\n1.442.637\\n1.320.514\\nAndre omkostninger til social sikring\\nOther social security costs\\n126.308\\n103.266\\nI ALT\\nTOTAL\\n11.291.699\\n11.066.667\", \"context\": \"The chunk provided discusses the company's staff costs, including wages, salaries, pensions, and other social security costs. This information is part of the notes to the financial statements, providing detailed breakdowns of the company's expenses.\"}",
+    "element_metadata": {
+        "page_number": 24,
+        "bounding_box": "[{\"x\": 0.6244, \"y\": 3.081}, {\"x\": 7.5583, \"y\": 3.081}, {\"x\": 7.5583, \"y\": 5.4818}, {\"x\": 0.6244, \"y\": 5.4818}]",
+        "document_part": 0
+    }
+}

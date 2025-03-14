@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "3cd1eb43-fd7f-4de4-9c19-250426d2f924",
+    "element_text": "{\"chunk\": \"FOR THE YEAR ENDED 28 FEBRUARY 2022\\nSTATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS\\nEach of the persons who are directors at the time when this directors' report is approved has confirmed that:\\n- so far as the director is aware, there is no relevant audit information of which the company's auditor is unaware, and\", \"context\": \"This chunk appears within the \\\"Report of the Directors\\\" section of the financial statements for Crown Jewels Consultants Ltd for the year ended 28 February 2022.\"}",
+    "element_metadata": {
+        "page_number": 7,
+        "bounding_box": "[{\"x\": 0.4772, \"y\": 0.9441}, {\"x\": 6.8578, \"y\": 0.9441}, {\"x\": 6.8578, \"y\": 2.0506}, {\"x\": 0.4772, \"y\": 2.0506}]",
+        "document_part": 0
+    }
+}

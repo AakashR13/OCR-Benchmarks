@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "1b77b8fd-7933-4312-b8e8-32f31f901d84",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 |\n|---|---|---|---|\n| Note |  | 30/6 2022 | 30/6 2021 |\n| 5 | F\u00e6rdiggjorte udviklingsprojekter Completed development projects | 8.951.767 | 8.619.354 |\n|  | IMMATERIELLE ANL\u00c6GSAKTIVER INTANGIBLE ASSETS | 8.951.767 | 8.619.354 |\n| 6 | Indretning af lejede lokaler Leasehold improvements | 91.668 | 164.796 |\n| 6 | Andre anl\u00e6g, driftsmateriel og inventar Other fixtures and fittings, tools and equipment | 90.660 | 143.084 |\n|  | MATERIELLE ANL\u00c6GSAKTIVER PROPERTY, PLANT AND EQUIPMENT | 182.328 | 307.880 |\n| 7 | Kapitalandele i tilknyttede virksomheder Investments in group enterprises | 3.103.807 | 5.015.156 |\n| 7 | Andre tilgodehavender Other receivables | 123.920 | 123.920 |\n|  | FINANSIELLE ANL\u00c6GSAKTIVER FIXED ASSET INVESTMENTS | 3.227.727 | 5.139.076 |\n|  | ANL\u00c6GSAKTIVER\nFIXED ASSETS | 12.361.822 | 14.066.310 |",
+    "element_metadata": {
+        "page_number": 20,
+        "bounding_box": "[{\"x\": 0.592, \"y\": 1.5865}, {\"x\": 7.6539, \"y\": 1.5772}, {\"x\": 7.6667, \"y\": 6.4707}, {\"x\": 0.6043, \"y\": 6.4789}]"
+    }
+}

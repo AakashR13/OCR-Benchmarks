@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "036e6c18-8127-4aa5-9246-f56f9c180bed",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| OPERATIONS | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Profit before taxation | 1,959,315 | 858,789 |\n| Depreciation charges | 60,142 | 65,590 |\n| Loss on disposal of fixed assets | 2,150 | - |\n| Share based payment charge | 28,219 | 28,219 |\n| Amounts written off investments |  | 140,346 |\n| Finance costs | 8,674 |  |\n| Dividend and interest income | (12,841) | (180,467) |\n|  | 2,045,659 | 912,477 |\n| Increase in trade and other debtors | (107,396) | (62,002) |\n| Increase/(decrease) in trade and other creditors | 280,516 | (128,910) |\n| Cash generated from operations | 2,218,779 | 721,565 |\n| CASH AND CASH EQUIVALENTS |  |  |\n| The amounts disclosed on the Statement of Cash Flows in respect of cash and cash equivalents are in respect of these Statement of Financial Position amounts: |  |  |\n| Year ended 28 February 2022 |  | 1.3.21 |\n|  | 28.2.22 |  |\n|  | \u00a3 | \u00a3 |\n| Cash and cash equivalents | 3,600,591 | 2,654,639 |\n| Year ended 28 February 2021 |  |  |\n|  | 28.2.21 | 1.3.20 |\n|  | \u00a3 | \u00a3 |\n| Cash and cash equivalents | 2,654,639 | 2,215,696 |\n| Bank overdrafts |  | (70) |\n|  | 2,654,639 | 2,215,626 |",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.8923, \"y\": 1.5749}, {\"x\": 7.7011, \"y\": 1.5819}, {\"x\": 7.6968, \"y\": 6.1759}, {\"x\": 0.886, \"y\": 6.1678}]"
+    }
+}

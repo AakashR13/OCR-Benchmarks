@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "81ef0a63-e63e-4d37-beb0-9c1d1c49e53b",
+    "element_text": "{\"chunk\": \"Penneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\ninforevision\\n13\\nANVENDT REGNSKABSPRAKSIS, fortsat\\nSUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, continued\\nKostprisen p\\u00e5 et samlet aktiv opdeles i separate\\nbestanddele, der afskrives hver for sig, hvis brugstiden p\\u00e5\", \"context\": \"This chunk discusses the accounting policy for amortizing and depreciating property, plant, and equipment assets, specifically that the cost of an asset is divided into separate components that are depreciated individually if their useful lives differ.\"}",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 0.599, \"y\": 0.5126}, {\"x\": 8.1522, \"y\": 0.5126}, {\"x\": 8.1522, \"y\": 11.2427}, {\"x\": 0.599, \"y\": 11.2427}]",
+        "document_part": 0
+    }
+}

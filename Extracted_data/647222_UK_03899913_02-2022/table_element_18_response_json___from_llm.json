@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a financial summary comparing the years 2022 and 2021. It includes figures for profit before tax, tax calculations based on the UK corporation tax rate, and various tax adjustments such as expenses not deductible for tax purposes, income not taxable, capital allowances, and R&D tax credits. The table concludes with the total tax charge for each year.",
+        "table_in_markdown_format": "| Description | 2022 (\u00a3) | 2021 (\u00a3) |\n|---|---|---|\n| Profit before tax | 1,959,315 | 858,789 |\n| Profit multiplied by the standard rate of corporation tax in the UK of 19% | 372,270 | 163,170 |\n| Expenses not deductible for tax purposes | 14,490 | 29,363 |\n| Income not taxable for tax purposes |  | (34,289) |\n| Capital allowances in excess of depreciation | (5,948) |  |\n| Depreciation in excess of capital allowances |  | 4,257 |\n| Impact of overseas tax rates | 28,887 | (60,779) |\n| Tax credit due for R&D expenditure in the year |  | (20,161) |\n| R&D enhancement |  | 11,486 |\n| Total tax charge | 409,699 | 93,047 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the profit before tax in 2022?",
+                "answer": "1,959,315"
+            },
+            {
+                "question": "What was the profit before tax in 2021?",
+                "answer": "858,789"
+            },
+            {
+                "question": "What is the total tax charge for 2022?",
+                "answer": "409,699"
+            },
+            {
+                "question": "What is the total tax charge for 2021?",
+                "answer": "93,047"
+            },
+            {
+                "question": "How much were the expenses not deductible for tax purposes in 2022?",
+                "answer": "14,490"
+            },
+            {
+                "question": "How much were the expenses not deductible for tax purposes in 2021?",
+                "answer": "29,363"
+            },
+            {
+                "question": "What was the impact of overseas tax rates in 2022?",
+                "answer": "28,887"
+            },
+            {
+                "question": "What was the impact of overseas tax rates in 2021?",
+                "answer": "(60,779)"
+            },
+            {
+                "question": "Was there any income not taxable for tax purposes in 2022?",
+                "answer": "No data provided"
+            },
+            {
+                "question": "What was the R&D enhancement in 2021?",
+                "answer": "11,486"
+            }
+        ],
+        "table_type": "Others"
+    }
+]

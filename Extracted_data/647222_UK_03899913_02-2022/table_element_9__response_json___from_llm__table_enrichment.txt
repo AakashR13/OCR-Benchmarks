@@ -1,0 +1,48 @@
+[
+    {
+        "table_description": "The table presents financial data in British Pounds (£) for the years 2022 and 2021 across different regions: United Kingdom, United States of America, and Asia. It includes the total amounts for each region and a grand total for both years.",
+        "table_in_markdown_format": "| Region                  | 2022      | 2021      |\n|-------------------------|-----------|-----------|\n| United Kingdom          | 8,650,874 | 8,564,288 |\n| United States of America| 3,033,392 | 2,695,779 |\n| Asia                    | 2,584,979 | 2,873,128 |\n| **Total**               | 14,269,245| 14,133,195|",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the total amount for the United Kingdom in 2022?",
+                "answer": "8,650,874"
+            },
+            {
+                "question": "How much did the United States of America generate in 2021?",
+                "answer": "2,695,779"
+            },
+            {
+                "question": "Which region had the highest amount in 2022?",
+                "answer": "United Kingdom"
+            },
+            {
+                "question": "What is the total amount for Asia in 2021?",
+                "answer": "2,873,128"
+            },
+            {
+                "question": "What is the combined total for all regions in 2022?",
+                "answer": "14,269,245"
+            },
+            {
+                "question": "Did the United Kingdom's amount increase or decrease from 2021 to 2022?",
+                "answer": "Increase"
+            },
+            {
+                "question": "What was the total amount for all regions in 2021?",
+                "answer": "14,133,195"
+            },
+            {
+                "question": "Which region had the lowest amount in 2021?",
+                "answer": "United States of America"
+            },
+            {
+                "question": "By how much did the total amount for the United States of America increase from 2021 to 2022?",
+                "answer": "337,613"
+            },
+            {
+                "question": "What is the difference in total amounts between 2022 and 2021 for all regions combined?",
+                "answer": "136,050"
+            }
+        ]
+    }
+]

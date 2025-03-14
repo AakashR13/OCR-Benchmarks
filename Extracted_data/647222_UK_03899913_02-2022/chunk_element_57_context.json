@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "5ba352c1-7e51-455d-bebe-6131e3db6db3",
+    "element_text": "{\"chunk\": \"RECONCILIATION OF PROFIT BEFORE TAXATION TO CASH GENERATED FROM\\nOPERATIONS\\n2.\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nProfit before taxation\\n1,959,315\\n858,789\\nDepreciation charges\\n60,142\\n65,590\\nLoss on disposal of fixed assets\\n2,150\\n-\\nShare based payment charge\\n28,219\\n28,219\\nAmounts written off investments\\n140,346\\nFinance costs\\n8,674\\nDividend and interest income\\n(12,841)\\n(180,467)\\n2,045,659\", \"context\": \"This chunk is part of the notes to the financial statements, specifically the notes on the statement of cash flows. It provides a reconciliation of the profit before taxation to the cash generated from operations for the year.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.4924, \"y\": 1.2639}, {\"x\": 7.6598, \"y\": 1.2639}, {\"x\": 7.6598, \"y\": 3.9286}, {\"x\": 0.4924, \"y\": 3.9286}]",
+        "document_part": 0
+    }
+}

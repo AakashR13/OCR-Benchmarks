@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "feddf18d-e952-4b5d-b8ac-befdea7c9bbf",
+    "element_text": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |\n|---|---|---|---|---|---|\n|  | Called up share capital | Retained earnings | Capital redemption reserve | Share option reserve | Total equity |\n|  | \u00a3 | \u00a3 | \u00a3 | \u00a3 |  |\n| Balance at 1 March 2020 | 7,048 | 2,255,866 | 701 | 4,703 | 2,268,318 |\n| Changes in equity |  |  |  |  |  |\n| Dividends |  | (398,816) | - |  | (398,816) |\n| Total comprehensive income |  | 765,742 | 1 |  | 765,742 |\n| Share based payment charge |  |  |  | 28,219 | 28,219 |\n| Balance at 28 February 2021 | 7,048 | 2,622,792 | 701 | 32,922 | 2,663,463 |\n| Changes in equity |  |  |  |  |  |\n| Purchase of own shares | (1,052) | (917,248) | 1,052 | I | (917,248) |\n| Dividends | 1 | (250,862) |  |  | (250,862) |\n| Total comprehensive income | 1 | 1,549,616 | 1 |  | 1,549,616 |\n| Share based payment charge |  |  |  | 28,219 | 28,219 |\n| Balance at 28 February 2022 | 5,996 | 3,004,298 | 1,753 | 61,141 | 3,073,188 |",
+    "element_metadata": {
+        "page_number": 14,
+        "bounding_box": "[{\"x\": 0.4445, \"y\": 1.24}, {\"x\": 7.8139, \"y\": 1.2394}, {\"x\": 7.8144, \"y\": 4.2792}, {\"x\": 0.4431, \"y\": 4.2778}]"
+    }
+}

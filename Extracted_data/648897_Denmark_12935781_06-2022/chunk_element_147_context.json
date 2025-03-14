@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "6ceda959-8718-41df-b990-85b9fa91f693",
+    "element_text": "{\"chunk\": \"2021/22\\n2020/21\\nReserve for nettoopskrivning efter den indre v\\u00e6rdis metode\\nReserve for net revaluation according to equity method\\n0\\n0\\nReserve for udviklingsomkostninger\\nReserve for capitalised development costs\\n259.282\\n188.577\\nForslag til udbytte for regnskabs\\u00e5ret\\nProposed dividends for the financial year\\n8.000.000\\n6.500.000\\nOverf\\u00f8rt resultat\\n49.379\", \"context\": \"This chunk is part of the \\\"Statement of changes in equity\\\" section of the annual report, which details the changes in the company's equity during the 2021/22 and 2020/21 financial years.\"}",
+    "element_metadata": {
+        "page_number": 19,
+        "bounding_box": "[{\"x\": 1.0355, \"y\": 7.2583}, {\"x\": 7.5735, \"y\": 7.2583}, {\"x\": 7.5735, \"y\": 8.6998}, {\"x\": 1.0355, \"y\": 8.6998}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "fd6d9455-8b41-4692-83f4-a3ad81599e53",
+    "element_text": "| Column 1 | Column 2 |\n|---|---|\n|  | Deferred tax |\n|  | \u00a3 |\n| Balance at 1 March 2021 | (6,733) |\n| Share based payments | (5,362) |\n| Unutilised tax losses | 8,449 |\n| Accelerated capital allowances | 20,457 |\n| Balance at 28 February 2022 | 16,811 |",
+    "element_metadata": {
+        "page_number": 27,
+        "bounding_box": "[{\"x\": 0.8951, \"y\": 2.0029}, {\"x\": 7.7004, \"y\": 2.0075}, {\"x\": 7.7056, \"y\": 3.3628}, {\"x\": 0.8998, \"y\": 3.3591}]"
+    }
+}

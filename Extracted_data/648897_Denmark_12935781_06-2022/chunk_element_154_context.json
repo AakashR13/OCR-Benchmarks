@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "d031b8a0-28da-4219-91cd-78203a718744",
+    "element_text": "{\"chunk\": \"Penneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\ninforevision\\n20\\nBALANCE PR. 30. JUNI 2022\\nBALANCE SHEET AT 30 JUNE 2022\\nPASSIVER\\nEQUITY AND LIABILITIES\\nNote\\n30/6 2022\\n30/6 2021\\nVirksomhedskapital\\nShare capital\\n500.000\\n500.000\", \"context\": \"This chunk is part of the balance sheet section of the financial statements for Bruhn Newtech A/S, showing the equity and liabilities of the company as of June 30, 2022 and the previous year.\"}",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 0.5177}, {\"x\": 8.1522, \"y\": 0.5177}, {\"x\": 8.1522, \"y\": 11.2478}, {\"x\": 0.6091, \"y\": 11.2478}]",
+        "document_part": 0
+    }
+}

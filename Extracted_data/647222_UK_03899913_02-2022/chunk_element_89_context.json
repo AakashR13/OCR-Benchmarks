@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "33e3e096-1aee-4b77-91a5-ec629b431681",
+    "element_text": "{\"chunk\": \"2021\\n\\u00a3\\n\\u00a3\\nAmounts written off investments\\n140,346\\n9.\\nINTEREST PAYABLE AND SIMILAR EXPENSES\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nBank loan interest\\n7,921\\nI\\nInterest and penalties on US tax\\n753\\n-\\n8,674\\n-\\n10.\\nTAXATION\\nAnalysis of the tax charge\\nThe tax charge on the profit for the year was as follows:\\n2022\\n2021\\n\\u00a3\\n48\\nCurrent tax:\\nUK corporation tax\\n6,045\\n(20,161)\\nHong Kong corporation tax\\n5,807\", \"context\": \"This chunk contains information about:\\n- Amounts written off investments in 2021\\n- Interest payable and similar expenses, including bank loan interest and interest/penalties on US tax, in 2022 and 2021\\n- Analysis of the tax charge, including current tax for UK, Hong Kong, and other jurisdictions, in 2022 and 2021\"}",
+    "element_metadata": {
+        "page_number": 22,
+        "bounding_box": "[{\"x\": 0.4924, \"y\": 1.4364}, {\"x\": 7.6598, \"y\": 1.4364}, {\"x\": 7.6598, \"y\": 4.5783}, {\"x\": 0.4924, \"y\": 4.5783}]",
+        "document_part": 0
+    }
+}

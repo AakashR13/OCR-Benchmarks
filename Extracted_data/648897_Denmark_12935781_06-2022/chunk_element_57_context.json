@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "484a5443-5b6c-46d6-bc04-9654c7f5c755",
+    "element_text": "{\"chunk\": \"inkonsistent med \\u00e5rsregnskabet eller vores viden opn\\u00e5et\\nved revisionen eller p\\u00e5 anden m\\u00e5de synes at indeholde\\nv\\u00e6sentlig fejlinformation.\\nVores ansvar er derudover at overveje, om\\nledelsesberetningen indeholder kr\\u00e6vede oplysninger i\\nhenhold til \\u00e5rsregnskabsloven.\", \"context\": \"This chunk is from the \\\"Independent auditor's audit report\\\" section, where the auditor discusses their responsibilities regarding the management's review (or management's report) and whether it is consistent with the financial statements and the auditor's knowledge obtained during the audit.\"}",
+    "element_metadata": {
+        "page_number": 9,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 4.9133}, {\"x\": 3.8122, \"y\": 4.9133}, {\"x\": 3.8122, \"y\": 6.3345}, {\"x\": 0.6041, \"y\": 6.3345}]",
+        "document_part": 0
+    }
+}

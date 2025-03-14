@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "f3b36bc7-7d60-4fd4-b4cf-eaec5d97ebde",
+    "element_text": "{\"chunk\": \"opn\\u00e5et frem til datoen for vores revisionsp\\u00e5tegning.\\nFremtidige begivenheder eller forhold kan dog medf\\u00f8re,\\nat selskabet ikke l\\u00e6ngere kan forts\\u00e6tte driften.\\n* Tager vi stilling til den samlede pr\\u00e6sentation, struktur\\nog indhold af \\u00e5rsregnskabet, herunder noteoplysningerne,\", \"context\": \"This chunk is part of the independent auditor's report, specifically in the section describing the auditor's responsibilities for the audit of the financial statements.\"}",
+    "element_metadata": {
+        "page_number": 8,
+        "bounding_box": "[{\"x\": 0.6142, \"y\": 7.8471}, {\"x\": 3.8984, \"y\": 7.8471}, {\"x\": 3.8984, \"y\": 9.0957}, {\"x\": 0.6142, \"y\": 9.0957}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,49 @@
+[
+    {
+        "table_description": "The table provides a financial overview of a company for the periods ending on June 30, 2022, and June 30, 2021. It includes details on share capital, reserves for development expenditure, retained earnings, proposed dividends, equity, provisions for deferred tax, long-term liabilities, trade payables, payables to group enterprises, joint tax contribution payables, other payables, deferred income, short-term liabilities, and total equity and liabilities.",
+        "table_in_markdown_format": "| Description | 30/6 2022 | 30/6 2021 |\n|---|---|---|\n| Share capital | 500,000 | 500,000 |\n| Reserve for development expenditure | 6,982,378 | 6,723,096 |\n| Retained earnings | 650,771 | 283,539 |\n| Proposed dividends for the financial year | 8,000,000 | 6,500,000 |\n| EQUITY | 16,133,149 | 14,006,635 |\n| Provision for deferred tax | 2,012,472 | 1,919,658 |\n| LONG-TERM LIABILITIES OTHER THAN PROVISIONS | 0 | 0 |\n| Trade payables | 928,031 | 590,599 |\n| Payables to group enterprises | 1,237,748 | 4,649,258 |\n| Joint tax contribution payables | 1,815,892 | 1,166,871 |\n| Other payables | 1,110,290 | 2,800,747 |\n| Deferred income | 8,683,733 | 6,317,140 |\n| SHORT-TERM LIABILITIES OTHER THAN PROVISIONS | 13,775,694 | 15,524,615 |\n| TOTAL EQUITY AND LIABILITIES | 31,921,315 | 31,450,908 |",
+        "q_and_a__pairs": [
+            {
+                "question": "What was the share capital on June 30, 2022?",
+                "answer": "500,000"
+            },
+            {
+                "question": "How much was reserved for development expenditure on June 30, 2021?",
+                "answer": "6,723,096"
+            },
+            {
+                "question": "What were the retained earnings on June 30, 2022?",
+                "answer": "650,771"
+            },
+            {
+                "question": "What is the proposed dividend for the financial year ending June 30, 2022?",
+                "answer": "8,000,000"
+            },
+            {
+                "question": "What was the total equity on June 30, 2021?",
+                "answer": "14,006,635"
+            },
+            {
+                "question": "How much was the provision for deferred tax on June 30, 2022?",
+                "answer": "2,012,472"
+            },
+            {
+                "question": "What were the trade payables on June 30, 2021?",
+                "answer": "590,599"
+            },
+            {
+                "question": "How much were the payables to group enterprises on June 30, 2022?",
+                "answer": "1,237,748"
+            },
+            {
+                "question": "What was the amount for deferred income on June 30, 2022?",
+                "answer": "8,683,733"
+            },
+            {
+                "question": "What was the total equity and liabilities on June 30, 2021?",
+                "answer": "31,450,908"
+            }
+        ],
+        "table_type": "Balance Sheet"
+    }
+]

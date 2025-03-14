@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "7d0ca756-a2b9-4c5c-811a-f9299e33bc77",
+    "element_text": "{\"chunk\": \"retlig eller faktisk forpligtelse til at d\\u00e6kke den\\np\\u00e5g\\u00e6ldende virksomheds forpligtelser.\\nAndre tilgodehavender, der er anl\\u00e6gsaktiver\\nAndre tilgodehavender indregnet under anl\\u00e6gsaktiver\\nomfatter lejedeposita, som er m\\u00e5lt til amortiseret\", \"context\": \"The chunk is discussing the accounting treatment of other receivables that are classified as fixed assets, specifically lease deposits measured at amortized cost.\"}",
+    "element_metadata": {
+        "page_number": 16,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 6.3649}, {\"x\": 3.6954, \"y\": 6.3649}, {\"x\": 3.6954, \"y\": 7.6389}, {\"x\": 0.6041, \"y\": 7.6389}]",
+        "document_part": 0
+    }
+}

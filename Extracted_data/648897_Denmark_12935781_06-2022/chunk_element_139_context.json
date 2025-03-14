@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "00da690f-d05c-4a70-a38e-117433c7019e",
+    "element_text": "{\"chunk\": \"underskud indg\\u00e5r i opg\\u00f8relsen af den udskudte skat,\\ns\\u00e5fremt det er sandsynligt, at underskuddene kan\\nudnyttes.\\nThe tax-based values of tax losses carried forward are\\nincluded in the statement of deferred tax if it is probable\\nthat the losses can be utilised.\\nUdskudte skatteaktiver som ikke forventes udnyttet inden\", \"context\": \"The chunk is discussing the accounting treatment of deferred tax assets related to tax losses carried forward, stating that they are recognized in the statement of deferred tax if it is probable that the losses can be utilized, and that deferred tax assets not expected to be utilized within a shorter period are disclosed as contingent assets.\"}",
+    "element_metadata": {
+        "page_number": 18,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 5.1214}, {\"x\": 7.4517, \"y\": 5.1214}, {\"x\": 7.4517, \"y\": 6.1771}, {\"x\": 0.6091, \"y\": 6.1771}]",
+        "document_part": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "70d6cfbf-d85a-48e1-9c51-3a59a441b8e6",
+    "element_text": "{\"chunk\": \"2022-10-20 06:22:52 UTC\\nNEM ID\\nIP: 109.58.xxx.xxx\\n2022-10-20 08:25:30 UTC\\nNEM ID\\nPenneo dokumentn\\u00f8gle: BAWDF-7SQ1U-5DQE2-U45EP-KSJX6-AVFYT\\nDette dokument er underskrevet digitalt via Penneo.com. Signeringsbeviserne i\", \"context\": \"This chunk appears to be related to the digital signing of the document using the Penneo e-signature service. It provides information about the timestamp, IP address, and Penneo document key used in the signing process.\"}",
+    "element_metadata": {
+        "page_number": 31,
+        "bounding_box": "[{\"x\": 0.36, \"y\": 4.2028}, {\"x\": 8.1524, \"y\": 4.2028}, {\"x\": 8.1524, \"y\": 10.3675}, {\"x\": 0.36, \"y\": 10.3675}]",
+        "document_part": 0
+    }
+}

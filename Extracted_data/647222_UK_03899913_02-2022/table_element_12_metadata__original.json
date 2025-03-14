@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "f98a5304-7cce-4cd8-bddc-8e0e325bb515",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| The average number of employees during the year was a | follows: 2022 | 2021 |\n| Directors Employees: | 3 | 4 |\n|  |  |  |\n| Operations | 60 | 62 |\n| Engineering | 18 | 15 |\n| Sales & Marketing | 7 | 7 |\n| Administration | 18 | 16 |\n| Total | 106 | 104 |",
+    "element_metadata": {
+        "page_number": 21,
+        "bounding_box": "[{\"x\": 0.8961, \"y\": 4.0611}, {\"x\": 7.6922, \"y\": 4.0655}, {\"x\": 7.6922, \"y\": 5.5874}, {\"x\": 0.895, \"y\": 5.584}]"
+    }
+}

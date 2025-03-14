@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "0ce270b2-ac00-4292-904c-2305a4207ae2",
+    "element_text": "{\"chunk\": \"Directors' remuneration\\n22,887\\n32,040\\nDuring the year, there were no retirement benefits accruing to the company directors in respect of defined contribution\\nschemes (2021 : \\u00a3Nil).\\n7.\\nOPERATING PROFIT\\nThe operating profit is stated after charging/(crediting):\\n2022\\n2021\\n\\u00a3\\n\\u00a3\\nDepreciation - owned assets\\n60,142\\n65,590\\nLoss on disposal of fixed assets\\n2,150\\n19,000\\nAuditors' remuneration\\n23,000\\nShare-based payments\", \"context\": \"This chunk provides details on the directors' remuneration and the operating profit of the company, including information on depreciation, fixed asset disposals, auditor's fees, and share-based payments.\"}",
+    "element_metadata": {
+        "page_number": 21,
+        "bounding_box": "[{\"x\": 0.5076, \"y\": 6.1365}, {\"x\": 7.7715, \"y\": 6.1365}, {\"x\": 7.7715, \"y\": 8.4866}, {\"x\": 0.5076, \"y\": 8.4866}]",
+        "document_part": 0
+    }
+}

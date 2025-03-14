@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "329d8927-2137-4f16-97ad-09a5778cada3",
+    "element_text": "{\"chunk\": \"Dividends received\\n180,467\\nNet cash from investing activities\\n(158,187)\\n131,242\\nCash flows from financing activities\\nNew loans in year\\n250,000\\n1\\nShare buyback\\n(917,248)\\nShare capital paid up\\n350\\n1\\nEquity dividends paid\\n(250,862)\\n(398,816)\\nNet cash from financing activities\\n(917,760)\\n(398,816)\\nIncrease in cash and cash equivalents\\n945,952\\n439,013\\nCash and cash equivalents at beginning of\\nyear\\n2\", \"context\": \"This chunk provides information on the company's cash flows, including dividends received, investments, new loans, share buybacks, and dividends paid, as well as the overall increase in cash and cash equivalents over the year.\"}",
+    "element_metadata": {
+        "page_number": 15,
+        "bounding_box": "[{\"x\": 0.4822, \"y\": 3.1571}, {\"x\": 7.6649, \"y\": 3.1571}, {\"x\": 7.6649, \"y\": 5.2077}, {\"x\": 0.4822, \"y\": 5.2077}]",
+        "document_part": 0
+    }
+}

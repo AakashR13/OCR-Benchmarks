@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "018a285b-5630-473d-bc8c-b8c78d079c82",
+    "element_text": "{\"chunk\": \"The amount recognised as a provision is the best estimate of the consideration required to settle the present obligation at the\\nend of the reporting period, taking into account the risks and uncertainties surrounding the obligation.\\nEmployee Benefits\\nThe company has provided for annual leave accrued by employees as a result of services rendered in the current period, and\\nwhich employees are entitled to carry forward and use within the next twelve months. The provision is measured at the salary\\ncost payable for the period of absence.\", \"context\": \"The chunk describes the company's accounting policies for provisions and employee benefits, specifically relating to the measurement of provisions and the accrual of annual leave.\"}",
+    "element_metadata": {
+        "page_number": 20,
+        "bounding_box": "[{\"x\": 0.9238, \"y\": 3.6088}, {\"x\": 7.7766, \"y\": 3.6088}, {\"x\": 7.7766, \"y\": 4.7052}, {\"x\": 0.9238, \"y\": 4.7052}]",
+        "document_part": 0
+    }
+}

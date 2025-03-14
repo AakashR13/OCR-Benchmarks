@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "7e147545-5d56-4639-a839-dfe6249e928c",
+    "element_text": "{\"chunk\": \"\\u00c5rsrapporten er aflagt i overensstemmelse med\\n\\u00e5rsregnskabsloven.\\nThe annual report has been prepared in accordance with\\nthe Danish Financial Statements Act.\\nDet er vor opfattelse, at \\u00e5rsregnskabet giver et retvisende\\nbillede af selskabets aktiver, passiver og finansielle stilling\\npr. 30. juni 2022 samt af resultatet af selskabets\", \"context\": \"This chunk is from the Statement by Management on the annual report. It describes that the annual report has been prepared in accordance with the Danish Financial Statements Act and that the financial statements give a true and fair view of the company's financial position and results.\"}",
+    "element_metadata": {
+        "page_number": 5,
+        "bounding_box": "[{\"x\": 0.6041, \"y\": 2.1673}, {\"x\": 7.4669, \"y\": 2.1673}, {\"x\": 7.4669, \"y\": 3.2383}, {\"x\": 0.6041, \"y\": 3.2383}]",
+        "document_part": 0
+    }
+}

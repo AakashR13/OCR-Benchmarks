@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "4ff6433c-eac0-4071-a145-df87a119eee6",
+    "element_text": "{\"chunk\": \"selskabet i overensstemmelse med International Ethics\\nStandards Board for Accountants' internationale\\nretningslinjer for revisorers etiske adf\\u00e6rd (IESBA Code) og\\nde yderligere etiske krav, der er g\\u00e6ldende i Danmark,\\nligesom vi har opfyldt vores \\u00f8vrige etiske forpligtelser i\", \"context\": \"This chunk appears in the section of the document describing the basis for the auditor's opinion, where the auditor states that they are independent of the company in accordance with the relevant ethical requirements.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 0.6091, \"y\": 6.5883}, {\"x\": 3.8934, \"y\": 6.5883}, {\"x\": 3.8934, \"y\": 7.4613}, {\"x\": 0.6091, \"y\": 7.4613}]",
+        "document_part": 0
+    }
+}

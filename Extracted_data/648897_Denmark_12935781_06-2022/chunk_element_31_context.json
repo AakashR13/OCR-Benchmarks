@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "cff54805-9f85-4321-ad29-0d8744f59ffb",
+    "element_text": "{\"chunk\": \"We conducted our audit in accordance with international\\nStandards on Auditing (ISAs) and the additional\\nrequirements applicable in Denmark. Our responsibilities\\nunder those standards and requirements are further\\ndescribed in the \\\"Auditor's Responsibilities for the Audit\\nof the Financial Statements\\\" section of our report. We\\nare independent of the company in accordance with the\\nInternational Ethics Standards Board for Accountants'\\nCode of Ethics for Professional\\nAccountants (IESBA Code) and the additional\\nrequirements applicable in Denmark, and we have\", \"context\": \"This chunk is part of the \\\"Independent auditor's audit report\\\" section of the annual report, which describes the auditor's responsibilities and independence in conducting the audit.\"}",
+    "element_metadata": {
+        "page_number": 6,
+        "bounding_box": "[{\"x\": 4.2792, \"y\": 5.4919}, {\"x\": 7.4974, \"y\": 5.4919}, {\"x\": 7.4974, \"y\": 7.4562}, {\"x\": 4.2792, \"y\": 7.4562}]",
+        "document_part": 0
+    }
+}

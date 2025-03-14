@@ -1,0 +1,9 @@
+{
+    "element_type": "Table",
+    "element_id": "016de597-974d-4d60-af3f-ba474b0b9fac",
+    "element_text": "| Column 1 | Column 2 | Column 3 |\n|---|---|---|\n| OPERATING INCOME | 2022 | 2021 |\n|  | \u00a3 | \u00a3 |\n| Sundry receipts | 206 | 50,000 |\n| Government grants | 18,939 | 144,724 |\n|  | 19,145 | 194,724 |",
+    "element_metadata": {
+        "page_number": 21,
+        "bounding_box": "[{\"x\": 0.9062, \"y\": 1.4038}, {\"x\": 7.6898, \"y\": 1.4064}, {\"x\": 7.6915, \"y\": 2.2603}, {\"x\": 0.9067, \"y\": 2.2583}]"
+    }
+}

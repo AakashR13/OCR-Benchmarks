@@ -1,0 +1,10 @@
+{
+    "element_type": "Chunk",
+    "element_id": "a3086690-ddc8-462b-83bc-36880637be99",
+    "element_text": "{\"chunk\": \"EGENKAPITALOPG\\u00d8RELSE\\nStatement of changes in equity\\nVirksom-\\nhedskapital\\nShare\\ncapital\\nReserve for\\nudviklings-\\nomkostninger\\nReserve for\\ndevelopment\\nexpenditure\\nOverf\\u00f8rt\\nresultat\\nRetained\\nearnings\\nForesl\\u00e5et\\nudbytte\\nProposed\\ndividends\\nI ALT\\nTOTAL\\nEgenkapital pr. 1/7 2020\\n500.000\\n6.534.519\\n320.837\\n2.700.000\", \"context\": \"This chunk represents the opening equity position of the company as of July 1, 2020, showing the share capital, reserves, retained earnings, and proposed dividends for that year.\"}",
+    "element_metadata": {
+        "page_number": 23,
+        "bounding_box": "[{\"x\": 0.5989, \"y\": 0.5076}, {\"x\": 10.192, \"y\": 0.5076}, {\"x\": 10.192, \"y\": 2.7005}, {\"x\": 0.5989, \"y\": 2.7005}]",
+        "document_part": 0
+    }
+}
