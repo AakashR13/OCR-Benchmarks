@@ -8,6 +8,7 @@ import fitz  # PyMuPDF
 from PIL import Image
 import io
 from mistralai import Mistral
+from pyzerox import zerox
 
 load_dotenv()
 llmf_key = os.getenv("llmf-key")
@@ -130,6 +131,7 @@ def image_to_base64(image):
 #     return all_content, response_time, input_tokens+output_tokens
 
 def ocr_mistral(pdf_file):
+    start_time = time.time()
     client = Mistral(api_key = mistral_key)
     uploaded_pdf = client.files.upload(
         file= {
@@ -147,8 +149,11 @@ def ocr_mistral(pdf_file):
         "document_url": signed_url.url,
     }
     )
-    result = ocr_response.json()
-    print(result)
+    result = ocr_response.model_dump()
+    concatenated_text = "\n\n".join(page["markdown"] for page in result["pages"])
+    processing_time = time.time() - start_time
+    return concatenated_text, processing_time
+
 def load_pdfs(pdf_dir):
     """Load all PDF file paths from the given directory."""
     pdf_paths = glob.glob(os.path.join(pdf_dir, "*.pdf"))

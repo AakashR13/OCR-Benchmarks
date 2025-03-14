@@ -1,9 +1,46 @@
-OCR Comparison Results:
+OCR Comparison & Statistics Report
 
-Readability: (19.1, 17.7)
-Lexical Similarity: 0.6287318481103996
-Structural Similarity: 0.6059574276179309
-Coherence: (94.05263157894737, 68.81739130434782)
-Better Text: File 2
+=== Individual File Statistics ===
 
-Based on readability and coherence, File 2 is likely more accurate.
+File: gpt4_content.txt
+  Word Count: 5331
+  Avg. Word Size: 5.20763867838739
+  Readability: 19.1
+  Coherence: 93.52631578947368
+  Dictionary Validity: 0.7969081539860564
+  N-Gram Accuracy: 0.1565025716385011
+  Sentiment: {'Polarity': 0.07786193338824916, 'Subjectivity': 0.3246771941508783}
+
+File: azure_content.txt
+  Word Count: 7914
+  Avg. Word Size: 5.208380704888745
+  Readability: 17.7
+  Coherence: 68.81739130434782
+  Dictionary Validity: 0.8237778138703914
+  N-Gram Accuracy: 0.15134061569016882
+  Sentiment: {'Polarity': 0.06894026592856999, 'Subjectivity': 0.3398381551305531}
+
+File: mistral_content.txt
+  Word Count: 9498
+  Avg. Word Size: 5.245091623036649
+  Readability: 15.9
+  Coherence: 81.87931034482759
+  Dictionary Validity: 0.8241164921465969
+  N-Gram Accuracy: 0.14565175285686616
+  Sentiment: {'Polarity': 0.07138985744044112, 'Subjectivity': 0.35131294235379873}
+
+=== Comparisons Between Files ===
+
+Best Word Count: mistral_content.txt
+Worst Word Count: gpt4_content.txt
+Best Avg. Word Size: mistral_content.txt
+Worst Avg. Word Size: gpt4_content.txt
+Best Readability: gpt4_content.txt
+Worst Readability: mistral_content.txt
+Best Coherence: gpt4_content.txt
+Worst Coherence: azure_content.txt
+Best Dictionary Validity: mistral_content.txt
+Worst Dictionary Validity: gpt4_content.txt
+Best N-Gram Accuracy: gpt4_content.txt
+Worst N-Gram Accuracy: mistral_content.txt
+Sentiment: {'Polarity': 'gpt4_content.txt', 'Subjectivity': 'mistral_content.txt'}
