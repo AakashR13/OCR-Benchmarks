@@ -9,6 +9,7 @@ from PIL import Image
 import io
 from mistralai import Mistral
 from pyzerox import zerox
+import boto3
 
 load_dotenv()
 llmf_key = os.getenv("llmf-key")
@@ -130,29 +131,48 @@ def image_to_base64(image):
 #         return "OCR failed", 0 , 0
 #     return all_content, response_time, input_tokens+output_tokens
 
-def ocr_mistral(pdf_file):
-    start_time = time.time()
-    client = Mistral(api_key = mistral_key)
-    uploaded_pdf = client.files.upload(
-        file= {
-            "file_name" : "pdf_file",
-            "content" : open(pdf_file, "rb"),
-        },
-        purpose = 'ocr'
-    )
-    signed_url = client.files.get_signed_url(file_id=uploaded_pdf.id)
+# def ocr_mistral(pdf_file):
+#     start_time = time.time()
+#     client = Mistral(api_key = mistral_key)
+#     uploaded_pdf = client.files.upload(
+#         file= {
+#             "file_name" : "pdf_file",
+#             "content" : open(pdf_file, "rb"),
+#         },
+#         purpose = 'ocr'
+#     )
+#     signed_url = client.files.get_signed_url(file_id=uploaded_pdf.id)
 
-    ocr_response = client.ocr.process(
-    model="mistral-ocr-latest",
-    document={
-        "type": "document_url",
-        "document_url": signed_url.url,
-    }
+#     ocr_response = client.ocr.process(
+#     model="mistral-ocr-latest",
+#     document={
+#         "type": "document_url",
+#         "document_url": signed_url.url,
+#     }
+#     )
+#     result = ocr_response.model_dump()
+#     concatenated_text = "\n\n".join(page["markdown"] for page in result["pages"])
+#     processing_time = time.time() - start_time
+#     return concatenated_text, processing_time
+
+def ocr_aws_textract(pdf_file):
+    start_time = time.time()
+    textract = boto3.client(
+        "textract",
+        aws_access_key_id=aws_access_key,
+        aws_secret_access_key=aws_secret_key,
+        region_name="us-east-1"  # Change based on your AWS region
     )
-    result = ocr_response.model_dump()
-    concatenated_text = "\n\n".join(page["markdown"] for page in result["pages"])
+    
+    with open(pdf_file, "rb") as file:
+        response = textract.analyze_document(
+            Document={"Bytes": file.read()},
+            FeatureTypes=["TABLES", "FORMS"]
+        )
+    
+    extracted_text = "\n".join([block["Text"] for block in response["Blocks"] if block["BlockType"] == "LINE"])
     processing_time = time.time() - start_time
-    return concatenated_text, processing_time
+    return extracted_text, processing_time, 0   
 
 def load_pdfs(pdf_dir):
     """Load all PDF file paths from the given directory."""
@@ -160,5 +180,5 @@ def load_pdfs(pdf_dir):
     return pdf_paths
 
 pdfs = load_pdfs("./pdfs")
-result = ocr_mistral(pdfs[0])
+result = ocr_aws_textract(pdfs[0])
 print(result)

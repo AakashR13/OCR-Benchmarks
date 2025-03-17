@@ -17,12 +17,12 @@
         - Compare with a dictionary and/or language model to score based off of fluency and coherency
 
 - Models:
-    - OmniAi
-    - Gemini 2.0 Flash
-    - Azure
-    - GPT-4o
-    - AWS Textract
-    - Mistral OCR
+    - OmniAi            - Verification Issue
+    - Gemini 2.0 Flash  - Image Conversion
+    - Azure             - Works
+    - GPT-4o            - Image Conversion
+    - AWS Textract      - Account Issue
+    - Mistral OCR       - Works
 
 - Extra:
     - Try OmniParser to test bounding boxes for pdfs
@@ -38,54 +38,3 @@
     - Concentrate on financial Data
     - Drop Image Testing
     - Convert to Images then pdfs?
-
-
-
-
-# Model Setup
-# 2
-    # uploaded_pdf = client.files.upload(
-    # file={
-    #     "file_name": "Extracted_data/647222_UK_03899913_02-2022.pdf",
-    #     "content": open("Extracted_data/647222_UK_03899913_02-2022.pdff", "rb"),
-    # },
-    # purpose="ocr"
-    # )  
-    # client.files.retrieve(file_id=uploaded_pdf.id)
-#------------------------------------------------------------------------#
-# MISTRAL-OCR
-# api_key = os.environ["MISTRAL_API_KEY"]
-# client = Mistral(api_key=api_key)
-
-# uploaded_pdf = client.files.upload(
-#     file={
-#         "file_name": "uploaded_file.pdf",
-#         "content": open("uploaded_file.pdf", "rb"),
-#     },
-#     purpose="ocr"
-# )  
-
-# client.files.retrieve(file_id=uploaded_pdf.id)
-#------------------------------------------------------------------------#
-# OMNIAI-OCR
-# url = "https://api.getomni.ai/extract"
-# headers = {
-#     "x-api-key": "<your-api-key>",
-#     "Content-Type": "application/json"
-# }
-# payload = {
-#     "url": "<file-url>",
-#     "templateId": "<template-id>",
-# }
-
-# response = requests.request("POST", url, json=payload, headers=headers)
-#------------------------------------------------------------------------#
-# Gemini 2.0 Flash
-# response = requests.post(
-#     "https://llmfoundry.straive.com/gemini/v1beta/openai/chat/completions",
-#     headers={"Authorization": f"Bearer {os.environ['LLMFOUNDRY_TOKEN']}:my-test-project"},
-#     json={"model": "gemini-1.5-flash-8b", "messages": [{"role": "user", "content": "What is 2 + 2"}]}
-# )
-# print(response.json())
-#------------------------------------------------------------------------#
-# gpt-4o
